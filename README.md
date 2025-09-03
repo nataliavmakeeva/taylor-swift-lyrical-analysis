@@ -38,3 +38,7 @@ MIT License - see LICENSE file
 ```bash
 git clone https://github.com/nataliavmakeeva/taylor-swift-lyrical-analysis
 pip install -r requirements.txt
+# Navigate to research folder
+cd research
+# Open Jupyter notebooks
+jupyter notebook
