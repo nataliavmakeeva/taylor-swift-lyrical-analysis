@@ -1,0 +1,3214 @@
+Corrected Diarization Results
+Audio: podcast.wav
+Created: 2025-08-22 11:07:43
+Speakers: Jason Kelsey, Travis Kelsey, Taylor Swift
+Total segments: 3207
+============================================================
+
+   0.03s -    0.32s ( 0.29s): Jason Kelsey
+   0.91s -    2.33s ( 1.42s): Jason Kelsey
+   3.30s -    8.99s ( 5.69s): Jason Kelsey
+   9.24s -   13.14s ( 3.90s): Taylor Swift
+  10.56s -   11.12s ( 0.56s): Jason Kelsey
+  11.59s -   12.42s ( 0.83s): Jason Kelsey
+  13.14s -   18.71s ( 5.57s): Jason Kelsey
+  15.18s -   15.20s ( 0.02s): Taylor Swift
+  15.20s -   16.53s ( 1.33s): Taylor Swift
+  17.80s -   22.36s ( 4.56s): Taylor Swift
+  22.36s -   22.76s ( 0.40s): Jason Kelsey
+  22.39s -   22.64s ( 0.25s): Taylor Swift
+  22.76s -   23.03s ( 0.27s): Taylor Swift
+  23.03s -   26.27s ( 3.24s): Jason Kelsey
+  26.31s -   31.03s ( 4.72s): Travis Kelsey
+  34.29s -   53.42s (19.14s): Travis Kelsey
+  38.10s -   38.35s ( 0.25s): Jason Kelsey
+  38.35s -   38.64s ( 0.29s): Taylor Swift
+  38.64s -   38.67s ( 0.03s): Jason Kelsey
+  38.67s -   38.83s ( 0.15s): Taylor Swift
+  38.83s -   38.98s ( 0.15s): Jason Kelsey
+  44.72s -   45.04s ( 0.32s): Jason Kelsey
+  50.37s -   51.03s ( 0.66s): Jason Kelsey
+  53.61s -   64.97s (11.36s): Travis Kelsey
+  56.51s -   56.55s ( 0.03s): Jason Kelsey
+  65.64s -   70.30s ( 4.66s): Travis Kelsey
+  70.30s -   75.75s ( 5.45s): Jason Kelsey
+  76.37s -   76.69s ( 0.32s): Jason Kelsey
+  77.20s -   79.14s ( 1.94s): Jason Kelsey
+  77.30s -   77.94s ( 0.64s): Travis Kelsey
+  79.75s -   88.44s ( 8.69s): Jason Kelsey
+  89.28s -   92.61s ( 3.32s): Jason Kelsey
+  92.76s -   94.51s ( 1.75s): Jason Kelsey
+  94.67s -   99.15s ( 4.49s): Travis Kelsey
+  99.66s -  151.28s (51.62s): Jason Kelsey
+ 129.55s -  129.65s ( 0.10s): Taylor Swift
+ 129.65s -  129.80s ( 0.15s): Taylor Swift
+ 129.80s -  129.93s ( 0.13s): Travis Kelsey
+ 129.95s -  130.02s ( 0.07s): Travis Kelsey
+ 140.55s -  141.29s ( 0.74s): Travis Kelsey
+ 141.73s -  141.75s ( 0.02s): Travis Kelsey
+ 141.75s -  142.20s ( 0.46s): Taylor Swift
+ 142.62s -  143.03s ( 0.41s): Travis Kelsey
+ 143.03s -  143.05s ( 0.02s): Taylor Swift
+ 143.05s -  143.25s ( 0.20s): Travis Kelsey
+ 143.55s -  143.97s ( 0.42s): Travis Kelsey
+ 143.97s -  145.04s ( 1.06s): Taylor Swift
+ 145.04s -  145.38s ( 0.34s): Travis Kelsey
+ 151.64s -  154.45s ( 2.82s): Jason Kelsey
+ 154.59s -  160.48s ( 5.89s): Jason Kelsey
+ 160.66s -  161.17s ( 0.51s): Jason Kelsey
+ 162.27s -  163.01s ( 0.74s): Jason Kelsey
+ 163.01s -  163.03s ( 0.02s): Taylor Swift
+ 163.20s -  163.30s ( 0.10s): Taylor Swift
+ 163.30s -  163.97s ( 0.68s): Jason Kelsey
+ 163.97s -  170.35s ( 6.38s): Taylor Swift
+ 167.26s -  167.30s ( 0.03s): Taylor Swift
+ 167.30s -  167.97s ( 0.67s): Travis Kelsey
+ 167.97s -  168.04s ( 0.07s): Taylor Swift
+ 168.04s -  168.97s ( 0.93s): Jason Kelsey
+ 168.97s -  169.03s ( 0.07s): Taylor Swift
+ 169.03s -  170.03s ( 1.00s): Jason Kelsey
+ 170.35s -  171.78s ( 1.43s): Jason Kelsey
+ 170.81s -  173.03s ( 2.23s): Taylor Swift
+ 172.46s -  172.92s ( 0.46s): Jason Kelsey
+ 173.03s -  174.37s ( 1.33s): Jason Kelsey
+ 173.64s -  177.89s ( 4.25s): Taylor Swift
+ 177.89s -  178.84s ( 0.94s): Jason Kelsey
+ 179.92s -  181.98s ( 2.06s): Jason Kelsey
+ 180.71s -  181.12s ( 0.41s): Taylor Swift
+ 181.12s -  181.71s ( 0.59s): Travis Kelsey
+ 181.98s -  182.03s ( 0.05s): Travis Kelsey
+ 182.03s -  182.97s ( 0.94s): Jason Kelsey
+ 182.97s -  183.02s ( 0.05s): Travis Kelsey
+ 183.02s -  187.38s ( 4.35s): Jason Kelsey
+ 183.33s -  184.17s ( 0.84s): Travis Kelsey
+ 184.17s -  184.36s ( 0.19s): Taylor Swift
+ 184.36s -  184.58s ( 0.22s): Travis Kelsey
+ 184.58s -  184.64s ( 0.07s): Taylor Swift
+ 185.57s -  185.82s ( 0.25s): Taylor Swift
+ 187.38s -  199.05s (11.68s): Taylor Swift
+ 194.08s -  194.63s ( 0.56s): Jason Kelsey
+ 197.55s -  197.87s ( 0.32s): Jason Kelsey
+ 199.56s -  201.81s ( 2.24s): Jason Kelsey
+ 201.48s -  203.14s ( 1.65s): Taylor Swift
+ 203.14s -  203.16s ( 0.02s): Jason Kelsey
+ 203.16s -  203.29s ( 0.13s): Taylor Swift
+ 203.29s -  203.75s ( 0.46s): Jason Kelsey
+ 203.97s -  208.07s ( 4.10s): Jason Kelsey
+ 208.07s -  213.63s ( 5.57s): Taylor Swift
+ 213.63s -  222.53s ( 8.89s): Jason Kelsey
+ 222.56s -  234.59s (12.03s): Taylor Swift
+ 229.63s -  230.24s ( 0.61s): Taylor Swift
+ 234.61s -  234.98s ( 0.37s): Taylor Swift
+ 235.29s -  235.98s ( 0.69s): Taylor Swift
+ 235.44s -  241.70s ( 6.26s): Taylor Swift
+ 235.98s -  236.11s ( 0.13s): Travis Kelsey
+ 236.40s -  236.62s ( 0.22s): Travis Kelsey
+ 242.00s -  242.02s ( 0.02s): Travis Kelsey
+ 242.02s -  242.76s ( 0.74s): Taylor Swift
+ 242.83s -  246.54s ( 3.71s): Taylor Swift
+ 246.78s -  250.95s ( 4.17s): Jason Kelsey
+ 251.42s -  257.17s ( 5.75s): Taylor Swift
+ 257.64s -  259.57s ( 1.92s): Taylor Swift
+ 260.09s -  260.46s ( 0.37s): Taylor Swift
+ 260.24s -  267.03s ( 6.78s): Taylor Swift
+ 267.25s -  277.39s (10.14s): Jason Kelsey
+ 277.61s -  283.36s ( 5.75s): Taylor Swift
+ 284.07s -  288.71s ( 4.64s): Taylor Swift
+ 289.30s -  299.49s (10.19s): Jason Kelsey
+ 297.10s -  297.12s ( 0.02s): Taylor Swift
+ 297.12s -  297.60s ( 0.49s): Travis Kelsey
+ 298.63s -  303.33s ( 4.69s): Travis Kelsey
+ 301.28s -  301.33s ( 0.05s): Jason Kelsey
+ 301.33s -  303.53s ( 2.19s): Taylor Swift
+ 303.97s -  309.74s ( 5.77s): Taylor Swift
+ 305.42s -  306.97s ( 1.55s): Travis Kelsey
+ 306.97s -  307.00s ( 0.03s): Jason Kelsey
+ 308.91s -  309.01s ( 0.10s): Taylor Swift
+ 309.01s -  309.45s ( 0.44s): Travis Kelsey
+ 310.01s -  312.84s ( 2.84s): Travis Kelsey
+ 310.02s -  310.55s ( 0.52s): Taylor Swift
+ 312.83s -  314.16s ( 1.33s): Taylor Swift
+ 313.21s -  313.72s ( 0.51s): Taylor Swift
+ 313.72s -  313.74s ( 0.02s): Travis Kelsey
+ 313.74s -  313.89s ( 0.15s): Taylor Swift
+ 313.89s -  314.01s ( 0.12s): Travis Kelsey
+ 314.51s -  319.22s ( 4.71s): Taylor Swift
+ 319.83s -  322.12s ( 2.30s): Taylor Swift
+ 322.71s -  326.61s ( 3.90s): Taylor Swift
+ 325.33s -  330.06s ( 4.73s): Travis Kelsey
+ 329.97s -  335.27s ( 5.30s): Taylor Swift
+ 334.66s -  338.27s ( 3.61s): Travis Kelsey
+ 336.75s -  337.33s ( 0.57s): Taylor Swift
+ 338.05s -  347.96s ( 9.91s): Taylor Swift
+ 341.38s -  341.82s ( 0.44s): Travis Kelsey
+ 342.56s -  343.12s ( 0.56s): Travis Kelsey
+ 346.44s -  346.47s ( 0.03s): Jason Kelsey
+ 346.47s -  346.88s ( 0.40s): Travis Kelsey
+ 346.88s -  346.98s ( 0.10s): Jason Kelsey
+ 348.11s -  356.46s ( 8.35s): Taylor Swift
+ 353.51s -  354.96s ( 1.45s): Travis Kelsey
+ 355.33s -  359.32s ( 3.98s): Travis Kelsey
+ 357.85s -  360.73s ( 2.89s): Taylor Swift
+ 361.32s -  363.20s ( 1.87s): Taylor Swift
+ 361.86s -  363.60s ( 1.74s): Travis Kelsey
+ 363.20s -  363.21s ( 0.02s): Taylor Swift
+ 363.60s -  363.70s ( 0.10s): Taylor Swift
+ 363.70s -  368.85s ( 5.15s): Taylor Swift
+ 369.02s -  372.97s ( 3.95s): Taylor Swift
+ 373.53s -  381.24s ( 7.71s): Taylor Swift
+ 380.73s -  381.07s ( 0.34s): Jason Kelsey
+ 381.56s -  387.38s ( 5.82s): Taylor Swift
+ 381.74s -  382.08s ( 0.34s): Jason Kelsey
+ 387.03s -  391.02s ( 4.00s): Jason Kelsey
+ 390.21s -  396.88s ( 6.67s): Taylor Swift
+ 392.76s -  393.49s ( 0.73s): Jason Kelsey
+ 393.49s -  393.62s ( 0.13s): Taylor Swift
+ 394.05s -  394.10s ( 0.05s): Taylor Swift
+ 394.10s -  394.25s ( 0.15s): Jason Kelsey
+ 394.25s -  394.47s ( 0.22s): Taylor Swift
+ 397.02s -  404.44s ( 7.43s): Taylor Swift
+ 404.76s -  408.32s ( 3.56s): Taylor Swift
+ 404.93s -  404.96s ( 0.03s): Jason Kelsey
+ 404.96s -  405.44s ( 0.47s): Taylor Swift
+ 405.44s -  405.47s ( 0.03s): Travis Kelsey
+ 405.47s -  405.49s ( 0.02s): Taylor Swift
+ 405.49s -  405.54s ( 0.05s): Jason Kelsey
+ 407.61s -  410.95s ( 3.34s): Travis Kelsey
+ 410.67s -  410.70s ( 0.03s): Taylor Swift
+ 411.43s -  414.08s ( 2.65s): Taylor Swift
+ 414.51s -  415.36s ( 0.84s): Taylor Swift
+ 415.41s -  418.01s ( 2.60s): Taylor Swift
+ 418.56s -  423.27s ( 4.71s): Taylor Swift
+ 423.59s -  424.49s ( 0.89s): Taylor Swift
+ 424.30s -  429.50s ( 5.20s): Travis Kelsey
+ 430.06s -  432.59s ( 2.53s): Jason Kelsey
+ 431.88s -  433.26s ( 1.38s): Travis Kelsey
+ 433.26s -  435.88s ( 2.62s): Jason Kelsey
+ 435.88s -  435.91s ( 0.03s): Taylor Swift
+ 436.13s -  438.93s ( 2.80s): Travis Kelsey
+ 439.07s -  439.69s ( 0.62s): Taylor Swift
+ 439.98s -  447.56s ( 7.58s): Taylor Swift
+ 448.60s -  450.91s ( 2.31s): Jason Kelsey
+ 448.99s -  450.44s ( 1.45s): Taylor Swift
+ 450.91s -  458.74s ( 7.83s): Taylor Swift
+ 451.00s -  451.50s ( 0.51s): Jason Kelsey
+ 458.79s -  459.93s ( 1.13s): Taylor Swift
+ 459.30s -  459.49s ( 0.19s): Travis Kelsey
+ 460.09s -  461.43s ( 1.33s): Travis Kelsey
+ 460.30s -  461.12s ( 0.83s): Taylor Swift
+ 461.43s -  462.96s ( 1.54s): Taylor Swift
+ 462.47s -  468.36s ( 5.89s): Travis Kelsey
+ 467.89s -  471.01s ( 3.12s): Jason Kelsey
+ 471.59s -  474.84s ( 3.26s): Jason Kelsey
+ 475.21s -  482.66s ( 7.44s): Jason Kelsey
+ 476.40s -  477.04s ( 0.64s): Travis Kelsey
+ 477.04s -  477.64s ( 0.61s): Taylor Swift
+ 479.64s -  479.65s ( 0.02s): Taylor Swift
+ 479.65s -  481.44s ( 1.79s): Taylor Swift
+ 481.44s -  481.46s ( 0.02s): Taylor Swift
+ 481.46s -  481.54s ( 0.08s): Taylor Swift
+ 481.54s -  482.54s ( 1.00s): Taylor Swift
+ 482.88s -  484.53s ( 1.65s): Jason Kelsey
+ 484.53s -  504.58s (20.05s): Taylor Swift
+ 504.63s -  508.29s ( 3.66s): Taylor Swift
+ 508.83s -  522.84s (14.01s): Taylor Swift
+ 516.17s -  517.87s ( 1.70s): Travis Kelsey
+ 520.57s -  520.95s ( 0.37s): Travis Kelsey
+ 521.64s -  525.62s ( 3.98s): Travis Kelsey
+ 523.54s -  526.85s ( 3.31s): Taylor Swift
+ 526.89s -  533.25s ( 6.36s): Taylor Swift
+ 533.80s -  538.24s ( 4.44s): Taylor Swift
+ 538.24s -  539.19s ( 0.94s): Travis Kelsey
+ 538.88s -  540.59s ( 1.70s): Taylor Swift
+ 539.85s -  544.99s ( 5.15s): Travis Kelsey
+ 541.50s -  542.26s ( 0.76s): Taylor Swift
+ 542.61s -  544.72s ( 2.11s): Taylor Swift
+ 544.99s -  545.16s ( 0.17s): Taylor Swift
+ 545.57s -  550.04s ( 4.47s): Taylor Swift
+ 547.56s -  547.64s ( 0.08s): Jason Kelsey
+ 550.66s -  551.93s ( 1.27s): Taylor Swift
+ 552.37s -  562.78s (10.41s): Taylor Swift
+ 563.27s -  578.44s (15.17s): Taylor Swift
+ 563.55s -  563.93s ( 0.37s): Jason Kelsey
+ 564.38s -  565.36s ( 0.98s): Jason Kelsey
+ 579.33s -  580.35s ( 1.01s): Taylor Swift
+ 579.84s -  580.11s ( 0.27s): Travis Kelsey
+ 580.35s -  580.73s ( 0.39s): Travis Kelsey
+ 580.58s -  582.64s ( 2.06s): Taylor Swift
+ 581.36s -  581.61s ( 0.25s): Travis Kelsey
+ 582.32s -  587.23s ( 4.91s): Travis Kelsey
+ 587.35s -  593.07s ( 5.72s): Taylor Swift
+ 587.82s -  588.48s ( 0.66s): Travis Kelsey
+ 593.44s -  601.39s ( 7.95s): Taylor Swift
+ 599.79s -  607.19s ( 7.41s): Travis Kelsey
+ 602.43s -  607.90s ( 5.47s): Taylor Swift
+ 607.19s -  607.29s ( 0.10s): Jason Kelsey
+ 607.29s -  607.31s ( 0.02s): Travis Kelsey
+ 607.97s -  617.61s ( 9.64s): Taylor Swift
+ 615.85s -  621.18s ( 5.33s): Travis Kelsey
+ 621.35s -  621.98s ( 0.62s): Travis Kelsey
+ 621.93s -  628.78s ( 6.85s): Taylor Swift
+ 629.32s -  632.39s ( 3.07s): Taylor Swift
+ 630.03s -  632.20s ( 2.18s): Taylor Swift
+ 632.94s -  640.98s ( 8.03s): Taylor Swift
+ 639.07s -  644.82s ( 5.75s): Travis Kelsey
+ 643.41s -  644.94s ( 1.54s): Taylor Swift
+ 645.26s -  645.74s ( 0.47s): Travis Kelsey
+ 645.74s -  650.28s ( 4.54s): Taylor Swift
+ 648.60s -  649.06s ( 0.46s): Travis Kelsey
+ 649.43s -  653.26s ( 3.83s): Travis Kelsey
+ 653.82s -  656.23s ( 2.41s): Travis Kelsey
+ 656.18s -  661.68s ( 5.50s): Taylor Swift
+ 659.10s -  659.86s ( 0.76s): Travis Kelsey
+ 661.97s -  663.76s ( 1.79s): Taylor Swift
+ 662.07s -  662.44s ( 0.37s): Travis Kelsey
+ 662.93s -  666.02s ( 3.09s): Travis Kelsey
+ 666.02s -  668.85s ( 2.84s): Taylor Swift
+ 666.76s -  667.94s ( 1.18s): Travis Kelsey
+ 668.96s -  670.81s ( 1.86s): Taylor Swift
+ 669.06s -  669.50s ( 0.44s): Travis Kelsey
+ 669.50s -  669.55s ( 0.05s): Jason Kelsey
+ 671.74s -  672.94s ( 1.20s): Taylor Swift
+ 673.66s -  674.79s ( 1.13s): Jason Kelsey
+ 675.03s -  685.98s (10.95s): Jason Kelsey
+ 675.15s -  675.77s ( 0.62s): Taylor Swift
+ 686.15s -  690.66s ( 4.51s): Travis Kelsey
+ 688.21s -  689.04s ( 0.83s): Jason Kelsey
+ 691.45s -  694.00s ( 2.55s): Jason Kelsey
+ 693.31s -  719.21s (25.90s): Travis Kelsey
+ 706.69s -  707.03s ( 0.34s): Taylor Swift
+ 707.03s -  707.09s ( 0.07s): Jason Kelsey
+ 719.61s -  727.50s ( 7.88s): Taylor Swift
+ 728.02s -  728.59s ( 0.57s): Taylor Swift
+ 728.91s -  735.83s ( 6.92s): Taylor Swift
+ 736.20s -  740.73s ( 4.52s): Taylor Swift
+ 741.45s -  747.04s ( 5.59s): Taylor Swift
+ 747.24s -  749.23s ( 1.99s): Taylor Swift
+ 749.65s -  750.29s ( 0.64s): Taylor Swift
+ 750.53s -  751.44s ( 0.91s): Taylor Swift
+ 751.81s -  756.28s ( 4.47s): Taylor Swift
+ 756.72s -  759.07s ( 2.35s): Taylor Swift
+ 759.19s -  763.42s ( 4.24s): Taylor Swift
+ 763.86s -  767.34s ( 3.48s): Taylor Swift
+ 767.84s -  770.58s ( 2.73s): Taylor Swift
+ 771.17s -  771.78s ( 0.61s): Taylor Swift
+ 772.11s -  775.03s ( 2.92s): Taylor Swift
+ 775.40s -  779.79s ( 4.39s): Taylor Swift
+ 780.06s -  782.90s ( 2.84s): Taylor Swift
+ 783.17s -  785.75s ( 2.58s): Taylor Swift
+ 785.83s -  786.66s ( 0.83s): Taylor Swift
+ 786.81s -  787.94s ( 1.13s): Taylor Swift
+ 788.33s -  790.42s ( 2.09s): Taylor Swift
+ 790.73s -  794.89s ( 4.17s): Taylor Swift
+ 794.47s -  798.03s ( 3.56s): Travis Kelsey
+ 798.25s -  798.40s ( 0.15s): Jason Kelsey
+ 798.40s -  798.49s ( 0.08s): Taylor Swift
+ 798.49s -  802.83s ( 4.34s): Jason Kelsey
+ 798.54s -  799.43s ( 0.89s): Taylor Swift
+ 799.43s -  799.50s ( 0.07s): Travis Kelsey
+ 800.19s -  801.66s ( 1.47s): Taylor Swift
+ 801.66s -  803.18s ( 1.52s): Travis Kelsey
+ 803.84s -  805.56s ( 1.72s): Travis Kelsey
+ 805.10s -  805.12s ( 0.02s): Taylor Swift
+ 805.12s -  805.22s ( 0.10s): Jason Kelsey
+ 805.22s -  805.31s ( 0.08s): Taylor Swift
+ 805.56s -  806.01s ( 0.46s): Jason Kelsey
+ 806.01s -  806.07s ( 0.05s): Taylor Swift
+ 806.07s -  806.93s ( 0.86s): Jason Kelsey
+ 806.93s -  806.96s ( 0.03s): Taylor Swift
+ 807.18s -  807.67s ( 0.49s): Taylor Swift
+ 807.96s -  809.37s ( 1.42s): Taylor Swift
+ 809.71s -  811.14s ( 1.43s): Travis Kelsey
+ 810.81s -  819.24s ( 8.44s): Taylor Swift
+ 819.51s -  820.61s ( 1.10s): Taylor Swift
+ 821.05s -  822.18s ( 1.13s): Taylor Swift
+ 823.06s -  825.44s ( 2.38s): Taylor Swift
+ 825.69s -  828.04s ( 2.35s): Taylor Swift
+ 828.64s -  829.15s ( 0.51s): Taylor Swift
+ 829.40s -  830.62s ( 1.22s): Taylor Swift
+ 830.72s -  833.03s ( 2.31s): Taylor Swift
+ 833.30s -  836.91s ( 3.61s): Taylor Swift
+ 837.67s -  838.16s ( 0.49s): Taylor Swift
+ 838.45s -  852.91s (14.46s): Taylor Swift
+ 853.35s -  853.82s ( 0.47s): Taylor Swift
+ 854.45s -  855.51s ( 1.06s): Taylor Swift
+ 855.68s -  857.33s ( 1.65s): Taylor Swift
+ 857.84s -  858.38s ( 0.54s): Taylor Swift
+ 860.08s -  868.71s ( 8.62s): Taylor Swift
+ 863.86s -  864.08s ( 0.22s): Taylor Swift
+ 868.71s -  868.72s ( 0.02s): Taylor Swift
+ 868.72s -  868.79s ( 0.07s): Taylor Swift
+ 868.79s -  869.65s ( 0.86s): Taylor Swift
+ 868.81s -  869.30s ( 0.49s): Taylor Swift
+ 869.65s -  884.67s (15.02s): Taylor Swift
+ 869.67s -  869.75s ( 0.08s): Taylor Swift
+ 869.75s -  869.77s ( 0.02s): Jason Kelsey
+ 874.12s -  874.73s ( 0.61s): Jason Kelsey
+ 880.10s -  880.42s ( 0.32s): Jason Kelsey
+ 884.94s -  890.66s ( 5.72s): Taylor Swift
+ 891.08s -  903.03s (11.95s): Taylor Swift
+ 899.20s -  899.69s ( 0.49s): Taylor Swift
+ 901.61s -  902.12s ( 0.51s): Taylor Swift
+ 903.70s -  906.07s ( 2.36s): Taylor Swift
+ 906.22s -  914.50s ( 8.29s): Taylor Swift
+ 915.09s -  916.85s ( 1.75s): Taylor Swift
+ 916.83s -  917.19s ( 0.35s): Taylor Swift
+ 917.12s -  922.42s ( 5.30s): Taylor Swift
+ 922.89s -  923.19s ( 0.30s): Taylor Swift
+ 923.28s -  926.42s ( 3.14s): Taylor Swift
+ 927.21s -  932.90s ( 5.69s): Taylor Swift
+ 933.10s -  941.62s ( 8.52s): Taylor Swift
+ 933.15s -  933.62s ( 0.47s): Taylor Swift
+ 941.98s -  942.96s ( 0.98s): Taylor Swift
+ 943.78s -  947.88s ( 4.10s): Taylor Swift
+ 948.61s -  958.83s (10.23s): Taylor Swift
+ 959.32s -  962.92s ( 3.59s): Taylor Swift
+ 963.48s -  966.23s ( 2.75s): Taylor Swift
+ 966.61s -  967.85s ( 1.23s): Taylor Swift
+ 968.25s -  972.10s ( 3.85s): Taylor Swift
+ 972.64s -  975.25s ( 2.62s): Taylor Swift
+ 975.57s -  976.27s ( 0.69s): Taylor Swift
+ 976.76s -  977.41s ( 0.66s): Taylor Swift
+ 978.27s -  981.46s ( 3.19s): Taylor Swift
+ 982.00s -  983.59s ( 1.59s): Taylor Swift
+ 984.15s -  984.74s ( 0.59s): Taylor Swift
+ 985.11s -  985.75s ( 0.64s): Taylor Swift
+ 986.73s -  988.91s ( 2.18s): Taylor Swift
+ 990.81s -  991.54s ( 0.73s): Taylor Swift
+ 993.33s -  996.28s ( 2.95s): Taylor Swift
+ 996.38s -  996.85s ( 0.47s): Taylor Swift
+ 996.85s -  999.06s ( 2.21s): Taylor Swift
+ 999.50s - 1004.13s ( 4.62s): Taylor Swift
+1004.43s - 1006.98s ( 2.55s): Taylor Swift
+1007.74s - 1008.50s ( 0.76s): Taylor Swift
+1008.78s - 1009.46s ( 0.67s): Taylor Swift
+1009.92s - 1014.10s ( 4.18s): Taylor Swift
+1013.44s - 1014.94s ( 1.50s): Taylor Swift
+1015.89s - 1018.07s ( 2.18s): Taylor Swift
+1019.16s - 1021.29s ( 2.13s): Taylor Swift
+1021.96s - 1030.92s ( 8.96s): Taylor Swift
+1031.95s - 1035.03s ( 3.07s): Taylor Swift
+1036.12s - 1038.57s ( 2.45s): Taylor Swift
+1040.78s - 1043.26s ( 2.48s): Travis Kelsey
+1043.19s - 1049.39s ( 6.19s): Taylor Swift
+1046.52s - 1046.53s ( 0.02s): Taylor Swift
+1046.53s - 1046.99s ( 0.46s): Travis Kelsey
+1046.99s - 1047.06s ( 0.07s): Taylor Swift
+1052.09s - 1052.81s ( 0.73s): Travis Kelsey
+1052.19s - 1054.84s ( 2.65s): Taylor Swift
+1054.50s - 1058.72s ( 4.22s): Travis Kelsey
+1055.22s - 1055.24s ( 0.02s): Taylor Swift
+1055.48s - 1056.09s ( 0.61s): Taylor Swift
+1056.88s - 1057.54s ( 0.66s): Taylor Swift
+1058.46s - 1062.38s ( 3.91s): Taylor Swift
+1060.05s - 1061.05s ( 1.00s): Jason Kelsey
+1063.00s - 1068.83s ( 5.82s): Taylor Swift
+1069.77s - 1074.36s ( 4.59s): Taylor Swift
+1074.73s - 1082.44s ( 7.71s): Taylor Swift
+1082.92s - 1085.90s ( 2.99s): Taylor Swift
+1086.26s - 1091.61s ( 5.35s): Taylor Swift
+1091.88s - 1094.95s ( 3.07s): Taylor Swift
+1095.13s - 1095.57s ( 0.44s): Taylor Swift
+1096.06s - 1101.80s ( 5.74s): Taylor Swift
+1102.31s - 1109.22s ( 6.92s): Taylor Swift
+1109.78s - 1111.84s ( 2.06s): Taylor Swift
+1111.84s - 1112.41s ( 0.57s): Travis Kelsey
+1112.57s - 1116.89s ( 4.32s): Taylor Swift
+1117.43s - 1120.58s ( 3.16s): Taylor Swift
+1121.12s - 1127.18s ( 6.06s): Taylor Swift
+1127.53s - 1130.37s ( 2.83s): Taylor Swift
+1130.71s - 1132.01s ( 1.30s): Taylor Swift
+1130.74s - 1130.77s ( 0.03s): Taylor Swift
+1130.77s - 1130.94s ( 0.17s): Taylor Swift
+1130.94s - 1131.04s ( 0.10s): Taylor Swift
+1131.04s - 1131.11s ( 0.07s): Jason Kelsey
+1132.29s - 1135.14s ( 2.85s): Taylor Swift
+1135.85s - 1137.10s ( 1.25s): Taylor Swift
+1137.37s - 1141.89s ( 4.52s): Taylor Swift
+1142.60s - 1142.69s ( 0.08s): Taylor Swift
+1142.69s - 1143.03s ( 0.34s): Taylor Swift
+1143.03s - 1145.30s ( 2.28s): Taylor Swift
+1143.85s - 1143.92s ( 0.07s): Taylor Swift
+1146.01s - 1154.62s ( 8.61s): Taylor Swift
+1154.70s - 1155.73s ( 1.03s): Taylor Swift
+1156.80s - 1159.61s ( 2.82s): Taylor Swift
+1158.69s - 1163.31s ( 4.62s): Travis Kelsey
+1160.73s - 1161.72s ( 1.00s): Taylor Swift
+1163.06s - 1164.47s ( 1.42s): Taylor Swift
+1163.95s - 1167.58s ( 3.63s): Travis Kelsey
+1164.47s - 1164.49s ( 0.02s): Taylor Swift
+1165.76s - 1165.79s ( 0.03s): Taylor Swift
+1165.79s - 1166.38s ( 0.59s): Taylor Swift
+1166.38s - 1166.50s ( 0.12s): Taylor Swift
+1168.14s - 1185.94s (17.80s): Travis Kelsey
+1186.34s - 1188.77s ( 2.43s): Travis Kelsey
+1189.14s - 1191.44s ( 2.30s): Travis Kelsey
+1191.32s - 1191.79s ( 0.47s): Taylor Swift
+1191.66s - 1201.62s ( 9.96s): Travis Kelsey
+1198.76s - 1199.27s ( 0.51s): Taylor Swift
+1199.27s - 1199.32s ( 0.05s): Jason Kelsey
+1202.00s - 1216.11s (14.11s): Travis Kelsey
+1210.76s - 1211.23s ( 0.47s): Jason Kelsey
+1215.72s - 1215.98s ( 0.25s): Jason Kelsey
+1216.11s - 1216.14s ( 0.03s): Jason Kelsey
+1217.02s - 1236.11s (19.09s): Jason Kelsey
+1237.32s - 1238.81s ( 1.48s): Jason Kelsey
+1237.54s - 1240.77s ( 3.22s): Travis Kelsey
+1239.62s - 1247.13s ( 7.51s): Jason Kelsey
+1247.72s - 1249.52s ( 1.81s): Jason Kelsey
+1248.88s - 1258.16s ( 9.28s): Taylor Swift
+1253.07s - 1255.33s ( 2.26s): Jason Kelsey
+1258.53s - 1259.63s ( 1.10s): Taylor Swift
+1259.92s - 1260.27s ( 0.35s): Jason Kelsey
+1260.27s - 1262.01s ( 1.74s): Taylor Swift
+1262.77s - 1266.48s ( 3.71s): Taylor Swift
+1266.75s - 1267.14s ( 0.39s): Taylor Swift
+1266.99s - 1267.56s ( 0.57s): Taylor Swift
+1267.82s - 1271.90s ( 4.08s): Taylor Swift
+1272.29s - 1277.38s ( 5.10s): Taylor Swift
+1277.52s - 1278.58s ( 1.06s): Travis Kelsey
+1279.04s - 1279.78s ( 0.74s): Taylor Swift
+1280.20s - 1284.15s ( 3.95s): Taylor Swift
+1284.66s - 1284.69s ( 0.03s): Travis Kelsey
+1284.69s - 1286.02s ( 1.33s): Taylor Swift
+1284.71s - 1284.86s ( 0.15s): Travis Kelsey
+1284.86s - 1285.06s ( 0.20s): Taylor Swift
+1286.46s - 1287.73s ( 1.27s): Taylor Swift
+1287.05s - 1287.49s ( 0.44s): Taylor Swift
+1288.25s - 1290.85s ( 2.60s): Taylor Swift
+1291.36s - 1291.86s ( 0.51s): Taylor Swift
+1292.25s - 1294.11s ( 1.86s): Taylor Swift
+1294.43s - 1297.11s ( 2.68s): Taylor Swift
+1297.40s - 1300.55s ( 3.16s): Taylor Swift
+1300.91s - 1305.01s ( 4.10s): Taylor Swift
+1302.16s - 1302.71s ( 0.56s): Taylor Swift
+1302.71s - 1302.75s ( 0.03s): Jason Kelsey
+1305.73s - 1310.27s ( 4.54s): Taylor Swift
+1310.85s - 1315.20s ( 4.35s): Taylor Swift
+1315.71s - 1325.56s ( 9.86s): Taylor Swift
+1319.22s - 1319.25s ( 0.03s): Jason Kelsey
+1319.25s - 1319.54s ( 0.29s): Taylor Swift
+1319.54s - 1319.62s ( 0.08s): Jason Kelsey
+1326.00s - 1333.61s ( 7.61s): Taylor Swift
+1333.19s - 1334.37s ( 1.18s): Travis Kelsey
+1334.37s - 1334.40s ( 0.03s): Jason Kelsey
+1334.59s - 1338.20s ( 3.61s): Taylor Swift
+1339.20s - 1340.24s ( 1.05s): Jason Kelsey
+1340.24s - 1344.45s ( 4.20s): Taylor Swift
+1344.93s - 1349.10s ( 4.17s): Taylor Swift
+1349.66s - 1362.86s (13.20s): Taylor Swift
+1362.15s - 1362.60s ( 0.46s): Jason Kelsey
+1363.06s - 1363.65s ( 0.59s): Taylor Swift
+1364.26s - 1368.44s ( 4.18s): Taylor Swift
+1370.50s - 1374.58s ( 4.08s): Taylor Swift
+1374.77s - 1376.83s ( 2.06s): Taylor Swift
+1374.80s - 1374.85s ( 0.05s): Jason Kelsey
+1374.85s - 1374.97s ( 0.12s): Taylor Swift
+1374.97s - 1375.21s ( 0.24s): Jason Kelsey
+1377.10s - 1379.26s ( 2.16s): Taylor Swift
+1379.48s - 1385.84s ( 6.36s): Taylor Swift
+1383.27s - 1384.41s ( 1.13s): Taylor Swift
+1386.53s - 1397.45s (10.92s): Taylor Swift
+1398.51s - 1403.09s ( 4.57s): Taylor Swift
+1403.22s - 1408.49s ( 5.27s): Taylor Swift
+1404.40s - 1404.71s ( 0.30s): Taylor Swift
+1406.70s - 1406.71s ( 0.02s): Taylor Swift
+1406.71s - 1406.97s ( 0.25s): Taylor Swift
+1406.97s - 1407.20s ( 0.24s): Taylor Swift
+1408.87s - 1413.35s ( 4.47s): Taylor Swift
+1413.57s - 1422.04s ( 8.47s): Taylor Swift
+1422.64s - 1423.47s ( 0.83s): Taylor Swift
+1423.72s - 1430.10s ( 6.38s): Taylor Swift
+1430.36s - 1430.71s ( 0.35s): Jason Kelsey
+1431.00s - 1431.25s ( 0.25s): Taylor Swift
+1431.79s - 1438.10s ( 6.31s): Taylor Swift
+1438.37s - 1438.98s ( 0.61s): Taylor Swift
+1439.11s - 1442.66s ( 3.54s): Taylor Swift
+1442.66s - 1444.80s ( 2.14s): Jason Kelsey
+1444.80s - 1444.89s ( 0.08s): Taylor Swift
+1444.89s - 1444.92s ( 0.03s): Jason Kelsey
+1445.21s - 1445.26s ( 0.05s): Taylor Swift
+1445.26s - 1445.34s ( 0.08s): Jason Kelsey
+1445.34s - 1445.70s ( 0.35s): Taylor Swift
+1445.70s - 1449.80s ( 4.10s): Jason Kelsey
+1450.62s - 1454.79s ( 4.17s): Jason Kelsey
+1454.98s - 1457.76s ( 2.78s): Jason Kelsey
+1457.93s - 1459.25s ( 1.32s): Jason Kelsey
+1458.44s - 1459.92s ( 1.48s): Travis Kelsey
+1459.58s - 1460.33s ( 0.74s): Jason Kelsey
+1459.97s - 1460.21s ( 0.24s): Travis Kelsey
+1460.61s - 1462.81s ( 2.19s): Jason Kelsey
+1461.88s - 1464.61s ( 2.73s): Travis Kelsey
+1463.82s - 1464.58s ( 0.76s): Jason Kelsey
+1464.61s - 1464.63s ( 0.02s): Jason Kelsey
+1465.29s - 1471.23s ( 5.94s): Jason Kelsey
+1471.73s - 1473.67s ( 1.94s): Jason Kelsey
+1474.28s - 1475.58s ( 1.30s): Jason Kelsey
+1475.67s - 1476.26s ( 0.59s): Taylor Swift
+1476.29s - 1476.64s ( 0.35s): Jason Kelsey
+1476.76s - 1488.34s (11.58s): Taylor Swift
+1488.47s - 1491.34s ( 2.87s): Taylor Swift
+1492.02s - 1493.33s ( 1.32s): Taylor Swift
+1493.82s - 1499.04s ( 5.21s): Taylor Swift
+1496.29s - 1498.51s ( 2.23s): Travis Kelsey
+1499.04s - 1513.97s (14.93s): Jason Kelsey
+1500.52s - 1503.54s ( 3.02s): Travis Kelsey
+1507.64s - 1508.10s ( 0.46s): Travis Kelsey
+1511.31s - 1511.32s ( 0.02s): Taylor Swift
+1511.32s - 1511.34s ( 0.02s): Travis Kelsey
+1511.34s - 1511.96s ( 0.62s): Taylor Swift
+1512.37s - 1512.93s ( 0.56s): Taylor Swift
+1512.93s - 1513.50s ( 0.57s): Travis Kelsey
+1514.22s - 1517.77s ( 3.54s): Jason Kelsey
+1514.95s - 1517.72s ( 2.77s): Travis Kelsey
+1518.31s - 1530.96s (12.66s): Jason Kelsey
+1518.73s - 1519.86s ( 1.13s): Taylor Swift
+1524.08s - 1524.10s ( 0.02s): Travis Kelsey
+1524.10s - 1524.86s ( 0.76s): Taylor Swift
+1525.16s - 1525.97s ( 0.81s): Taylor Swift
+1529.68s - 1538.15s ( 8.47s): Taylor Swift
+1532.58s - 1533.23s ( 0.64s): Jason Kelsey
+1533.23s - 1533.33s ( 0.10s): Taylor Swift
+1533.46s - 1533.51s ( 0.05s): Taylor Swift
+1533.55s - 1533.60s ( 0.05s): Taylor Swift
+1538.31s - 1543.91s ( 5.60s): Taylor Swift
+1538.41s - 1538.44s ( 0.03s): Taylor Swift
+1538.46s - 1538.49s ( 0.03s): Taylor Swift
+1544.28s - 1544.90s ( 0.62s): Taylor Swift
+1545.27s - 1550.69s ( 5.42s): Taylor Swift
+1551.08s - 1553.21s ( 2.13s): Taylor Swift
+1553.43s - 1555.26s ( 1.84s): Taylor Swift
+1553.64s - 1553.68s ( 0.03s): Jason Kelsey
+1553.68s - 1554.00s ( 0.32s): Taylor Swift
+1555.62s - 1558.79s ( 3.17s): Taylor Swift
+1559.20s - 1560.04s ( 0.84s): Taylor Swift
+1560.77s - 1567.70s ( 6.94s): Taylor Swift
+1563.15s - 1563.53s ( 0.39s): Taylor Swift
+1565.39s - 1565.86s ( 0.47s): Taylor Swift
+1567.95s - 1568.56s ( 0.61s): Taylor Swift
+1569.07s - 1571.87s ( 2.80s): Taylor Swift
+1572.78s - 1579.23s ( 6.45s): Taylor Swift
+1579.83s - 1584.80s ( 4.96s): Taylor Swift
+1585.12s - 1587.88s ( 2.77s): Taylor Swift
+1588.15s - 1590.36s ( 2.21s): Jason Kelsey
+1590.84s - 1592.91s ( 2.08s): Jason Kelsey
+1593.20s - 1594.90s ( 1.70s): Jason Kelsey
+1595.26s - 1596.09s ( 0.83s): Jason Kelsey
+1596.86s - 1597.71s ( 0.84s): Jason Kelsey
+1598.30s - 1603.29s ( 5.00s): Jason Kelsey
+1598.63s - 1598.80s ( 0.17s): Taylor Swift
+1598.87s - 1598.97s ( 0.10s): Taylor Swift
+1600.47s - 1602.28s ( 1.81s): Taylor Swift
+1602.92s - 1609.08s ( 6.16s): Taylor Swift
+1604.67s - 1605.69s ( 1.01s): Jason Kelsey
+1609.43s - 1614.51s ( 5.08s): Taylor Swift
+1614.51s - 1615.58s ( 1.06s): Taylor Swift
+1614.87s - 1622.55s ( 7.68s): Taylor Swift
+1623.05s - 1623.73s ( 0.67s): Taylor Swift
+1624.22s - 1624.47s ( 0.25s): Jason Kelsey
+1624.59s - 1629.03s ( 4.44s): Jason Kelsey
+1624.62s - 1624.87s ( 0.25s): Taylor Swift
+1629.03s - 1630.56s ( 1.54s): Travis Kelsey
+1629.36s - 1629.43s ( 0.07s): Jason Kelsey
+1629.43s - 1629.53s ( 0.10s): Taylor Swift
+1629.53s - 1629.62s ( 0.08s): Jason Kelsey
+1629.62s - 1629.65s ( 0.03s): Taylor Swift
+1629.65s - 1629.77s ( 0.12s): Jason Kelsey
+1630.04s - 1630.09s ( 0.05s): Jason Kelsey
+1630.09s - 1630.27s ( 0.19s): Taylor Swift
+1630.27s - 1630.32s ( 0.05s): Jason Kelsey
+1630.66s - 1630.73s ( 0.07s): Jason Kelsey
+1630.73s - 1633.11s ( 2.38s): Taylor Swift
+1633.11s - 1633.97s ( 0.86s): Jason Kelsey
+1633.97s - 1634.02s ( 0.05s): Taylor Swift
+1634.02s - 1634.04s ( 0.02s): Jason Kelsey
+1634.04s - 1637.50s ( 3.46s): Travis Kelsey
+1637.78s - 1638.59s ( 0.81s): Taylor Swift
+1638.63s - 1639.07s ( 0.44s): Travis Kelsey
+1639.07s - 1639.69s ( 0.62s): Taylor Swift
+1639.64s - 1641.19s ( 1.55s): Travis Kelsey
+1641.16s - 1641.82s ( 0.66s): Taylor Swift
+1643.07s - 1646.37s ( 3.31s): Taylor Swift
+1645.07s - 1645.29s ( 0.22s): Travis Kelsey
+1646.42s - 1649.83s ( 3.41s): Taylor Swift
+1646.96s - 1647.00s ( 0.03s): Taylor Swift
+1647.00s - 1647.01s ( 0.02s): Jason Kelsey
+1647.01s - 1647.03s ( 0.02s): Taylor Swift
+1647.03s - 1647.98s ( 0.95s): Jason Kelsey
+1647.98s - 1648.95s ( 0.98s): Taylor Swift
+1648.95s - 1648.99s ( 0.03s): Jason Kelsey
+1649.80s - 1654.29s ( 4.49s): Travis Kelsey
+1649.83s - 1650.76s ( 0.93s): Jason Kelsey
+1653.31s - 1653.56s ( 0.25s): Jason Kelsey
+1654.54s - 1658.98s ( 4.44s): Jason Kelsey
+1658.51s - 1658.94s ( 0.44s): Taylor Swift
+1658.98s - 1659.05s ( 0.07s): Taylor Swift
+1659.43s - 1662.03s ( 2.60s): Jason Kelsey
+1662.13s - 1667.53s ( 5.40s): Jason Kelsey
+1667.53s - 1672.60s ( 5.06s): Taylor Swift
+1671.55s - 1671.90s ( 0.35s): Jason Kelsey
+1672.97s - 1674.77s ( 1.81s): Taylor Swift
+1674.98s - 1675.84s ( 0.86s): Taylor Swift
+1675.04s - 1675.55s ( 0.51s): Jason Kelsey
+1676.07s - 1677.22s ( 1.15s): Taylor Swift
+1677.46s - 1682.49s ( 5.03s): Taylor Swift
+1682.96s - 1684.00s ( 1.05s): Taylor Swift
+1682.97s - 1683.36s ( 0.39s): Jason Kelsey
+1684.38s - 1692.53s ( 8.15s): Taylor Swift
+1692.63s - 1693.96s ( 1.33s): Taylor Swift
+1694.64s - 1698.77s ( 4.13s): Taylor Swift
+1699.53s - 1701.32s ( 1.79s): Taylor Swift
+1701.59s - 1703.38s ( 1.79s): Taylor Swift
+1701.67s - 1702.23s ( 0.56s): Jason Kelsey
+1703.85s - 1704.79s ( 0.95s): Taylor Swift
+1705.11s - 1712.56s ( 7.44s): Taylor Swift
+1713.13s - 1717.96s ( 4.83s): Taylor Swift
+1718.21s - 1718.75s ( 0.54s): Taylor Swift
+1718.75s - 1719.61s ( 0.86s): Taylor Swift
+1720.12s - 1726.41s ( 6.29s): Taylor Swift
+1726.87s - 1727.46s ( 0.59s): Taylor Swift
+1728.06s - 1732.69s ( 4.62s): Taylor Swift
+1732.40s - 1732.45s ( 0.05s): Taylor Swift
+1733.11s - 1734.12s ( 1.01s): Taylor Swift
+1733.13s - 1733.53s ( 0.40s): Taylor Swift
+1734.56s - 1735.24s ( 0.67s): Taylor Swift
+1735.74s - 1736.99s ( 1.25s): Taylor Swift
+1737.89s - 1747.94s (10.06s): Taylor Swift
+1746.07s - 1746.54s ( 0.47s): Jason Kelsey
+1747.20s - 1747.23s ( 0.03s): Jason Kelsey
+1747.23s - 1747.76s ( 0.52s): Taylor Swift
+1748.03s - 1748.10s ( 0.07s): Taylor Swift
+1748.25s - 1755.35s ( 7.10s): Taylor Swift
+1755.99s - 1760.68s ( 4.69s): Taylor Swift
+1759.18s - 1762.29s ( 3.11s): Travis Kelsey
+1762.42s - 1777.71s (15.29s): Taylor Swift
+1763.30s - 1763.64s ( 0.34s): Travis Kelsey
+1778.28s - 1785.15s ( 6.87s): Taylor Swift
+1785.93s - 1786.69s ( 0.76s): Taylor Swift
+1787.73s - 1795.62s ( 7.88s): Taylor Swift
+1791.75s - 1791.77s ( 0.02s): Taylor Swift
+1791.77s - 1792.12s ( 0.35s): Taylor Swift
+1795.70s - 1798.82s ( 3.12s): Taylor Swift
+1796.53s - 1797.08s ( 0.56s): Jason Kelsey
+1799.43s - 1799.63s ( 0.20s): Jason Kelsey
+1800.39s - 1809.30s ( 8.91s): Jason Kelsey
+1809.35s - 1809.37s ( 0.02s): Jason Kelsey
+1809.37s - 1809.40s ( 0.03s): Taylor Swift
+1809.40s - 1810.31s ( 0.91s): Jason Kelsey
+1809.71s - 1810.11s ( 0.40s): Taylor Swift
+1810.77s - 1814.87s ( 4.10s): Jason Kelsey
+1811.76s - 1812.66s ( 0.89s): Taylor Swift
+1815.44s - 1816.02s ( 0.57s): Jason Kelsey
+1816.95s - 1826.31s ( 9.37s): Jason Kelsey
+1821.05s - 1821.06s ( 0.02s): Travis Kelsey
+1821.06s - 1821.87s ( 0.81s): Taylor Swift
+1826.68s - 1827.59s ( 0.91s): Jason Kelsey
+1827.59s - 1827.96s ( 0.37s): Taylor Swift
+1827.64s - 1827.90s ( 0.25s): Jason Kelsey
+1827.96s - 1828.39s ( 0.42s): Jason Kelsey
+1828.39s - 1842.83s (14.44s): Taylor Swift
+1832.86s - 1833.42s ( 0.56s): Jason Kelsey
+1833.42s - 1833.43s ( 0.02s): Taylor Swift
+1840.37s - 1841.25s ( 0.88s): Taylor Swift
+1841.41s - 1842.07s ( 0.66s): Taylor Swift
+1843.20s - 1851.13s ( 7.93s): Taylor Swift
+1851.32s - 1853.33s ( 2.01s): Taylor Swift
+1853.60s - 1854.80s ( 1.20s): Taylor Swift
+1854.04s - 1855.18s ( 1.15s): Travis Kelsey
+1855.07s - 1856.74s ( 1.67s): Taylor Swift
+1856.74s - 1857.73s ( 1.00s): Travis Kelsey
+1857.04s - 1860.18s ( 3.14s): Taylor Swift
+1860.82s - 1862.15s ( 1.33s): Taylor Swift
+1862.15s - 1869.31s ( 7.15s): Travis Kelsey
+1862.17s - 1863.86s ( 1.69s): Taylor Swift
+1863.86s - 1863.89s ( 0.03s): Taylor Swift
+1866.47s - 1866.74s ( 0.27s): Taylor Swift
+1867.67s - 1869.63s ( 1.96s): Taylor Swift
+1870.61s - 1871.18s ( 0.57s): Taylor Swift
+1870.91s - 1874.32s ( 3.41s): Travis Kelsey
+1874.66s - 1876.85s ( 2.19s): Travis Kelsey
+1874.67s - 1874.73s ( 0.05s): Taylor Swift
+1874.73s - 1878.94s ( 4.22s): Taylor Swift
+1876.85s - 1876.87s ( 0.02s): Jason Kelsey
+1878.15s - 1884.31s ( 6.16s): Jason Kelsey
+1879.40s - 1879.50s ( 0.10s): Taylor Swift
+1880.09s - 1880.13s ( 0.03s): Taylor Swift
+1880.16s - 1880.19s ( 0.03s): Taylor Swift
+1881.41s - 1882.50s ( 1.10s): Travis Kelsey
+1882.50s - 1884.41s ( 1.91s): Taylor Swift
+1884.31s - 1884.34s ( 0.03s): Taylor Swift
+1884.41s - 1884.48s ( 0.07s): Taylor Swift
+1884.48s - 1893.05s ( 8.57s): Taylor Swift
+1888.98s - 1889.98s ( 1.00s): Taylor Swift
+1893.57s - 1896.22s ( 2.65s): Taylor Swift
+1896.53s - 1897.24s ( 0.71s): Taylor Swift
+1897.61s - 1900.86s ( 3.26s): Taylor Swift
+1901.37s - 1902.03s ( 0.66s): Taylor Swift
+1902.48s - 1910.37s ( 7.88s): Taylor Swift
+1910.33s - 1910.35s ( 0.02s): Taylor Swift
+1910.37s - 1910.99s ( 0.62s): Taylor Swift
+1910.75s - 1910.87s ( 0.12s): Taylor Swift
+1910.99s - 1915.23s ( 4.24s): Taylor Swift
+1913.59s - 1914.33s ( 0.74s): Taylor Swift
+1914.33s - 1914.36s ( 0.03s): Jason Kelsey
+1915.61s - 1915.65s ( 0.03s): Taylor Swift
+1915.65s - 1915.95s ( 0.30s): Jason Kelsey
+1915.83s - 1918.79s ( 2.95s): Taylor Swift
+1918.04s - 1919.36s ( 1.32s): Jason Kelsey
+1919.28s - 1919.90s ( 0.62s): Taylor Swift
+1919.63s - 1922.72s ( 3.09s): Jason Kelsey
+1920.05s - 1920.69s ( 0.64s): Taylor Swift
+1922.72s - 1924.46s ( 1.74s): Taylor Swift
+1924.61s - 1929.64s ( 5.03s): Taylor Swift
+1929.21s - 1932.62s ( 3.41s): Travis Kelsey
+1931.46s - 1933.25s ( 1.79s): Taylor Swift
+1933.50s - 1934.46s ( 0.96s): Taylor Swift
+1935.02s - 1935.44s ( 0.42s): Taylor Swift
+1935.10s - 1936.84s ( 1.74s): Travis Kelsey
+1936.94s - 1947.66s (10.72s): Taylor Swift
+1937.50s - 1937.72s ( 0.22s): Travis Kelsey
+1948.30s - 1948.79s ( 0.49s): Taylor Swift
+1949.60s - 1952.38s ( 2.78s): Taylor Swift
+1953.04s - 1954.44s ( 1.40s): Taylor Swift
+1954.86s - 1958.31s ( 3.44s): Taylor Swift
+1958.78s - 1965.63s ( 6.85s): Taylor Swift
+1966.22s - 1969.14s ( 2.92s): Taylor Swift
+1969.19s - 1970.17s ( 0.98s): Taylor Swift
+1970.68s - 1971.25s ( 0.57s): Taylor Swift
+1971.59s - 1974.30s ( 2.72s): Taylor Swift
+1974.90s - 1976.23s ( 1.33s): Travis Kelsey
+1976.33s - 1978.95s ( 2.62s): Travis Kelsey
+1976.52s - 1976.62s ( 0.10s): Taylor Swift
+1976.62s - 1976.68s ( 0.07s): Jason Kelsey
+1976.68s - 1976.70s ( 0.02s): Taylor Swift
+1976.70s - 1980.03s ( 3.32s): Jason Kelsey
+1979.54s - 1979.65s ( 0.12s): Travis Kelsey
+1980.03s - 2001.51s (21.48s): Taylor Swift
+2001.84s - 2007.35s ( 5.50s): Taylor Swift
+2004.46s - 2004.49s ( 0.03s): Taylor Swift
+2007.51s - 2009.46s ( 1.94s): Taylor Swift
+2009.84s - 2013.96s ( 4.12s): Taylor Swift
+2014.52s - 2015.46s ( 0.95s): Taylor Swift
+2015.56s - 2033.20s (17.63s): Taylor Swift
+2015.92s - 2017.29s ( 1.37s): Taylor Swift
+2018.06s - 2018.21s ( 0.15s): Jason Kelsey
+2018.21s - 2018.48s ( 0.27s): Taylor Swift
+2018.48s - 2018.58s ( 0.10s): Jason Kelsey
+2032.39s - 2035.70s ( 3.31s): Travis Kelsey
+2035.34s - 2036.98s ( 1.64s): Taylor Swift
+2036.13s - 2036.71s ( 0.57s): Travis Kelsey
+2036.98s - 2037.01s ( 0.03s): Travis Kelsey
+2037.50s - 2037.60s ( 0.10s): Travis Kelsey
+2037.60s - 2038.35s ( 0.74s): Taylor Swift
+2038.35s - 2038.56s ( 0.22s): Taylor Swift
+2038.70s - 2045.77s ( 7.07s): Travis Kelsey
+2045.72s - 2046.12s ( 0.41s): Taylor Swift
+2046.09s - 2050.46s ( 4.37s): Travis Kelsey
+2046.99s - 2047.68s ( 0.69s): Taylor Swift
+2050.71s - 2052.08s ( 1.37s): Travis Kelsey
+2050.98s - 2051.47s ( 0.49s): Taylor Swift
+2052.54s - 2054.49s ( 1.96s): Travis Kelsey
+2052.84s - 2052.89s ( 0.05s): Taylor Swift
+2055.15s - 2057.79s ( 2.63s): Travis Kelsey
+2057.87s - 2057.90s ( 0.03s): Travis Kelsey
+2057.90s - 2058.68s ( 0.78s): Taylor Swift
+2058.68s - 2058.71s ( 0.03s): Travis Kelsey
+2058.73s - 2067.34s ( 8.61s): Travis Kelsey
+2067.45s - 2067.47s ( 0.02s): Travis Kelsey
+2067.47s - 2068.10s ( 0.62s): Taylor Swift
+2068.03s - 2070.14s ( 2.11s): Travis Kelsey
+2068.10s - 2076.96s ( 8.86s): Jason Kelsey
+2076.96s - 2081.21s ( 4.25s): Travis Kelsey
+2078.07s - 2078.29s ( 0.22s): Jason Kelsey
+2078.29s - 2078.47s ( 0.19s): Taylor Swift
+2078.47s - 2078.54s ( 0.07s): Jason Kelsey
+2078.54s - 2079.64s ( 1.10s): Taylor Swift
+2079.64s - 2080.09s ( 0.46s): Jason Kelsey
+2080.09s - 2080.25s ( 0.15s): Taylor Swift
+2080.25s - 2080.30s ( 0.05s): Jason Kelsey
+2080.30s - 2080.57s ( 0.27s): Taylor Swift
+2080.57s - 2080.82s ( 0.25s): Jason Kelsey
+2080.82s - 2081.11s ( 0.29s): Taylor Swift
+2081.21s - 2081.93s ( 0.73s): Taylor Swift
+2081.93s - 2081.97s ( 0.03s): Travis Kelsey
+2081.97s - 2082.03s ( 0.07s): Taylor Swift
+2082.03s - 2082.07s ( 0.03s): Travis Kelsey
+2082.07s - 2082.10s ( 0.03s): Taylor Swift
+2082.10s - 2082.78s ( 0.68s): Travis Kelsey
+2084.80s - 2087.99s ( 3.19s): Taylor Swift
+2086.47s - 2087.08s ( 0.61s): Travis Kelsey
+2087.42s - 2091.69s ( 4.27s): Travis Kelsey
+2092.29s - 2099.97s ( 7.68s): Travis Kelsey
+2100.09s - 2106.23s ( 6.14s): Travis Kelsey
+2106.47s - 2109.19s ( 2.72s): Travis Kelsey
+2109.32s - 2110.42s ( 1.10s): Jason Kelsey
+2110.59s - 2111.01s ( 0.42s): Travis Kelsey
+2111.01s - 2113.83s ( 2.82s): Jason Kelsey
+2112.22s - 2116.27s ( 4.05s): Travis Kelsey
+2116.95s - 2121.35s ( 4.40s): Travis Kelsey
+2122.45s - 2123.02s ( 0.57s): Jason Kelsey
+2123.02s - 2123.23s ( 0.20s): Taylor Swift
+2123.23s - 2123.24s ( 0.02s): Jason Kelsey
+2123.95s - 2124.02s ( 0.07s): Jason Kelsey
+2124.02s - 2130.01s ( 5.99s): Taylor Swift
+2124.80s - 2126.21s ( 1.42s): Jason Kelsey
+2128.07s - 2128.53s ( 0.46s): Jason Kelsey
+2130.90s - 2133.01s ( 2.11s): Jason Kelsey
+2134.11s - 2136.51s ( 2.40s): Jason Kelsey
+2136.57s - 2137.13s ( 0.56s): Taylor Swift
+2138.28s - 2141.84s ( 3.56s): Taylor Swift
+2141.92s - 2144.22s ( 2.30s): Travis Kelsey
+2144.42s - 2146.21s ( 1.79s): Taylor Swift
+2146.58s - 2153.11s ( 6.53s): Taylor Swift
+2148.94s - 2149.43s ( 0.49s): Jason Kelsey
+2154.02s - 2154.55s ( 0.52s): Taylor Swift
+2155.53s - 2163.25s ( 7.73s): Taylor Swift
+2161.35s - 2161.90s ( 0.56s): Taylor Swift
+2163.36s - 2169.09s ( 5.74s): Taylor Swift
+2170.65s - 2174.76s ( 4.12s): Travis Kelsey
+2173.36s - 2178.66s ( 5.30s): Taylor Swift
+2179.37s - 2183.64s ( 4.27s): Taylor Swift
+2182.86s - 2185.02s ( 2.16s): Travis Kelsey
+2184.01s - 2188.45s ( 4.44s): Taylor Swift
+2188.85s - 2195.49s ( 6.63s): Taylor Swift
+2195.74s - 2198.98s ( 3.24s): Taylor Swift
+2199.32s - 2204.07s ( 4.76s): Taylor Swift
+2199.38s - 2199.42s ( 0.03s): Taylor Swift
+2204.41s - 2205.56s ( 1.15s): Taylor Swift
+2205.93s - 2206.99s ( 1.06s): Taylor Swift
+2207.35s - 2216.65s ( 9.30s): Taylor Swift
+2217.56s - 2222.69s ( 5.13s): Taylor Swift
+2223.03s - 2230.10s ( 7.07s): Taylor Swift
+2226.05s - 2226.47s ( 0.42s): Travis Kelsey
+2230.47s - 2235.80s ( 5.33s): Travis Kelsey
+2236.37s - 2237.10s ( 0.73s): Taylor Swift
+2237.34s - 2238.09s ( 0.76s): Travis Kelsey
+2237.76s - 2244.32s ( 6.56s): Taylor Swift
+2245.22s - 2246.80s ( 1.59s): Taylor Swift
+2246.13s - 2251.75s ( 5.62s): Jason Kelsey
+2250.36s - 2251.49s ( 1.13s): Taylor Swift
+2251.93s - 2253.54s ( 1.60s): Taylor Swift
+2253.91s - 2257.96s ( 4.05s): Taylor Swift
+2253.92s - 2254.24s ( 0.32s): Jason Kelsey
+2258.18s - 2260.18s ( 2.01s): Taylor Swift
+2258.19s - 2258.68s ( 0.49s): Jason Kelsey
+2258.68s - 2258.70s ( 0.02s): Travis Kelsey
+2259.54s - 2261.04s ( 1.50s): Jason Kelsey
+2261.18s - 2261.85s ( 0.67s): Taylor Swift
+2261.40s - 2261.43s ( 0.03s): Travis Kelsey
+2261.43s - 2261.45s ( 0.02s): Jason Kelsey
+2261.45s - 2261.48s ( 0.03s): Travis Kelsey
+2261.48s - 2261.97s ( 0.49s): Jason Kelsey
+2261.97s - 2262.65s ( 0.68s): Travis Kelsey
+2262.51s - 2265.30s ( 2.78s): Taylor Swift
+2265.63s - 2268.94s ( 3.31s): Taylor Swift
+2266.97s - 2267.39s ( 0.42s): Travis Kelsey
+2269.58s - 2270.97s ( 1.38s): Taylor Swift
+2271.42s - 2272.91s ( 1.48s): Travis Kelsey
+2272.74s - 2273.23s ( 0.49s): Taylor Swift
+2273.99s - 2279.17s ( 5.18s): Taylor Swift
+2277.75s - 2277.78s ( 0.03s): Travis Kelsey
+2277.78s - 2278.09s ( 0.30s): Jason Kelsey
+2278.09s - 2278.78s ( 0.69s): Travis Kelsey
+2278.78s - 2278.95s ( 0.17s): Jason Kelsey
+2278.95s - 2279.40s ( 0.46s): Travis Kelsey
+2279.17s - 2283.59s ( 4.42s): Jason Kelsey
+2279.40s - 2279.49s ( 0.08s): Taylor Swift
+2279.49s - 2279.52s ( 0.03s): Travis Kelsey
+2279.52s - 2279.81s ( 0.29s): Taylor Swift
+2279.81s - 2280.28s ( 0.47s): Travis Kelsey
+2280.32s - 2280.50s ( 0.19s): Travis Kelsey
+2280.50s - 2280.82s ( 0.32s): Taylor Swift
+2280.82s - 2280.91s ( 0.08s): Travis Kelsey
+2280.91s - 2280.92s ( 0.02s): Taylor Swift
+2281.95s - 2282.05s ( 0.10s): Taylor Swift
+2282.05s - 2282.32s ( 0.27s): Taylor Swift
+2282.32s - 2282.34s ( 0.02s): Taylor Swift
+2284.10s - 2291.12s ( 7.02s): Travis Kelsey
+2284.48s - 2284.55s ( 0.07s): Jason Kelsey
+2284.59s - 2284.62s ( 0.03s): Jason Kelsey
+2291.05s - 2299.54s ( 8.49s): Taylor Swift
+2291.61s - 2292.75s ( 1.15s): Travis Kelsey
+2295.54s - 2296.38s ( 0.84s): Travis Kelsey
+2296.38s - 2296.40s ( 0.02s): Jason Kelsey
+2300.01s - 2307.55s ( 7.54s): Taylor Swift
+2302.73s - 2303.32s ( 0.59s): Jason Kelsey
+2308.33s - 2308.87s ( 0.54s): Taylor Swift
+2309.21s - 2311.96s ( 2.75s): Taylor Swift
+2310.66s - 2311.16s ( 0.51s): Taylor Swift
+2312.01s - 2313.37s ( 1.37s): Taylor Swift
+2313.80s - 2317.76s ( 3.97s): Taylor Swift
+2317.76s - 2322.50s ( 4.74s): Travis Kelsey
+2317.78s - 2317.88s ( 0.10s): Taylor Swift
+2322.50s - 2323.08s ( 0.57s): Taylor Swift
+2322.81s - 2327.70s ( 4.89s): Travis Kelsey
+2327.97s - 2330.00s ( 2.03s): Taylor Swift
+2330.43s - 2333.10s ( 2.67s): Taylor Swift
+2330.82s - 2331.21s ( 0.39s): Travis Kelsey
+2333.20s - 2333.61s ( 0.40s): Jason Kelsey
+2333.61s - 2339.23s ( 5.62s): Taylor Swift
+2339.55s - 2341.62s ( 2.08s): Jason Kelsey
+2340.48s - 2347.09s ( 6.61s): Taylor Swift
+2342.43s - 2342.85s ( 0.42s): Jason Kelsey
+2345.08s - 2345.64s ( 0.56s): Jason Kelsey
+2347.36s - 2347.43s ( 0.07s): Jason Kelsey
+2347.43s - 2348.27s ( 0.84s): Taylor Swift
+2348.83s - 2351.60s ( 2.77s): Taylor Swift
+2351.60s - 2352.83s ( 1.23s): Travis Kelsey
+2352.81s - 2355.24s ( 2.43s): Taylor Swift
+2354.99s - 2355.54s ( 0.56s): Travis Kelsey
+2355.54s - 2362.40s ( 6.85s): Taylor Swift
+2356.83s - 2357.16s ( 0.34s): Travis Kelsey
+2357.16s - 2357.18s ( 0.02s): Taylor Swift
+2357.18s - 2357.22s ( 0.03s): Travis Kelsey
+2357.22s - 2357.23s ( 0.02s): Taylor Swift
+2357.23s - 2357.27s ( 0.03s): Travis Kelsey
+2357.27s - 2357.35s ( 0.08s): Taylor Swift
+2357.35s - 2357.37s ( 0.02s): Travis Kelsey
+2357.37s - 2357.38s ( 0.02s): Taylor Swift
+2357.38s - 2357.47s ( 0.08s): Travis Kelsey
+2357.47s - 2357.49s ( 0.02s): Taylor Swift
+2362.89s - 2376.62s (13.74s): Taylor Swift
+2367.58s - 2367.96s ( 0.39s): Taylor Swift
+2367.96s - 2368.02s ( 0.05s): Jason Kelsey
+2372.59s - 2372.84s ( 0.25s): Travis Kelsey
+2376.18s - 2377.35s ( 1.16s): Travis Kelsey
+2377.35s - 2377.36s ( 0.02s): Taylor Swift
+2377.36s - 2377.40s ( 0.03s): Travis Kelsey
+2377.40s - 2378.55s ( 1.15s): Taylor Swift
+2377.50s - 2382.06s ( 4.56s): Travis Kelsey
+2380.72s - 2381.82s ( 1.10s): Taylor Swift
+2382.24s - 2383.41s ( 1.16s): Taylor Swift
+2383.91s - 2389.09s ( 5.18s): Taylor Swift
+2389.68s - 2392.25s ( 2.57s): Taylor Swift
+2392.62s - 2396.50s ( 3.88s): Taylor Swift
+2392.82s - 2392.87s ( 0.05s): Jason Kelsey
+2392.87s - 2393.31s ( 0.44s): Taylor Swift
+2393.31s - 2393.33s ( 0.02s): Jason Kelsey
+2397.23s - 2403.10s ( 5.87s): Taylor Swift
+2403.57s - 2409.75s ( 6.18s): Travis Kelsey
+2404.58s - 2405.04s ( 0.46s): Taylor Swift
+2405.04s - 2405.34s ( 0.30s): Jason Kelsey
+2405.34s - 2405.76s ( 0.42s): Taylor Swift
+2409.87s - 2412.24s ( 2.38s): Travis Kelsey
+2410.83s - 2416.28s ( 5.45s): Jason Kelsey
+2412.28s - 2412.55s ( 0.27s): Travis Kelsey
+2412.55s - 2412.84s ( 0.29s): Taylor Swift
+2414.00s - 2419.89s ( 5.89s): Travis Kelsey
+2416.28s - 2416.33s ( 0.05s): Taylor Swift
+2416.33s - 2416.58s ( 0.25s): Jason Kelsey
+2416.58s - 2416.60s ( 0.02s): Taylor Swift
+2418.00s - 2418.42s ( 0.42s): Jason Kelsey
+2418.42s - 2422.18s ( 3.76s): Taylor Swift
+2422.88s - 2424.97s ( 2.09s): Taylor Swift
+2423.45s - 2425.81s ( 2.36s): Travis Kelsey
+2424.97s - 2425.42s ( 0.46s): Taylor Swift
+2425.42s - 2425.46s ( 0.03s): Taylor Swift
+2425.46s - 2428.65s ( 3.19s): Taylor Swift
+2427.31s - 2427.72s ( 0.40s): Travis Kelsey
+2428.53s - 2431.85s ( 3.32s): Travis Kelsey
+2431.85s - 2435.13s ( 3.27s): Taylor Swift
+2434.89s - 2435.30s ( 0.41s): Travis Kelsey
+2435.30s - 2435.33s ( 0.03s): Taylor Swift
+2435.40s - 2455.65s (20.25s): Taylor Swift
+2437.37s - 2437.95s ( 0.57s): Travis Kelsey
+2438.59s - 2438.64s ( 0.05s): Taylor Swift
+2438.64s - 2439.21s ( 0.57s): Travis Kelsey
+2439.21s - 2439.46s ( 0.25s): Taylor Swift
+2442.13s - 2442.69s ( 0.56s): Taylor Swift
+2445.78s - 2445.81s ( 0.03s): Jason Kelsey
+2445.81s - 2447.02s ( 1.22s): Taylor Swift
+2447.02s - 2448.32s ( 1.30s): Jason Kelsey
+2453.77s - 2453.96s ( 0.19s): Jason Kelsey
+2454.99s - 2457.84s ( 2.85s): Jason Kelsey
+2456.17s - 2456.61s ( 0.44s): Taylor Swift
+2457.33s - 2457.71s ( 0.37s): Taylor Swift
+2458.11s - 2463.00s ( 4.89s): Jason Kelsey
+2462.01s - 2466.51s ( 4.51s): Taylor Swift
+2464.59s - 2464.73s ( 0.14s): Jason Kelsey
+2464.73s - 2465.15s ( 0.42s): Taylor Swift
+2465.15s - 2465.43s ( 0.29s): Jason Kelsey
+2465.43s - 2465.45s ( 0.02s): Taylor Swift
+2466.28s - 2466.41s ( 0.14s): Taylor Swift
+2466.51s - 2466.65s ( 0.13s): Taylor Swift
+2466.65s - 2466.68s ( 0.03s): Jason Kelsey
+2466.68s - 2466.72s ( 0.03s): Taylor Swift
+2466.72s - 2466.75s ( 0.03s): Jason Kelsey
+2466.75s - 2466.78s ( 0.03s): Taylor Swift
+2466.78s - 2467.54s ( 0.76s): Taylor Swift
+2468.10s - 2473.84s ( 5.74s): Taylor Swift
+2474.48s - 2481.18s ( 6.70s): Taylor Swift
+2478.66s - 2482.09s ( 3.43s): Travis Kelsey
+2482.80s - 2488.94s ( 6.14s): Taylor Swift
+2485.68s - 2485.90s ( 0.22s): Travis Kelsey
+2486.14s - 2486.21s ( 0.07s): Taylor Swift
+2486.34s - 2486.36s ( 0.02s): Taylor Swift
+2486.38s - 2486.41s ( 0.03s): Taylor Swift
+2486.41s - 2486.58s ( 0.17s): Taylor Swift
+2486.61s - 2486.65s ( 0.03s): Taylor Swift
+2486.65s - 2486.66s ( 0.02s): Travis Kelsey
+2488.30s - 2490.19s ( 1.89s): Travis Kelsey
+2491.49s - 2492.01s ( 0.52s): Taylor Swift
+2492.64s - 2497.01s ( 4.37s): Taylor Swift
+2496.40s - 2501.16s ( 4.76s): Travis Kelsey
+2497.01s - 2497.70s ( 0.69s): Jason Kelsey
+2497.70s - 2497.82s ( 0.12s): Taylor Swift
+2497.82s - 2498.34s ( 0.52s): Jason Kelsey
+2499.32s - 2499.34s ( 0.02s): Taylor Swift
+2499.34s - 2499.71s ( 0.37s): Jason Kelsey
+2501.04s - 2511.77s (10.73s): Jason Kelsey
+2511.77s - 2514.41s ( 2.63s): Travis Kelsey
+2514.44s - 2515.22s ( 0.78s): Travis Kelsey
+2515.28s - 2517.16s ( 1.87s): Taylor Swift
+2516.36s - 2519.54s ( 3.17s): Travis Kelsey
+2518.02s - 2527.70s ( 9.69s): Taylor Swift
+2521.51s - 2522.03s ( 0.52s): Travis Kelsey
+2526.07s - 2526.71s ( 0.64s): Travis Kelsey
+2527.79s - 2529.78s ( 1.99s): Travis Kelsey
+2529.24s - 2529.61s ( 0.37s): Taylor Swift
+2529.61s - 2529.64s ( 0.03s): Jason Kelsey
+2530.18s - 2532.48s ( 2.30s): Jason Kelsey
+2531.58s - 2533.19s ( 1.60s): Travis Kelsey
+2532.48s - 2532.56s ( 0.08s): Taylor Swift
+2532.56s - 2532.68s ( 0.12s): Jason Kelsey
+2532.68s - 2532.70s ( 0.02s): Taylor Swift
+2532.70s - 2532.80s ( 0.10s): Jason Kelsey
+2532.80s - 2536.09s ( 3.29s): Taylor Swift
+2534.27s - 2536.34s ( 2.08s): Travis Kelsey
+2536.36s - 2537.73s ( 1.37s): Taylor Swift
+2537.09s - 2537.59s ( 0.51s): Travis Kelsey
+2538.33s - 2539.90s ( 1.57s): Taylor Swift
+2539.63s - 2544.38s ( 4.74s): Travis Kelsey
+2540.49s - 2540.65s ( 0.15s): Jason Kelsey
+2540.65s - 2540.70s ( 0.05s): Taylor Swift
+2540.70s - 2540.76s ( 0.07s): Jason Kelsey
+2541.14s - 2541.20s ( 0.07s): Taylor Swift
+2541.20s - 2542.20s ( 1.00s): Jason Kelsey
+2544.53s - 2548.11s ( 3.58s): Jason Kelsey
+2548.70s - 2553.61s ( 4.91s): Jason Kelsey
+2549.93s - 2549.94s ( 0.02s): Taylor Swift
+2549.94s - 2550.97s ( 1.03s): Travis Kelsey
+2550.97s - 2551.33s ( 0.35s): Taylor Swift
+2553.96s - 2557.27s ( 3.31s): Jason Kelsey
+2554.60s - 2557.25s ( 2.65s): Taylor Swift
+2557.27s - 2557.35s ( 0.08s): Taylor Swift
+2557.66s - 2558.97s ( 1.32s): Jason Kelsey
+2558.97s - 2559.88s ( 0.91s): Taylor Swift
+2559.88s - 2559.93s ( 0.05s): Jason Kelsey
+2562.36s - 2564.31s ( 1.94s): Taylor Swift
+2563.97s - 2566.68s ( 2.72s): Jason Kelsey
+2566.68s - 2566.74s ( 0.05s): Taylor Swift
+2566.68s - 2566.77s ( 0.08s): Travis Kelsey
+2566.74s - 2567.11s ( 0.37s): Jason Kelsey
+2566.77s - 2566.97s ( 0.20s): Taylor Swift
+2566.97s - 2567.09s ( 0.12s): Travis Kelsey
+2567.11s - 2569.44s ( 2.33s): Travis Kelsey
+2568.59s - 2568.61s ( 0.02s): Taylor Swift
+2568.61s - 2570.03s ( 1.42s): Taylor Swift
+2570.03s - 2570.97s ( 0.94s): Taylor Swift
+2570.97s - 2571.04s ( 0.07s): Taylor Swift
+2571.04s - 2571.97s ( 0.93s): Taylor Swift
+2571.97s - 2572.03s ( 0.07s): Taylor Swift
+2572.03s - 2573.11s ( 1.08s): Taylor Swift
+2573.23s - 2576.81s ( 3.58s): Travis Kelsey
+2573.67s - 2573.70s ( 0.03s): Taylor Swift
+2573.70s - 2574.60s ( 0.89s): Taylor Swift
+2575.46s - 2587.53s (12.07s): Taylor Swift
+2578.01s - 2578.85s ( 0.84s): Travis Kelsey
+2587.53s - 2587.86s ( 0.34s): Taylor Swift
+2587.86s - 2588.71s ( 0.84s): Taylor Swift
+2588.82s - 2594.60s ( 5.77s): Taylor Swift
+2594.60s - 2595.09s ( 0.49s): Taylor Swift
+2595.09s - 2606.37s (11.29s): Taylor Swift
+2598.44s - 2600.22s ( 1.77s): Taylor Swift
+2600.22s - 2600.23s ( 0.02s): Jason Kelsey
+2607.07s - 2611.00s ( 3.93s): Taylor Swift
+2610.58s - 2614.07s ( 3.49s): Jason Kelsey
+2612.79s - 2625.54s (12.76s): Taylor Swift
+2615.18s - 2615.25s ( 0.07s): Jason Kelsey
+2615.99s - 2616.57s ( 0.57s): Jason Kelsey
+2617.21s - 2617.36s ( 0.15s): Jason Kelsey
+2617.36s - 2617.50s ( 0.13s): Taylor Swift
+2617.50s - 2617.55s ( 0.05s): Jason Kelsey
+2620.28s - 2621.36s ( 1.08s): Jason Kelsey
+2621.36s - 2621.41s ( 0.05s): Taylor Swift
+2626.79s - 2627.91s ( 1.11s): Taylor Swift
+2628.35s - 2631.69s ( 3.34s): Taylor Swift
+2630.32s - 2630.94s ( 0.62s): Jason Kelsey
+2632.90s - 2637.22s ( 4.32s): Jason Kelsey
+2638.02s - 2645.56s ( 7.54s): Jason Kelsey
+2646.01s - 2647.45s ( 1.43s): Jason Kelsey
+2647.75s - 2648.53s ( 0.78s): Jason Kelsey
+2648.88s - 2650.47s ( 1.59s): Jason Kelsey
+2650.81s - 2655.92s ( 5.11s): Taylor Swift
+2656.21s - 2661.91s ( 5.70s): Taylor Swift
+2656.22s - 2656.66s ( 0.44s): Jason Kelsey
+2662.23s - 2665.07s ( 2.84s): Taylor Swift
+2665.79s - 2672.52s ( 6.73s): Taylor Swift
+2673.01s - 2674.14s ( 1.13s): Taylor Swift
+2674.53s - 2678.48s ( 3.95s): Taylor Swift
+2678.70s - 2679.14s ( 0.44s): Jason Kelsey
+2679.19s - 2682.89s ( 3.70s): Taylor Swift
+2683.70s - 2684.74s ( 1.05s): Taylor Swift
+2684.88s - 2688.44s ( 3.56s): Taylor Swift
+2689.05s - 2695.27s ( 6.23s): Taylor Swift
+2692.91s - 2697.25s ( 4.34s): Jason Kelsey
+2695.58s - 2703.02s ( 7.44s): Taylor Swift
+2698.38s - 2698.82s ( 0.44s): Jason Kelsey
+2704.42s - 2704.98s ( 0.56s): Taylor Swift
+2704.44s - 2707.24s ( 2.80s): Jason Kelsey
+2706.06s - 2712.50s ( 6.45s): Taylor Swift
+2710.59s - 2715.99s ( 5.40s): Travis Kelsey
+2714.54s - 2714.61s ( 0.07s): Taylor Swift
+2714.85s - 2715.57s ( 0.73s): Taylor Swift
+2716.64s - 2717.33s ( 0.69s): Taylor Swift
+2717.73s - 2720.47s ( 2.73s): Taylor Swift
+2718.36s - 2720.67s ( 2.31s): Travis Kelsey
+2721.19s - 2722.09s ( 0.89s): Travis Kelsey
+2722.10s - 2722.12s ( 0.02s): Travis Kelsey
+2722.12s - 2723.35s ( 1.23s): Taylor Swift
+2722.47s - 2723.72s ( 1.25s): Travis Kelsey
+2723.47s - 2733.83s (10.36s): Taylor Swift
+2724.45s - 2725.93s ( 1.48s): Travis Kelsey
+2726.69s - 2726.96s ( 0.27s): Travis Kelsey
+2731.67s - 2731.91s ( 0.24s): Travis Kelsey
+2732.35s - 2735.27s ( 2.92s): Travis Kelsey
+2733.83s - 2733.85s ( 0.02s): Jason Kelsey
+2734.78s - 2734.79s ( 0.02s): Taylor Swift
+2734.79s - 2735.38s ( 0.59s): Jason Kelsey
+2735.64s - 2737.04s ( 1.40s): Jason Kelsey
+2737.93s - 2738.39s ( 0.46s): Taylor Swift
+2738.96s - 2740.40s ( 1.43s): Jason Kelsey
+2740.70s - 2741.41s ( 0.71s): Jason Kelsey
+2740.89s - 2745.24s ( 4.35s): Taylor Swift
+2743.32s - 2746.93s ( 3.61s): Travis Kelsey
+2746.00s - 2747.06s ( 1.06s): Taylor Swift
+2747.50s - 2759.31s (11.81s): Taylor Swift
+2748.31s - 2749.20s ( 0.89s): Travis Kelsey
+2759.87s - 2768.68s ( 8.81s): Taylor Swift
+2765.25s - 2765.59s ( 0.34s): Taylor Swift
+2769.08s - 2781.99s (12.91s): Taylor Swift
+2777.17s - 2777.44s ( 0.27s): Taylor Swift
+2782.33s - 2782.72s ( 0.39s): Travis Kelsey
+2782.57s - 2784.96s ( 2.40s): Taylor Swift
+2783.88s - 2789.86s ( 5.97s): Travis Kelsey
+2788.96s - 2790.85s ( 1.89s): Taylor Swift
+2790.38s - 2794.28s ( 3.90s): Travis Kelsey
+2792.34s - 2792.47s ( 0.14s): Taylor Swift
+2794.16s - 2797.06s ( 2.90s): Taylor Swift
+2795.54s - 2801.52s ( 5.97s): Travis Kelsey
+2797.65s - 2798.75s ( 1.10s): Taylor Swift
+2799.64s - 2802.95s ( 3.31s): Taylor Swift
+2802.95s - 2803.20s ( 0.25s): Travis Kelsey
+2803.20s - 2803.24s ( 0.03s): Taylor Swift
+2803.39s - 2804.42s ( 1.03s): Taylor Swift
+2804.82s - 2822.58s (17.75s): Taylor Swift
+2822.95s - 2825.97s ( 3.02s): Taylor Swift
+2823.05s - 2823.56s ( 0.51s): Jason Kelsey
+2826.21s - 2829.19s ( 2.99s): Taylor Swift
+2827.42s - 2827.50s ( 0.08s): Jason Kelsey
+2827.50s - 2827.64s ( 0.14s): Taylor Swift
+2829.33s - 2829.99s ( 0.66s): Taylor Swift
+2830.14s - 2834.81s ( 4.67s): Taylor Swift
+2835.05s - 2839.64s ( 4.59s): Taylor Swift
+2835.81s - 2836.11s ( 0.30s): Travis Kelsey
+2836.72s - 2838.30s ( 1.59s): Travis Kelsey
+2839.71s - 2840.92s ( 1.22s): Taylor Swift
+2839.76s - 2846.29s ( 6.53s): Travis Kelsey
+2844.84s - 2845.36s ( 0.52s): Taylor Swift
+2846.07s - 2852.09s ( 6.02s): Taylor Swift
+2847.28s - 2847.99s ( 0.71s): Travis Kelsey
+2848.77s - 2848.97s ( 0.20s): Jason Kelsey
+2849.68s - 2855.40s ( 5.72s): Jason Kelsey
+2852.53s - 2852.75s ( 0.22s): Taylor Swift
+2854.39s - 2856.12s ( 1.74s): Taylor Swift
+2856.56s - 2857.44s ( 0.88s): Taylor Swift
+2857.56s - 2859.11s ( 1.55s): Taylor Swift
+2859.21s - 2861.91s ( 2.70s): Taylor Swift
+2862.47s - 2863.31s ( 0.84s): Taylor Swift
+2864.53s - 2864.88s ( 0.35s): Jason Kelsey
+2864.88s - 2865.52s ( 0.64s): Taylor Swift
+2865.07s - 2866.33s ( 1.27s): Jason Kelsey
+2866.32s - 2868.34s ( 2.02s): Taylor Swift
+2868.71s - 2871.60s ( 2.89s): Taylor Swift
+2868.98s - 2869.69s ( 0.71s): Jason Kelsey
+2873.22s - 2873.93s ( 0.71s): Jason Kelsey
+2873.93s - 2882.15s ( 8.22s): Taylor Swift
+2873.94s - 2874.81s ( 0.86s): Jason Kelsey
+2874.81s - 2875.13s ( 0.32s): Travis Kelsey
+2875.13s - 2876.04s ( 0.91s): Jason Kelsey
+2876.04s - 2877.56s ( 1.52s): Travis Kelsey
+2877.56s - 2877.61s ( 0.05s): Jason Kelsey
+2877.61s - 2877.62s ( 0.02s): Travis Kelsey
+2882.16s - 2883.23s ( 1.06s): Taylor Swift
+2883.33s - 2883.43s ( 0.10s): Taylor Swift
+2883.43s - 2883.45s ( 0.02s): Jason Kelsey
+2883.45s - 2883.46s ( 0.02s): Taylor Swift
+2883.46s - 2885.30s ( 1.84s): Jason Kelsey
+2883.48s - 2883.83s ( 0.35s): Taylor Swift
+2884.86s - 2886.11s ( 1.25s): Taylor Swift
+2886.90s - 2889.15s ( 2.24s): Taylor Swift
+2889.81s - 2892.05s ( 2.24s): Travis Kelsey
+2891.02s - 2891.39s ( 0.37s): Taylor Swift
+2892.20s - 2893.23s ( 1.03s): Taylor Swift
+2893.23s - 2893.27s ( 0.03s): Jason Kelsey
+2893.27s - 2894.08s ( 0.81s): Taylor Swift
+2893.28s - 2895.36s ( 2.08s): Jason Kelsey
+2896.05s - 2896.30s ( 0.25s): Jason Kelsey
+2897.27s - 2899.48s ( 2.21s): Taylor Swift
+2902.82s - 2905.01s ( 2.19s): Jason Kelsey
+2905.01s - 2912.30s ( 7.29s): Taylor Swift
+2912.86s - 2915.61s ( 2.75s): Taylor Swift
+2915.81s - 2922.09s ( 6.28s): Taylor Swift
+2923.42s - 2933.34s ( 9.92s): Taylor Swift
+2933.92s - 2940.11s ( 6.19s): Taylor Swift
+2939.12s - 2939.61s ( 0.49s): Jason Kelsey
+2940.65s - 2945.97s ( 5.32s): Taylor Swift
+2946.88s - 2954.91s ( 8.03s): Taylor Swift
+2950.96s - 2951.11s ( 0.15s): Taylor Swift
+2955.08s - 2955.65s ( 0.57s): Taylor Swift
+2955.11s - 2955.59s ( 0.47s): Jason Kelsey
+2955.94s - 2961.51s ( 5.57s): Taylor Swift
+2956.02s - 2956.08s ( 0.05s): Jason Kelsey
+2956.08s - 2956.29s ( 0.22s): Taylor Swift
+2956.29s - 2956.43s ( 0.14s): Jason Kelsey
+2962.07s - 2966.20s ( 4.13s): Taylor Swift
+2966.86s - 2973.76s ( 6.90s): Taylor Swift
+2971.11s - 2971.20s ( 0.08s): Taylor Swift
+2972.09s - 2973.42s ( 1.33s): Taylor Swift
+2974.25s - 2974.62s ( 0.37s): Taylor Swift
+2974.86s - 2977.34s ( 2.48s): Taylor Swift
+2975.80s - 2976.97s ( 1.16s): Taylor Swift
+2976.97s - 2977.29s ( 0.32s): Jason Kelsey
+2978.01s - 2980.02s ( 2.01s): Taylor Swift
+2980.73s - 2982.67s ( 1.94s): Taylor Swift
+2983.43s - 2984.54s ( 1.11s): Taylor Swift
+2985.52s - 2987.26s ( 1.74s): Taylor Swift
+2988.15s - 2992.39s ( 4.24s): Taylor Swift
+2992.47s - 2992.83s ( 0.35s): Taylor Swift
+2992.83s - 2994.62s ( 1.79s): Taylor Swift
+2995.53s - 2999.06s ( 3.53s): Taylor Swift
+2997.55s - 2998.47s ( 0.91s): Taylor Swift
+2998.89s - 2999.14s ( 0.25s): Taylor Swift
+2999.14s - 3018.63s (19.49s): Taylor Swift
+2999.16s - 2999.17s ( 0.02s): Taylor Swift
+3017.06s - 3021.69s ( 4.62s): Travis Kelsey
+3022.09s - 3022.11s ( 0.02s): Jason Kelsey
+3022.11s - 3022.12s ( 0.02s): Taylor Swift
+3022.12s - 3023.93s ( 1.81s): Travis Kelsey
+3022.16s - 3022.97s ( 0.81s): Taylor Swift
+3022.97s - 3024.03s ( 1.06s): Jason Kelsey
+3025.18s - 3026.17s ( 1.00s): Travis Kelsey
+3025.47s - 3025.82s ( 0.35s): Jason Kelsey
+3026.04s - 3027.61s ( 1.57s): Jason Kelsey
+3026.29s - 3027.10s ( 0.81s): Travis Kelsey
+3027.27s - 3027.79s ( 0.52s): Travis Kelsey
+3028.01s - 3030.81s ( 2.80s): Jason Kelsey
+3029.73s - 3030.56s ( 0.83s): Travis Kelsey
+3030.90s - 3033.85s ( 2.95s): Jason Kelsey
+3030.95s - 3039.18s ( 8.24s): Travis Kelsey
+3036.96s - 3037.36s ( 0.41s): Jason Kelsey
+3039.18s - 3039.81s ( 0.62s): Jason Kelsey
+3039.81s - 3050.63s (10.82s): Travis Kelsey
+3050.41s - 3051.54s ( 1.13s): Taylor Swift
+3051.25s - 3051.27s ( 0.02s): Travis Kelsey
+3051.28s - 3051.45s ( 0.17s): Travis Kelsey
+3051.50s - 3052.36s ( 0.86s): Travis Kelsey
+3051.60s - 3056.08s ( 4.47s): Taylor Swift
+3052.36s - 3052.38s ( 0.02s): Taylor Swift
+3056.09s - 3056.11s ( 0.02s): Taylor Swift
+3056.11s - 3056.50s ( 0.39s): Taylor Swift
+3056.50s - 3060.03s ( 3.53s): Taylor Swift
+3056.52s - 3056.55s ( 0.03s): Taylor Swift
+3056.57s - 3056.58s ( 0.02s): Taylor Swift
+3056.77s - 3057.31s ( 0.54s): Taylor Swift
+3060.62s - 3067.40s ( 6.78s): Taylor Swift
+3064.38s - 3064.77s ( 0.39s): Taylor Swift
+3064.77s - 3064.80s ( 0.03s): Taylor Swift
+3067.87s - 3073.59s ( 5.72s): Taylor Swift
+3073.90s - 3074.40s ( 0.51s): Taylor Swift
+3074.69s - 3076.61s ( 1.92s): Taylor Swift
+3077.10s - 3084.29s ( 7.19s): Taylor Swift
+3084.75s - 3087.31s ( 2.56s): Taylor Swift
+3087.78s - 3091.78s ( 4.00s): Taylor Swift
+3092.14s - 3092.17s ( 0.03s): Jason Kelsey
+3092.17s - 3092.19s ( 0.02s): Taylor Swift
+3092.19s - 3096.32s ( 4.13s): Jason Kelsey
+3092.49s - 3093.86s ( 1.37s): Taylor Swift
+3094.53s - 3094.72s ( 0.19s): Taylor Swift
+3097.42s - 3103.97s ( 6.55s): Jason Kelsey
+3103.97s - 3111.51s ( 7.54s): Taylor Swift
+3106.58s - 3107.44s ( 0.86s): Taylor Swift
+3111.71s - 3112.14s ( 0.42s): Taylor Swift
+3112.86s - 3117.00s ( 4.13s): Taylor Swift
+3115.17s - 3115.63s ( 0.46s): Taylor Swift
+3115.63s - 3115.66s ( 0.03s): Jason Kelsey
+3117.23s - 3118.28s ( 1.05s): Taylor Swift
+3117.43s - 3117.65s ( 0.22s): Jason Kelsey
+3118.63s - 3122.02s ( 3.39s): Taylor Swift
+3122.38s - 3124.76s ( 2.38s): Taylor Swift
+3125.06s - 3125.84s ( 0.78s): Taylor Swift
+3125.10s - 3125.57s ( 0.47s): Jason Kelsey
+3125.96s - 3134.06s ( 8.10s): Taylor Swift
+3134.22s - 3136.87s ( 2.65s): Taylor Swift
+3137.62s - 3139.61s ( 1.99s): Taylor Swift
+3139.79s - 3149.36s ( 9.57s): Taylor Swift
+3149.73s - 3151.44s ( 1.70s): Taylor Swift
+3152.01s - 3153.01s ( 1.00s): Taylor Swift
+3153.43s - 3156.36s ( 2.94s): Taylor Swift
+3156.36s - 3158.27s ( 1.91s): Jason Kelsey
+3157.02s - 3158.31s ( 1.28s): Taylor Swift
+3158.31s - 3159.15s ( 0.84s): Jason Kelsey
+3159.17s - 3163.42s ( 4.25s): Taylor Swift
+3163.57s - 3163.77s ( 0.20s): Jason Kelsey
+3163.77s - 3163.98s ( 0.20s): Taylor Swift
+3163.98s - 3164.01s ( 0.03s): Jason Kelsey
+3164.01s - 3164.06s ( 0.05s): Taylor Swift
+3164.06s - 3164.08s ( 0.02s): Jason Kelsey
+3164.08s - 3164.09s ( 0.02s): Taylor Swift
+3164.09s - 3171.20s ( 7.10s): Taylor Swift
+3171.50s - 3176.77s ( 5.27s): Taylor Swift
+3177.34s - 3180.80s ( 3.46s): Taylor Swift
+3181.14s - 3183.48s ( 2.35s): Taylor Swift
+3181.22s - 3181.51s ( 0.29s): Jason Kelsey
+3183.97s - 3188.04s ( 4.07s): Taylor Swift
+3188.41s - 3189.29s ( 0.88s): Taylor Swift
+3189.79s - 3193.32s ( 3.53s): Taylor Swift
+3193.49s - 3197.35s ( 3.86s): Taylor Swift
+3195.99s - 3198.16s ( 2.18s): Jason Kelsey
+3198.60s - 3200.80s ( 2.19s): Taylor Swift
+3202.30s - 3203.11s ( 0.81s): Jason Kelsey
+3203.34s - 3207.88s ( 4.54s): Taylor Swift
+3203.72s - 3204.66s ( 0.94s): Jason Kelsey
+3206.47s - 3207.90s ( 1.43s): Jason Kelsey
+3207.90s - 3207.92s ( 0.02s): Taylor Swift
+3207.92s - 3208.83s ( 0.91s): Jason Kelsey
+3209.20s - 3215.36s ( 6.16s): Jason Kelsey
+3210.53s - 3210.69s ( 0.15s): Travis Kelsey
+3216.34s - 3222.24s ( 5.91s): Travis Kelsey
+3217.62s - 3219.44s ( 1.82s): Jason Kelsey
+3222.41s - 3224.98s ( 2.57s): Taylor Swift
+3224.98s - 3225.27s ( 0.29s): Travis Kelsey
+3226.06s - 3226.58s ( 0.52s): Travis Kelsey
+3227.19s - 3236.89s ( 9.70s): Taylor Swift
+3231.63s - 3234.16s ( 2.53s): Travis Kelsey
+3234.16s - 3235.47s ( 1.32s): Taylor Swift
+3235.47s - 3236.18s ( 0.71s): Jason Kelsey
+3238.23s - 3239.47s ( 1.25s): Taylor Swift
+3238.50s - 3238.97s ( 0.47s): Jason Kelsey
+3240.05s - 3242.71s ( 2.67s): Jason Kelsey
+3241.65s - 3242.16s ( 0.51s): Taylor Swift
+3244.17s - 3244.22s ( 0.05s): Taylor Swift
+3244.22s - 3244.62s ( 0.40s): Jason Kelsey
+3244.62s - 3244.79s ( 0.17s): Taylor Swift
+3244.79s - 3245.13s ( 0.34s): Jason Kelsey
+3245.30s - 3247.86s ( 2.56s): Jason Kelsey
+3246.46s - 3247.57s ( 1.11s): Taylor Swift
+3248.65s - 3249.35s ( 0.69s): Jason Kelsey
+3249.92s - 3251.12s ( 1.20s): Jason Kelsey
+3251.56s - 3252.32s ( 0.76s): Jason Kelsey
+3252.40s - 3258.96s ( 6.56s): Jason Kelsey
+3252.54s - 3253.33s ( 0.79s): Taylor Swift
+3255.18s - 3256.25s ( 1.06s): Travis Kelsey
+3256.25s - 3258.91s ( 2.67s): Taylor Swift
+3258.91s - 3258.96s ( 0.05s): Travis Kelsey
+3259.45s - 3260.01s ( 0.56s): Jason Kelsey
+3259.66s - 3259.96s ( 0.30s): Travis Kelsey
+3260.01s - 3260.04s ( 0.03s): Travis Kelsey
+3260.04s - 3260.08s ( 0.03s): Jason Kelsey
+3260.08s - 3260.10s ( 0.02s): Travis Kelsey
+3260.10s - 3260.28s ( 0.19s): Jason Kelsey
+3260.28s - 3260.30s ( 0.02s): Travis Kelsey
+3260.30s - 3261.01s ( 0.71s): Jason Kelsey
+3261.34s - 3262.61s ( 1.27s): Travis Kelsey
+3262.46s - 3265.90s ( 3.44s): Jason Kelsey
+3262.61s - 3262.88s ( 0.27s): Taylor Swift
+3262.88s - 3263.27s ( 0.39s): Travis Kelsey
+3265.41s - 3265.97s ( 0.56s): Taylor Swift
+3266.25s - 3269.06s ( 2.80s): Jason Kelsey
+3266.31s - 3267.15s ( 0.84s): Taylor Swift
+3269.14s - 3270.93s ( 1.79s): Taylor Swift
+3271.30s - 3272.60s ( 1.30s): Taylor Swift
+3271.47s - 3271.72s ( 0.25s): Jason Kelsey
+3273.07s - 3279.01s ( 5.94s): Taylor Swift
+3277.63s - 3277.93s ( 0.30s): Jason Kelsey
+3279.00s - 3282.47s ( 3.48s): Travis Kelsey
+3279.01s - 3279.74s ( 0.73s): Jason Kelsey
+3280.53s - 3288.63s ( 8.10s): Jason Kelsey
+3282.47s - 3282.64s ( 0.17s): Taylor Swift
+3282.64s - 3283.10s ( 0.46s): Travis Kelsey
+3283.10s - 3284.04s ( 0.95s): Taylor Swift
+3288.58s - 3292.28s ( 3.70s): Taylor Swift
+3291.30s - 3293.74s ( 2.45s): Jason Kelsey
+3292.28s - 3294.32s ( 2.04s): Taylor Swift
+3294.72s - 3297.14s ( 2.41s): Jason Kelsey
+3297.63s - 3303.77s ( 6.14s): Jason Kelsey
+3301.61s - 3302.62s ( 1.01s): Taylor Swift
+3302.89s - 3306.55s ( 3.66s): Taylor Swift
+3305.62s - 3305.93s ( 0.30s): Jason Kelsey
+3307.19s - 3307.97s ( 0.78s): Jason Kelsey
+3307.63s - 3309.74s ( 2.11s): Taylor Swift
+3310.05s - 3311.28s ( 1.23s): Jason Kelsey
+3310.08s - 3310.45s ( 0.37s): Taylor Swift
+3315.99s - 3317.13s ( 1.15s): Jason Kelsey
+3316.12s - 3316.51s ( 0.39s): Taylor Swift
+3317.69s - 3320.36s ( 2.67s): Jason Kelsey
+3321.47s - 3323.49s ( 2.02s): Jason Kelsey
+3323.90s - 3328.30s ( 4.40s): Jason Kelsey
+3328.78s - 3332.24s ( 3.46s): Jason Kelsey
+3333.47s - 3341.03s ( 7.56s): Jason Kelsey
+3341.18s - 3342.60s ( 1.42s): Jason Kelsey
+3343.02s - 3344.03s ( 1.01s): Jason Kelsey
+3344.71s - 3346.88s ( 2.18s): Jason Kelsey
+3347.47s - 3350.39s ( 2.92s): Jason Kelsey
+3350.31s - 3350.87s ( 0.56s): Taylor Swift
+3351.27s - 3353.03s ( 1.76s): Taylor Swift
+3353.03s - 3353.60s ( 0.57s): Taylor Swift
+3354.00s - 3369.72s (15.71s): Taylor Swift
+3360.47s - 3360.97s ( 0.51s): Taylor Swift
+3370.12s - 3372.23s ( 2.11s): Taylor Swift
+3371.74s - 3374.81s ( 3.07s): Travis Kelsey
+3375.62s - 3379.22s ( 3.59s): Travis Kelsey
+3379.22s - 3383.74s ( 4.52s): Taylor Swift
+3381.27s - 3382.14s ( 0.86s): Travis Kelsey
+3383.43s - 3384.08s ( 0.64s): Travis Kelsey
+3384.67s - 3389.53s ( 4.86s): Travis Kelsey
+3385.93s - 3386.91s ( 0.98s): Taylor Swift
+3389.24s - 3401.10s (11.86s): Taylor Swift
+3401.10s - 3405.03s ( 3.93s): Travis Kelsey
+3401.52s - 3403.62s ( 2.09s): Taylor Swift
+3405.02s - 3406.59s ( 1.57s): Taylor Swift
+3405.68s - 3406.81s ( 1.13s): Travis Kelsey
+3406.86s - 3417.81s (10.95s): Taylor Swift
+3412.54s - 3412.56s ( 0.02s): Taylor Swift
+3412.56s - 3412.92s ( 0.35s): Travis Kelsey
+3418.08s - 3422.20s ( 4.12s): Travis Kelsey
+3419.19s - 3419.94s ( 0.74s): Taylor Swift
+3422.16s - 3424.47s ( 2.31s): Taylor Swift
+3422.75s - 3423.68s ( 0.93s): Travis Kelsey
+3423.77s - 3426.03s ( 2.26s): Travis Kelsey
+3424.47s - 3424.49s ( 0.02s): Taylor Swift
+3425.00s - 3426.38s ( 1.38s): Taylor Swift
+3426.13s - 3427.26s ( 1.13s): Travis Kelsey
+3427.65s - 3432.56s ( 4.91s): Travis Kelsey
+3432.71s - 3432.73s ( 0.02s): Jason Kelsey
+3432.73s - 3432.74s ( 0.02s): Travis Kelsey
+3432.74s - 3433.06s ( 0.32s): Jason Kelsey
+3432.90s - 3434.52s ( 1.62s): Travis Kelsey
+3435.09s - 3436.08s ( 1.00s): Travis Kelsey
+3435.16s - 3435.66s ( 0.51s): Taylor Swift
+3437.69s - 3438.14s ( 0.46s): Travis Kelsey
+3438.14s - 3445.05s ( 6.90s): Taylor Swift
+3442.89s - 3442.92s ( 0.03s): Travis Kelsey
+3442.92s - 3443.44s ( 0.52s): Jason Kelsey
+3445.05s - 3445.10s ( 0.05s): Jason Kelsey
+3445.10s - 3445.62s ( 0.52s): Travis Kelsey
+3445.62s - 3445.77s ( 0.15s): Jason Kelsey
+3445.77s - 3446.77s ( 1.00s): Taylor Swift
+3446.77s - 3453.52s ( 6.75s): Jason Kelsey
+3450.26s - 3451.29s ( 1.03s): Travis Kelsey
+3452.12s - 3453.06s ( 0.94s): Travis Kelsey
+3453.52s - 3458.51s ( 4.99s): Travis Kelsey
+3454.75s - 3455.58s ( 0.83s): Jason Kelsey
+3456.23s - 3456.94s ( 0.71s): Jason Kelsey
+3458.85s - 3476.45s (17.60s): Travis Kelsey
+3464.05s - 3466.00s ( 1.96s): Taylor Swift
+3478.07s - 3478.10s ( 0.03s): Travis Kelsey
+3478.17s - 3480.26s ( 2.09s): Travis Kelsey
+3478.74s - 3483.50s ( 4.76s): Taylor Swift
+3484.65s - 3485.04s ( 0.39s): Taylor Swift
+3484.89s - 3485.16s ( 0.27s): Jason Kelsey
+3485.46s - 3488.35s ( 2.89s): Taylor Swift
+3485.70s - 3486.91s ( 1.22s): Jason Kelsey
+3487.37s - 3491.57s ( 4.20s): Jason Kelsey
+3489.68s - 3490.08s ( 0.40s): Taylor Swift
+3490.88s - 3490.95s ( 0.07s): Taylor Swift
+3493.17s - 3505.31s (12.13s): Taylor Swift
+3497.39s - 3497.51s ( 0.12s): Jason Kelsey
+3505.78s - 3506.91s ( 1.13s): Jason Kelsey
+3506.84s - 3510.37s ( 3.53s): Taylor Swift
+3511.74s - 3513.96s ( 2.23s): Travis Kelsey
+3511.80s - 3512.04s ( 0.24s): Taylor Swift
+3512.34s - 3512.92s ( 0.57s): Taylor Swift
+3513.74s - 3525.71s (11.96s): Taylor Swift
+3514.65s - 3514.98s ( 0.32s): Travis Kelsey
+3514.98s - 3515.62s ( 0.64s): Taylor Swift
+3523.75s - 3528.81s ( 5.06s): Jason Kelsey
+3526.30s - 3532.46s ( 6.16s): Taylor Swift
+3531.09s - 3534.26s ( 3.17s): Jason Kelsey
+3533.61s - 3547.27s (13.67s): Taylor Swift
+3543.46s - 3544.61s ( 1.15s): Jason Kelsey
+3547.27s - 3549.08s ( 1.81s): Jason Kelsey
+3547.32s - 3547.71s ( 0.39s): Taylor Swift
+3547.71s - 3547.76s ( 0.05s): Taylor Swift
+3549.69s - 3559.80s (10.11s): Jason Kelsey
+3561.04s - 3568.64s ( 7.59s): Taylor Swift
+3569.03s - 3574.53s ( 5.50s): Taylor Swift
+3574.65s - 3575.74s ( 1.10s): Jason Kelsey
+3575.13s - 3579.52s ( 4.39s): Taylor Swift
+3576.52s - 3577.01s ( 0.49s): Jason Kelsey
+3581.01s - 3583.59s ( 2.58s): Taylor Swift
+3585.26s - 3586.41s ( 1.15s): Travis Kelsey
+3586.37s - 3588.21s ( 1.84s): Taylor Swift
+3589.04s - 3593.11s ( 4.07s): Taylor Swift
+3594.19s - 3602.13s ( 7.95s): Taylor Swift
+3594.44s - 3594.98s ( 0.54s): Taylor Swift
+3594.98s - 3595.03s ( 0.05s): Taylor Swift
+3598.15s - 3598.56s ( 0.40s): Jason Kelsey
+3601.32s - 3601.93s ( 0.61s): Jason Kelsey
+3602.13s - 3602.54s ( 0.40s): Jason Kelsey
+3602.54s - 3602.56s ( 0.02s): Taylor Swift
+3602.56s - 3602.61s ( 0.05s): Jason Kelsey
+3602.61s - 3602.69s ( 0.08s): Taylor Swift
+3603.47s - 3616.83s (13.36s): Taylor Swift
+3617.10s - 3619.72s ( 2.62s): Taylor Swift
+3619.82s - 3626.18s ( 6.36s): Taylor Swift
+3625.56s - 3628.81s ( 3.26s): Travis Kelsey
+3627.57s - 3630.06s ( 2.50s): Taylor Swift
+3630.23s - 3630.55s ( 0.32s): Travis Kelsey
+3630.25s - 3630.33s ( 0.08s): Taylor Swift
+3630.55s - 3636.48s ( 5.92s): Taylor Swift
+3631.51s - 3632.07s ( 0.56s): Travis Kelsey
+3635.60s - 3641.72s ( 6.13s): Travis Kelsey
+3640.14s - 3643.02s ( 2.89s): Jason Kelsey
+3643.02s - 3643.17s ( 0.15s): Travis Kelsey
+3643.17s - 3645.59s ( 2.41s): Jason Kelsey
+3643.21s - 3644.96s ( 1.76s): Travis Kelsey
+3644.96s - 3646.21s ( 1.25s): Taylor Swift
+3646.03s - 3647.53s ( 1.50s): Jason Kelsey
+3646.67s - 3655.24s ( 8.57s): Taylor Swift
+3653.91s - 3657.60s ( 3.70s): Jason Kelsey
+3656.07s - 3657.16s ( 1.10s): Taylor Swift
+3657.82s - 3658.02s ( 0.20s): Taylor Swift
+3658.02s - 3666.02s ( 8.00s): Jason Kelsey
+3661.38s - 3662.26s ( 0.88s): Taylor Swift
+3664.34s - 3664.40s ( 0.07s): Taylor Swift
+3664.40s - 3664.61s ( 0.20s): Travis Kelsey
+3664.61s - 3664.62s ( 0.02s): Taylor Swift
+3664.62s - 3664.72s ( 0.10s): Taylor Swift
+3664.72s - 3664.74s ( 0.02s): Travis Kelsey
+3664.74s - 3664.81s ( 0.07s): Taylor Swift
+3665.96s - 3667.10s ( 1.15s): Travis Kelsey
+3666.02s - 3666.43s ( 0.40s): Taylor Swift
+3667.10s - 3667.26s ( 0.15s): Jason Kelsey
+3667.26s - 3682.24s (14.99s): Taylor Swift
+3680.77s - 3681.16s ( 0.39s): Taylor Swift
+3682.58s - 3690.41s ( 7.83s): Taylor Swift
+3691.12s - 3691.59s ( 0.47s): Taylor Swift
+3691.84s - 3695.45s ( 3.61s): Taylor Swift
+3695.76s - 3697.87s ( 2.11s): Taylor Swift
+3698.47s - 3700.57s ( 2.09s): Taylor Swift
+3700.97s - 3704.90s ( 3.93s): Taylor Swift
+3705.53s - 3705.87s ( 0.34s): Taylor Swift
+3705.56s - 3713.04s ( 7.48s): Jason Kelsey
+3713.32s - 3714.05s ( 0.73s): Jason Kelsey
+3713.73s - 3719.69s ( 5.96s): Travis Kelsey
+3720.23s - 3720.97s ( 0.74s): Travis Kelsey
+3721.47s - 3722.15s ( 0.67s): Travis Kelsey
+3722.42s - 3723.99s ( 1.57s): Taylor Swift
+3723.23s - 3746.96s (23.73s): Travis Kelsey
+3724.63s - 3724.92s ( 0.29s): Taylor Swift
+3725.31s - 3725.86s ( 0.56s): Taylor Swift
+3726.25s - 3726.30s ( 0.05s): Taylor Swift
+3745.54s - 3751.14s ( 5.60s): Taylor Swift
+3749.88s - 3757.54s ( 7.66s): Travis Kelsey
+3751.90s - 3753.71s ( 1.81s): Taylor Swift
+3755.06s - 3756.19s ( 1.13s): Taylor Swift
+3757.25s - 3758.52s ( 1.27s): Taylor Swift
+3758.75s - 3759.16s ( 0.40s): Taylor Swift
+3760.22s - 3762.48s ( 2.26s): Taylor Swift
+3762.57s - 3766.14s ( 3.58s): Taylor Swift
+3766.60s - 3772.72s ( 6.13s): Taylor Swift
+3773.43s - 3781.87s ( 8.44s): Taylor Swift
+3778.61s - 3779.59s ( 0.98s): Travis Kelsey
+3781.40s - 3781.41s ( 0.02s): Jason Kelsey
+3781.41s - 3782.85s ( 1.43s): Travis Kelsey
+3781.87s - 3781.90s ( 0.03s): Jason Kelsey
+3782.75s - 3782.76s ( 0.02s): Taylor Swift
+3782.76s - 3783.91s ( 1.15s): Jason Kelsey
+3784.44s - 3785.53s ( 1.10s): Jason Kelsey
+3785.95s - 3796.28s (10.33s): Jason Kelsey
+3793.41s - 3794.04s ( 0.62s): Travis Kelsey
+3794.04s - 3794.09s ( 0.05s): Taylor Swift
+3794.09s - 3794.64s ( 0.56s): Travis Kelsey
+3794.64s - 3794.76s ( 0.12s): Taylor Swift
+3794.76s - 3794.97s ( 0.20s): Travis Kelsey
+3794.97s - 3795.49s ( 0.52s): Taylor Swift
+3796.16s - 3813.98s (17.82s): Taylor Swift
+3804.94s - 3805.44s ( 0.51s): Taylor Swift
+3814.08s - 3821.86s ( 7.78s): Travis Kelsey
+3821.80s - 3821.81s ( 0.02s): Jason Kelsey
+3821.81s - 3822.67s ( 0.86s): Taylor Swift
+3822.99s - 3823.01s ( 0.02s): Travis Kelsey
+3823.01s - 3823.03s ( 0.02s): Jason Kelsey
+3823.03s - 3824.56s ( 1.54s): Travis Kelsey
+3824.82s - 3830.86s ( 6.04s): Travis Kelsey
+3829.95s - 3830.32s ( 0.37s): Jason Kelsey
+3830.93s - 3831.87s ( 0.94s): Jason Kelsey
+3831.23s - 3841.44s (10.21s): Travis Kelsey
+3833.95s - 3834.30s ( 0.35s): Jason Kelsey
+3835.74s - 3836.36s ( 0.62s): Jason Kelsey
+3836.36s - 3836.38s ( 0.02s): Taylor Swift
+3837.37s - 3837.96s ( 0.59s): Jason Kelsey
+3837.96s - 3839.53s ( 1.57s): Taylor Swift
+3841.49s - 3849.83s ( 8.34s): Taylor Swift
+3841.79s - 3842.22s ( 0.42s): Travis Kelsey
+3850.10s - 3854.50s ( 4.40s): Taylor Swift
+3854.50s - 3855.46s ( 0.96s): Jason Kelsey
+3855.51s - 3857.20s ( 1.69s): Jason Kelsey
+3857.20s - 3863.12s ( 5.92s): Taylor Swift
+3861.20s - 3861.57s ( 0.37s): Jason Kelsey
+3861.57s - 3861.69s ( 0.12s): Taylor Swift
+3862.48s - 3863.11s ( 0.62s): Taylor Swift
+3863.12s - 3863.19s ( 0.07s): Taylor Swift
+3863.87s - 3870.97s ( 7.10s): Taylor Swift
+3869.97s - 3870.38s ( 0.40s): Taylor Swift
+3870.90s - 3871.70s ( 0.79s): Taylor Swift
+3871.36s - 3873.96s ( 2.60s): Taylor Swift
+3873.96s - 3874.83s ( 0.88s): Taylor Swift
+3874.24s - 3875.16s ( 0.91s): Taylor Swift
+3875.43s - 3876.10s ( 0.68s): Taylor Swift
+3876.52s - 3884.37s ( 7.85s): Taylor Swift
+3884.84s - 3885.97s ( 1.13s): Taylor Swift
+3886.66s - 3887.41s ( 0.74s): Taylor Swift
+3887.86s - 3895.27s ( 7.41s): Taylor Swift
+3890.92s - 3891.32s ( 0.40s): Travis Kelsey
+3893.30s - 3893.53s ( 0.24s): Travis Kelsey
+3894.36s - 3895.07s ( 0.71s): Travis Kelsey
+3895.71s - 3904.23s ( 8.52s): Travis Kelsey
+3896.54s - 3896.77s ( 0.24s): Taylor Swift
+3902.12s - 3902.95s ( 0.83s): Taylor Swift
+3903.40s - 3903.88s ( 0.47s): Taylor Swift
+3904.79s - 3905.97s ( 1.18s): Travis Kelsey
+3905.26s - 3912.40s ( 7.14s): Taylor Swift
+3908.35s - 3908.69s ( 0.34s): Travis Kelsey
+3909.73s - 3911.22s ( 1.48s): Travis Kelsey
+3912.94s - 3914.29s ( 1.35s): Travis Kelsey
+3915.72s - 3918.22s ( 2.50s): Travis Kelsey
+3915.86s - 3916.72s ( 0.86s): Jason Kelsey
+3918.29s - 3920.45s ( 2.16s): Jason Kelsey
+3919.65s - 3919.77s ( 0.12s): Taylor Swift
+3919.77s - 3919.82s ( 0.05s): Travis Kelsey
+3919.82s - 3919.84s ( 0.02s): Taylor Swift
+3919.84s - 3921.49s ( 1.65s): Travis Kelsey
+3921.31s - 3921.44s ( 0.14s): Jason Kelsey
+3921.49s - 3921.63s ( 0.14s): Jason Kelsey
+3922.14s - 3924.03s ( 1.89s): Jason Kelsey
+3924.06s - 3927.99s ( 3.93s): Jason Kelsey
+3928.43s - 3929.59s ( 1.16s): Jason Kelsey
+3930.02s - 3932.11s ( 2.09s): Jason Kelsey
+3932.24s - 3935.28s ( 3.04s): Taylor Swift
+3933.21s - 3933.61s ( 0.41s): Jason Kelsey
+3933.61s - 3933.80s ( 0.19s): Travis Kelsey
+3933.95s - 3934.08s ( 0.14s): Travis Kelsey
+3934.08s - 3934.91s ( 0.83s): Jason Kelsey
+3935.92s - 3936.28s ( 0.35s): Taylor Swift
+3935.99s - 3937.04s ( 1.05s): Jason Kelsey
+3937.04s - 3938.00s ( 0.96s): Taylor Swift
+3938.55s - 3940.78s ( 2.23s): Travis Kelsey
+3938.57s - 3939.65s ( 1.08s): Taylor Swift
+3940.39s - 3946.45s ( 6.06s): Taylor Swift
+3946.35s - 3949.15s ( 2.80s): Jason Kelsey
+3949.15s - 3969.25s (20.10s): Taylor Swift
+3951.24s - 3951.82s ( 0.57s): Jason Kelsey
+3959.16s - 3959.95s ( 0.79s): Jason Kelsey
+3969.13s - 3971.44s ( 2.31s): Travis Kelsey
+3969.60s - 3970.68s ( 1.08s): Taylor Swift
+3972.29s - 3974.90s ( 2.62s): Travis Kelsey
+3974.90s - 3975.41s ( 0.51s): Taylor Swift
+3975.46s - 3976.86s ( 1.40s): Taylor Swift
+3976.08s - 3978.78s ( 2.70s): Travis Kelsey
+3977.54s - 3983.07s ( 5.53s): Taylor Swift
+3978.97s - 3979.49s ( 0.52s): Travis Kelsey
+3983.44s - 4009.40s (25.95s): Taylor Swift
+3989.53s - 3989.57s ( 0.03s): Jason Kelsey
+3989.57s - 3990.04s ( 0.47s): Taylor Swift
+3994.77s - 3994.80s ( 0.03s): Taylor Swift
+3994.80s - 3996.22s ( 1.42s): Travis Kelsey
+3998.83s - 3999.22s ( 0.39s): Travis Kelsey
+3999.22s - 3999.25s ( 0.03s): Taylor Swift
+4000.96s - 4000.98s ( 0.02s): Jason Kelsey
+4000.98s - 4001.26s ( 0.29s): Taylor Swift
+4001.26s - 4001.31s ( 0.05s): Travis Kelsey
+4009.46s - 4014.34s ( 4.88s): Taylor Swift
+4012.18s - 4016.94s ( 4.76s): Travis Kelsey
+4016.94s - 4018.05s ( 1.11s): Taylor Swift
+4017.73s - 4020.45s ( 2.72s): Travis Kelsey
+4018.96s - 4019.94s ( 0.98s): Taylor Swift
+4020.45s - 4029.00s ( 8.56s): Taylor Swift
+4024.43s - 4025.19s ( 0.76s): Travis Kelsey
+4026.52s - 4032.89s ( 6.36s): Travis Kelsey
+4029.44s - 4029.49s ( 0.05s): Taylor Swift
+4034.30s - 4037.68s ( 3.38s): Travis Kelsey
+4038.13s - 4051.80s (13.67s): Travis Kelsey
+4039.50s - 4039.86s ( 0.35s): Jason Kelsey
+4052.16s - 4056.17s ( 4.02s): Travis Kelsey
+4056.17s - 4056.44s ( 0.27s): Jason Kelsey
+4056.19s - 4056.41s ( 0.22s): Travis Kelsey
+4056.44s - 4057.98s ( 1.54s): Travis Kelsey
+4057.84s - 4057.89s ( 0.05s): Taylor Swift
+4057.89s - 4058.35s ( 0.46s): Jason Kelsey
+4057.98s - 4058.28s ( 0.30s): Taylor Swift
+4058.35s - 4059.43s ( 1.08s): Taylor Swift
+4059.67s - 4065.30s ( 5.64s): Jason Kelsey
+4065.66s - 4071.18s ( 5.52s): Jason Kelsey
+4071.50s - 4074.09s ( 2.60s): Jason Kelsey
+4074.55s - 4079.97s ( 5.42s): Jason Kelsey
+4076.59s - 4078.45s ( 1.86s): Taylor Swift
+4079.11s - 4080.88s ( 1.77s): Taylor Swift
+4081.01s - 4085.10s ( 4.08s): Taylor Swift
+4081.05s - 4081.25s ( 0.20s): Jason Kelsey
+4085.50s - 4090.75s ( 5.25s): Taylor Swift
+4087.90s - 4088.19s ( 0.29s): Travis Kelsey
+4090.75s - 4095.05s ( 4.30s): Travis Kelsey
+4095.42s - 4108.18s (12.76s): Travis Kelsey
+4097.50s - 4097.79s ( 0.29s): Taylor Swift
+4099.78s - 4099.81s ( 0.03s): Jason Kelsey
+4099.81s - 4100.17s ( 0.35s): Taylor Swift
+4107.15s - 4108.13s ( 0.98s): Taylor Swift
+4108.18s - 4128.79s (20.60s): Taylor Swift
+4109.08s - 4109.09s ( 0.02s): Taylor Swift
+4109.09s - 4110.17s ( 1.08s): Taylor Swift
+4110.17s - 4110.33s ( 0.15s): Taylor Swift
+4111.51s - 4112.38s ( 0.88s): Travis Kelsey
+4112.38s - 4112.76s ( 0.37s): Taylor Swift
+4116.45s - 4117.62s ( 1.16s): Taylor Swift
+4117.62s - 4117.73s ( 0.12s): Jason Kelsey
+4128.90s - 4128.92s ( 0.02s): Taylor Swift
+4128.92s - 4129.90s ( 0.98s): Jason Kelsey
+4128.97s - 4129.38s ( 0.41s): Taylor Swift
+4130.49s - 4136.31s ( 5.82s): Jason Kelsey
+4135.40s - 4140.36s ( 4.96s): Taylor Swift
+4140.28s - 4140.33s ( 0.05s): Jason Kelsey
+4140.36s - 4140.58s ( 0.22s): Jason Kelsey
+4140.58s - 4142.46s ( 1.87s): Taylor Swift
+4140.60s - 4140.63s ( 0.03s): Jason Kelsey
+4140.63s - 4140.68s ( 0.05s): Taylor Swift
+4143.10s - 4155.55s (12.45s): Taylor Swift
+4155.85s - 4156.58s ( 0.73s): Jason Kelsey
+4156.58s - 4165.91s ( 9.33s): Taylor Swift
+4161.59s - 4162.20s ( 0.61s): Jason Kelsey
+4162.92s - 4163.53s ( 0.61s): Jason Kelsey
+4164.70s - 4165.15s ( 0.46s): Jason Kelsey
+4166.03s - 4172.36s ( 6.33s): Taylor Swift
+4172.93s - 4176.32s ( 3.39s): Taylor Swift
+4176.96s - 4178.21s ( 1.25s): Taylor Swift
+4178.79s - 4186.70s ( 7.91s): Taylor Swift
+4178.82s - 4179.31s ( 0.49s): Travis Kelsey
+4182.53s - 4183.28s ( 0.74s): Travis Kelsey
+4186.75s - 4188.30s ( 1.55s): Travis Kelsey
+4186.79s - 4187.70s ( 0.91s): Taylor Swift
+4188.63s - 4188.68s ( 0.05s): Jason Kelsey
+4188.68s - 4188.96s ( 0.29s): Taylor Swift
+4188.96s - 4189.11s ( 0.15s): Jason Kelsey
+4189.52s - 4189.54s ( 0.02s): Jason Kelsey
+4189.54s - 4189.79s ( 0.25s): Taylor Swift
+4189.79s - 4189.82s ( 0.03s): Jason Kelsey
+4189.82s - 4189.86s ( 0.03s): Taylor Swift
+4189.86s - 4189.91s ( 0.05s): Jason Kelsey
+4189.91s - 4190.03s ( 0.12s): Taylor Swift
+4190.03s - 4190.97s ( 0.94s): Jason Kelsey
+4190.97s - 4196.74s ( 5.77s): Taylor Swift
+4197.21s - 4200.72s ( 3.51s): Taylor Swift
+4197.30s - 4197.32s ( 0.02s): Taylor Swift
+4201.38s - 4203.75s ( 2.36s): Taylor Swift
+4204.00s - 4204.76s ( 0.76s): Taylor Swift
+4204.77s - 4211.34s ( 6.56s): Taylor Swift
+4211.71s - 4218.73s ( 7.02s): Taylor Swift
+4218.16s - 4218.46s ( 0.30s): Taylor Swift
+4218.92s - 4219.27s ( 0.35s): Taylor Swift
+4219.56s - 4230.64s (11.09s): Taylor Swift
+4230.86s - 4234.66s ( 3.80s): Taylor Swift
+4235.12s - 4239.52s ( 4.40s): Taylor Swift
+4239.77s - 4242.90s ( 3.12s): Taylor Swift
+4243.89s - 4245.29s ( 1.40s): Taylor Swift
+4245.43s - 4245.78s ( 0.35s): Taylor Swift
+4245.75s - 4246.96s ( 1.22s): Taylor Swift
+4247.49s - 4250.47s ( 2.99s): Taylor Swift
+4250.67s - 4251.99s ( 1.32s): Taylor Swift
+4252.36s - 4254.13s ( 1.77s): Taylor Swift
+4254.37s - 4260.53s ( 6.16s): Taylor Swift
+4260.99s - 4263.72s ( 2.73s): Taylor Swift
+4262.27s - 4265.29s ( 3.02s): Travis Kelsey
+4264.83s - 4265.20s ( 0.37s): Taylor Swift
+4265.44s - 4273.14s ( 7.69s): Taylor Swift
+4272.71s - 4275.40s ( 2.68s): Travis Kelsey
+4273.66s - 4277.46s ( 3.80s): Taylor Swift
+4277.66s - 4280.44s ( 2.78s): Taylor Swift
+4280.44s - 4280.71s ( 0.27s): Taylor Swift
+4280.71s - 4281.94s ( 1.23s): Taylor Swift
+4282.15s - 4282.18s ( 0.03s): Taylor Swift
+4282.18s - 4282.43s ( 0.25s): Taylor Swift
+4282.21s - 4303.39s (21.18s): Taylor Swift
+4287.11s - 4287.12s ( 0.02s): Taylor Swift
+4297.96s - 4299.58s ( 1.62s): Taylor Swift
+4303.65s - 4307.85s ( 4.20s): Taylor Swift
+4308.45s - 4311.46s ( 3.00s): Taylor Swift
+4311.46s - 4313.58s ( 2.13s): Taylor Swift
+4314.56s - 4319.14s ( 4.57s): Taylor Swift
+4314.87s - 4314.95s ( 0.08s): Taylor Swift
+4314.95s - 4315.10s ( 0.15s): Taylor Swift
+4315.10s - 4315.47s ( 0.37s): Taylor Swift
+4315.47s - 4315.54s ( 0.07s): Taylor Swift
+4319.52s - 4344.42s (24.89s): Taylor Swift
+4345.14s - 4351.59s ( 6.45s): Taylor Swift
+4351.13s - 4356.23s ( 5.10s): Travis Kelsey
+4354.88s - 4379.26s (24.38s): Taylor Swift
+4375.14s - 4377.12s ( 1.97s): Jason Kelsey
+4379.84s - 4381.19s ( 1.35s): Taylor Swift
+4381.83s - 4396.81s (14.98s): Taylor Swift
+4393.30s - 4393.98s ( 0.67s): Taylor Swift
+4393.98s - 4394.08s ( 0.10s): Taylor Swift
+4394.28s - 4394.52s ( 0.24s): Taylor Swift
+4394.74s - 4395.02s ( 0.29s): Taylor Swift
+4395.02s - 4395.55s ( 0.52s): Taylor Swift
+4397.35s - 4408.14s (10.78s): Taylor Swift
+4402.47s - 4402.85s ( 0.39s): Taylor Swift
+4408.44s - 4415.36s ( 6.92s): Taylor Swift
+4416.02s - 4416.56s ( 0.54s): Taylor Swift
+4416.56s - 4422.06s ( 5.50s): Travis Kelsey
+4417.79s - 4418.21s ( 0.42s): Taylor Swift
+4421.58s - 4421.60s ( 0.02s): Taylor Swift
+4421.60s - 4429.26s ( 7.66s): Jason Kelsey
+4422.51s - 4422.92s ( 0.40s): Travis Kelsey
+4426.58s - 4427.34s ( 0.76s): Travis Kelsey
+4428.22s - 4428.32s ( 0.10s): Travis Kelsey
+4428.32s - 4428.39s ( 0.07s): Taylor Swift
+4428.39s - 4428.44s ( 0.05s): Travis Kelsey
+4428.44s - 4428.50s ( 0.07s): Taylor Swift
+4428.50s - 4428.64s ( 0.14s): Travis Kelsey
+4429.47s - 4440.96s (11.49s): Taylor Swift
+4433.99s - 4434.02s ( 0.03s): Taylor Swift
+4434.02s - 4434.04s ( 0.02s): Jason Kelsey
+4434.04s - 4434.44s ( 0.40s): Taylor Swift
+4444.33s - 4448.87s ( 4.54s): Travis Kelsey
+4446.76s - 4456.62s ( 9.85s): Taylor Swift
+4448.87s - 4449.43s ( 0.56s): Taylor Swift
+4453.09s - 4453.44s ( 0.35s): Travis Kelsey
+4454.12s - 4454.88s ( 0.76s): Travis Kelsey
+4454.88s - 4455.18s ( 0.30s): Jason Kelsey
+4455.40s - 4456.48s ( 1.08s): Jason Kelsey
+4456.89s - 4463.15s ( 6.26s): Taylor Swift
+4456.95s - 4458.61s ( 1.65s): Taylor Swift
+4462.46s - 4463.92s ( 1.47s): Taylor Swift
+4463.62s - 4472.19s ( 8.57s): Taylor Swift
+4472.33s - 4473.31s ( 0.98s): Jason Kelsey
+4472.77s - 4479.62s ( 6.85s): Taylor Swift
+4480.02s - 4488.31s ( 8.29s): Taylor Swift
+4486.27s - 4486.59s ( 0.32s): Jason Kelsey
+4488.63s - 4505.49s (16.86s): Taylor Swift
+4495.62s - 4496.81s ( 1.20s): Taylor Swift
+4497.29s - 4498.03s ( 0.74s): Taylor Swift
+4498.03s - 4498.97s ( 0.94s): Travis Kelsey
+4498.97s - 4499.02s ( 0.05s): Taylor Swift
+4499.02s - 4499.48s ( 0.46s): Travis Kelsey
+4505.49s - 4506.31s ( 0.83s): Travis Kelsey
+4505.84s - 4516.27s (10.43s): Taylor Swift
+4507.66s - 4508.90s ( 1.23s): Travis Kelsey
+4516.68s - 4519.54s ( 2.87s): Taylor Swift
+4519.81s - 4521.64s ( 1.82s): Taylor Swift
+4522.28s - 4523.04s ( 0.76s): Taylor Swift
+4523.19s - 4527.58s ( 4.39s): Travis Kelsey
+4524.27s - 4532.40s ( 8.13s): Taylor Swift
+4528.03s - 4530.02s ( 1.99s): Travis Kelsey
+4530.02s - 4530.36s ( 0.34s): Jason Kelsey
+4530.36s - 4530.61s ( 0.25s): Travis Kelsey
+4530.61s - 4530.70s ( 0.08s): Taylor Swift
+4532.82s - 4535.24s ( 2.41s): Taylor Swift
+4534.68s - 4541.50s ( 6.82s): Jason Kelsey
+4535.24s - 4535.44s ( 0.20s): Travis Kelsey
+4535.44s - 4535.96s ( 0.52s): Taylor Swift
+4535.96s - 4536.03s ( 0.07s): Travis Kelsey
+4536.03s - 4536.67s ( 0.64s): Taylor Swift
+4542.07s - 4542.85s ( 0.78s): Jason Kelsey
+4543.61s - 4547.25s ( 3.65s): Jason Kelsey
+4547.56s - 4553.45s ( 5.89s): Jason Kelsey
+4551.32s - 4551.34s ( 0.02s): Taylor Swift
+4551.34s - 4551.64s ( 0.30s): Taylor Swift
+4551.64s - 4551.71s ( 0.07s): Taylor Swift
+4553.87s - 4555.98s ( 2.11s): Jason Kelsey
+4555.98s - 4559.44s ( 3.46s): Taylor Swift
+4559.82s - 4565.19s ( 5.37s): Taylor Swift
+4564.08s - 4578.47s (14.39s): Travis Kelsey
+4578.47s - 4585.98s ( 7.51s): Taylor Swift
+4586.59s - 4594.32s ( 7.73s): Taylor Swift
+4592.39s - 4592.78s ( 0.39s): Jason Kelsey
+4592.78s - 4592.82s ( 0.03s): Travis Kelsey
+4592.82s - 4592.85s ( 0.03s): Jason Kelsey
+4592.85s - 4592.98s ( 0.13s): Travis Kelsey
+4594.72s - 4597.54s ( 2.82s): Taylor Swift
+4595.53s - 4595.85s ( 0.32s): Travis Kelsey
+4597.54s - 4613.05s (15.51s): Travis Kelsey
+4613.37s - 4613.74s ( 0.37s): Taylor Swift
+4613.74s - 4619.83s ( 6.09s): Travis Kelsey
+4616.34s - 4616.61s ( 0.27s): Taylor Swift
+4616.61s - 4620.86s ( 4.25s): Jason Kelsey
+4621.05s - 4624.95s ( 3.90s): Travis Kelsey
+4621.71s - 4621.86s ( 0.15s): Jason Kelsey
+4623.65s - 4628.54s ( 4.89s): Taylor Swift
+4626.14s - 4626.85s ( 0.71s): Travis Kelsey
+4628.69s - 4628.84s ( 0.15s): Taylor Swift
+4628.96s - 4647.90s (18.93s): Travis Kelsey
+4647.90s - 4657.26s ( 9.37s): Taylor Swift
+4657.41s - 4659.96s ( 2.55s): Taylor Swift
+4658.22s - 4667.96s ( 9.74s): Taylor Swift
+4661.50s - 4662.86s ( 1.37s): Taylor Swift
+4668.11s - 4668.36s ( 0.25s): Taylor Swift
+4668.30s - 4670.49s ( 2.19s): Taylor Swift
+4671.72s - 4677.51s ( 5.79s): Taylor Swift
+4672.16s - 4672.85s ( 0.69s): Taylor Swift
+4672.85s - 4672.92s ( 0.07s): Jason Kelsey
+4677.95s - 4678.24s ( 0.29s): Jason Kelsey
+4678.68s - 4678.96s ( 0.29s): Jason Kelsey
+4678.73s - 4686.37s ( 7.64s): Taylor Swift
+4680.40s - 4681.90s ( 1.50s): Jason Kelsey
+4681.90s - 4682.86s ( 0.96s): Travis Kelsey
+4686.40s - 4693.63s ( 7.22s): Travis Kelsey
+4687.06s - 4687.11s ( 0.05s): Taylor Swift
+4687.21s - 4687.28s ( 0.07s): Taylor Swift
+4694.01s - 4697.22s ( 3.21s): Travis Kelsey
+4696.39s - 4701.29s ( 4.89s): Taylor Swift
+4698.03s - 4705.52s ( 7.49s): Travis Kelsey
+4702.17s - 4703.70s ( 1.54s): Taylor Swift
+4703.70s - 4703.73s ( 0.03s): Jason Kelsey
+4703.73s - 4703.77s ( 0.03s): Taylor Swift
+4703.77s - 4709.46s ( 5.69s): Jason Kelsey
+4706.54s - 4708.81s ( 2.28s): Travis Kelsey
+4709.89s - 4710.32s ( 0.42s): Travis Kelsey
+4710.84s - 4718.84s ( 8.00s): Jason Kelsey
+4716.71s - 4720.46s ( 3.75s): Travis Kelsey
+4721.22s - 4723.14s ( 1.92s): Travis Kelsey
+4725.08s - 4727.76s ( 2.68s): Travis Kelsey
+4727.73s - 4734.75s ( 7.02s): Jason Kelsey
+4735.17s - 4735.98s ( 0.81s): Jason Kelsey
+4736.27s - 4737.37s ( 1.10s): Jason Kelsey
+4736.29s - 4736.67s ( 0.39s): Taylor Swift
+4736.67s - 4736.84s ( 0.17s): Taylor Swift
+4736.84s - 4736.96s ( 0.12s): Taylor Swift
+4736.96s - 4737.13s ( 0.17s): Taylor Swift
+4737.13s - 4737.30s ( 0.17s): Taylor Swift
+4737.96s - 4741.64s ( 3.68s): Jason Kelsey
+4738.13s - 4740.02s ( 1.89s): Taylor Swift
+4740.94s - 4741.59s ( 0.64s): Travis Kelsey
+4742.13s - 4742.55s ( 0.42s): Jason Kelsey
+4743.36s - 4754.12s (10.77s): Jason Kelsey
+4755.14s - 4761.23s ( 6.09s): Jason Kelsey
+4761.99s - 4767.37s ( 5.38s): Taylor Swift
+4767.72s - 4770.63s ( 2.90s): Taylor Swift
+4770.88s - 4776.11s ( 5.23s): Taylor Swift
+4776.85s - 4781.43s ( 4.57s): Taylor Swift
+4781.71s - 4782.09s ( 0.37s): Jason Kelsey
+4782.27s - 4787.54s ( 5.26s): Taylor Swift
+4783.23s - 4783.25s ( 0.02s): Jason Kelsey
+4783.25s - 4783.72s ( 0.47s): Travis Kelsey
+4783.72s - 4783.74s ( 0.02s): Jason Kelsey
+4783.76s - 4783.79s ( 0.03s): Jason Kelsey
+4785.51s - 4786.69s ( 1.18s): Travis Kelsey
+4787.28s - 4791.47s ( 4.19s): Travis Kelsey
+4788.45s - 4789.04s ( 0.59s): Taylor Swift
+4791.65s - 4793.75s ( 2.09s): Travis Kelsey
+4791.69s - 4792.01s ( 0.32s): Taylor Swift
+4794.35s - 4796.58s ( 2.23s): Travis Kelsey
+4796.95s - 4805.73s ( 8.77s): Travis Kelsey
+4803.70s - 4804.04s ( 0.34s): Jason Kelsey
+4805.96s - 4816.31s (10.34s): Travis Kelsey
+4816.24s - 4821.96s ( 5.72s): Taylor Swift
+4821.96s - 4823.01s ( 1.05s): Travis Kelsey
+4822.25s - 4824.90s ( 2.65s): Taylor Swift
+4824.04s - 4824.88s ( 0.84s): Travis Kelsey
+4824.90s - 4828.83s ( 3.93s): Travis Kelsey
+4825.54s - 4826.01s ( 0.47s): Taylor Swift
+4826.40s - 4827.77s ( 1.37s): Taylor Swift
+4828.04s - 4831.77s ( 3.73s): Taylor Swift
+4832.32s - 4840.52s ( 8.20s): Taylor Swift
+4841.11s - 4841.86s ( 0.74s): Taylor Swift
+4842.01s - 4846.23s ( 4.22s): Taylor Swift
+4847.12s - 4848.86s ( 1.74s): Taylor Swift
+4849.16s - 4849.50s ( 0.34s): Travis Kelsey
+4850.34s - 4850.40s ( 0.05s): Travis Kelsey
+4850.40s - 4850.77s ( 0.37s): Taylor Swift
+4850.46s - 4850.50s ( 0.03s): Travis Kelsey
+4851.48s - 4854.19s ( 2.72s): Taylor Swift
+4854.19s - 4855.83s ( 1.64s): Travis Kelsey
+4854.83s - 4857.25s ( 2.41s): Taylor Swift
+4857.85s - 4858.09s ( 0.24s): Taylor Swift
+4858.53s - 4861.90s ( 3.38s): Taylor Swift
+4862.41s - 4864.79s ( 2.38s): Taylor Swift
+4865.36s - 4869.14s ( 3.78s): Taylor Swift
+4869.57s - 4874.51s ( 4.94s): Taylor Swift
+4871.84s - 4871.86s ( 0.02s): Taylor Swift
+4871.86s - 4871.88s ( 0.02s): Travis Kelsey
+4871.88s - 4874.04s ( 2.16s): Taylor Swift
+4874.04s - 4874.93s ( 0.89s): Travis Kelsey
+4874.51s - 4874.53s ( 0.02s): Taylor Swift
+4874.88s - 4876.16s ( 1.28s): Taylor Swift
+4876.75s - 4880.01s ( 3.26s): Taylor Swift
+4880.53s - 4886.02s ( 5.48s): Taylor Swift
+4886.42s - 4888.36s ( 1.94s): Taylor Swift
+4889.22s - 4893.31s ( 4.08s): Taylor Swift
+4893.51s - 4902.27s ( 8.76s): Taylor Swift
+4895.35s - 4895.37s ( 0.02s): Jason Kelsey
+4895.37s - 4895.70s ( 0.34s): Taylor Swift
+4902.27s - 4902.40s ( 0.13s): Taylor Swift
+4902.40s - 4905.56s ( 3.16s): Taylor Swift
+4905.56s - 4906.34s ( 0.78s): Jason Kelsey
+4905.83s - 4906.18s ( 0.35s): Taylor Swift
+4906.34s - 4913.69s ( 7.36s): Taylor Swift
+4914.15s - 4917.83s ( 3.68s): Taylor Swift
+4918.44s - 4922.20s ( 3.76s): Taylor Swift
+4918.54s - 4923.51s ( 4.98s): Taylor Swift
+4922.27s - 4922.54s ( 0.27s): Taylor Swift
+4922.59s - 4925.54s ( 2.95s): Taylor Swift
+4925.86s - 4927.21s ( 1.35s): Taylor Swift
+4927.50s - 4931.16s ( 3.66s): Taylor Swift
+4931.56s - 4933.02s ( 1.45s): Taylor Swift
+4933.83s - 4942.03s ( 8.20s): Jason Kelsey
+4942.53s - 4960.22s (17.69s): Jason Kelsey
+4948.41s - 4949.08s ( 0.67s): Taylor Swift
+4951.71s - 4952.24s ( 0.52s): Taylor Swift
+4960.71s - 4961.48s ( 0.78s): Jason Kelsey
+4961.67s - 4979.91s (18.24s): Jason Kelsey
+4977.73s - 4979.86s ( 2.13s): Travis Kelsey
+4979.91s - 4980.10s ( 0.19s): Travis Kelsey
+4980.47s - 4981.95s ( 1.48s): Travis Kelsey
+4981.75s - 4982.59s ( 0.84s): Taylor Swift
+4982.27s - 4994.15s (11.88s): Travis Kelsey
+4986.09s - 4987.99s ( 1.91s): Taylor Swift
+4987.99s - 4988.03s ( 0.03s): Taylor Swift
+4993.98s - 4995.69s ( 1.70s): Taylor Swift
+4994.58s - 5007.11s (12.54s): Travis Kelsey
+4996.06s - 4997.21s ( 1.15s): Taylor Swift
+4997.21s - 4997.24s ( 0.03s): Taylor Swift
+5004.70s - 5015.10s (10.39s): Taylor Swift
+5009.41s - 5009.98s ( 0.57s): Travis Kelsey
+5012.04s - 5017.10s ( 5.06s): Travis Kelsey
+5015.58s - 5019.96s ( 4.37s): Taylor Swift
+5020.65s - 5026.82s ( 6.18s): Taylor Swift
+5021.25s - 5021.98s ( 0.73s): Taylor Swift
+5021.98s - 5022.01s ( 0.03s): Travis Kelsey
+5022.01s - 5022.05s ( 0.03s): Taylor Swift
+5027.70s - 5035.02s ( 7.32s): Taylor Swift
+5035.18s - 5035.75s ( 0.57s): Taylor Swift
+5035.21s - 5035.70s ( 0.49s): Taylor Swift
+5036.12s - 5044.58s ( 8.45s): Taylor Swift
+5036.46s - 5036.81s ( 0.35s): Taylor Swift
+5041.99s - 5042.47s ( 0.47s): Taylor Swift
+5045.08s - 5048.59s ( 3.51s): Taylor Swift
+5049.44s - 5058.62s ( 9.18s): Taylor Swift
+5056.88s - 5057.35s ( 0.47s): Jason Kelsey
+5058.87s - 5063.29s ( 4.42s): Taylor Swift
+5063.91s - 5068.77s ( 4.86s): Taylor Swift
+5068.77s - 5068.98s ( 0.20s): Taylor Swift
+5069.42s - 5071.74s ( 2.33s): Taylor Swift
+5070.72s - 5070.77s ( 0.05s): Taylor Swift
+5070.77s - 5071.31s ( 0.54s): Travis Kelsey
+5071.31s - 5071.32s ( 0.02s): Jason Kelsey
+5071.74s - 5073.85s ( 2.11s): Travis Kelsey
+5072.12s - 5072.69s ( 0.57s): Taylor Swift
+5075.39s - 5077.50s ( 2.11s): Travis Kelsey
+5078.06s - 5089.26s (11.20s): Jason Kelsey
+5084.86s - 5087.19s ( 2.33s): Travis Kelsey
+5087.19s - 5089.11s ( 1.92s): Taylor Swift
+5089.26s - 5089.28s ( 0.02s): Taylor Swift
+5089.28s - 5089.29s ( 0.02s): Jason Kelsey
+5089.29s - 5089.31s ( 0.02s): Taylor Swift
+5089.95s - 5090.04s ( 0.08s): Taylor Swift
+5090.04s - 5090.05s ( 0.02s): Jason Kelsey
+5090.05s - 5090.19s ( 0.13s): Taylor Swift
+5090.12s - 5096.20s ( 6.08s): Taylor Swift
+5090.19s - 5090.21s ( 0.02s): Jason Kelsey
+5090.21s - 5090.49s ( 0.29s): Taylor Swift
+5093.02s - 5093.16s ( 0.14s): Taylor Swift
+5096.55s - 5099.69s ( 3.14s): Taylor Swift
+5100.09s - 5105.29s ( 5.20s): Taylor Swift
+5105.71s - 5106.03s ( 0.32s): Taylor Swift
+5106.03s - 5112.51s ( 6.48s): Taylor Swift
+5112.62s - 5113.04s ( 0.42s): Taylor Swift
+5113.12s - 5120.41s ( 7.29s): Taylor Swift
+5118.22s - 5118.83s ( 0.61s): Taylor Swift
+5121.17s - 5124.77s ( 3.59s): Taylor Swift
+5123.06s - 5123.48s ( 0.42s): Travis Kelsey
+5124.95s - 5127.26s ( 2.31s): Taylor Swift
+5125.00s - 5125.36s ( 0.35s): Travis Kelsey
+5127.06s - 5129.58s ( 2.51s): Travis Kelsey
+5129.73s - 5130.25s ( 0.52s): Taylor Swift
+5130.25s - 5130.27s ( 0.02s): Travis Kelsey
+5130.27s - 5132.63s ( 2.36s): Taylor Swift
+5130.42s - 5131.25s ( 0.83s): Travis Kelsey
+5134.40s - 5135.01s ( 0.61s): Jason Kelsey
+5135.26s - 5136.73s ( 1.47s): Jason Kelsey
+5137.69s - 5141.22s ( 3.53s): Jason Kelsey
+5141.25s - 5143.38s ( 2.13s): Jason Kelsey
+5143.67s - 5147.70s ( 4.03s): Taylor Swift
+5144.93s - 5145.59s ( 0.66s): Jason Kelsey
+5145.98s - 5146.84s ( 0.86s): Jason Kelsey
+5148.12s - 5153.27s ( 5.15s): Jason Kelsey
+5149.03s - 5150.67s ( 1.64s): Taylor Swift
+5150.67s - 5150.69s ( 0.02s): Taylor Swift
+5151.93s - 5151.95s ( 0.02s): Taylor Swift
+5151.95s - 5153.23s ( 1.28s): Taylor Swift
+5153.27s - 5153.28s ( 0.02s): Taylor Swift
+5153.28s - 5153.32s ( 0.03s): Jason Kelsey
+5153.32s - 5153.44s ( 0.12s): Taylor Swift
+5153.44s - 5155.43s ( 1.99s): Jason Kelsey
+5154.55s - 5157.22s ( 2.67s): Taylor Swift
+5157.22s - 5161.86s ( 4.64s): Jason Kelsey
+5157.23s - 5157.52s ( 0.29s): Taylor Swift
+5159.01s - 5159.17s ( 0.17s): Taylor Swift
+5161.86s - 5162.95s ( 1.10s): Taylor Swift
+5162.57s - 5165.33s ( 2.77s): Jason Kelsey
+5165.84s - 5169.70s ( 3.86s): Jason Kelsey
+5167.38s - 5172.05s ( 4.67s): Travis Kelsey
+5172.47s - 5174.24s ( 1.77s): Jason Kelsey
+5174.48s - 5176.98s ( 2.50s): Jason Kelsey
+5174.82s - 5174.87s ( 0.05s): Taylor Swift
+5176.98s - 5177.03s ( 0.05s): Taylor Swift
+5177.03s - 5177.10s ( 0.07s): Jason Kelsey
+5177.10s - 5177.33s ( 0.24s): Taylor Swift
+5177.33s - 5178.24s ( 0.91s): Jason Kelsey
+5178.24s - 5178.43s ( 0.19s): Taylor Swift
+5178.36s - 5178.38s ( 0.02s): Jason Kelsey
+5178.38s - 5185.74s ( 7.36s): Travis Kelsey
+5178.43s - 5178.97s ( 0.54s): Jason Kelsey
+5178.97s - 5179.20s ( 0.24s): Taylor Swift
+5179.66s - 5179.69s ( 0.03s): Taylor Swift
+5186.58s - 5186.61s ( 0.03s): Travis Kelsey
+5186.61s - 5186.65s ( 0.03s): Jason Kelsey
+5186.65s - 5186.68s ( 0.03s): Travis Kelsey
+5186.68s - 5189.53s ( 2.85s): Jason Kelsey
+5187.02s - 5187.96s ( 0.94s): Travis Kelsey
+5187.96s - 5189.16s ( 1.20s): Taylor Swift
+5189.16s - 5189.38s ( 0.22s): Taylor Swift
+5190.29s - 5190.31s ( 0.02s): Taylor Swift
+5190.31s - 5192.33s ( 2.03s): Taylor Swift
+5192.33s - 5192.35s ( 0.02s): Taylor Swift
+5193.58s - 5195.89s ( 2.31s): Jason Kelsey
+5195.89s - 5196.13s ( 0.24s): Taylor Swift
+5196.13s - 5200.86s ( 4.72s): Jason Kelsey
+5200.26s - 5200.80s ( 0.54s): Taylor Swift
+5201.34s - 5204.55s ( 3.21s): Jason Kelsey
+5205.53s - 5206.83s ( 1.30s): Jason Kelsey
+5207.86s - 5208.48s ( 0.62s): Jason Kelsey
+5208.79s - 5208.97s ( 0.19s): Jason Kelsey
+5208.97s - 5211.33s ( 2.36s): Taylor Swift
+5210.63s - 5213.14s ( 2.51s): Travis Kelsey
+5211.39s - 5217.65s ( 6.26s): Taylor Swift
+5215.96s - 5216.53s ( 0.57s): Travis Kelsey
+5216.53s - 5216.79s ( 0.25s): Jason Kelsey
+5217.04s - 5217.48s ( 0.44s): Jason Kelsey
+5217.60s - 5217.63s ( 0.03s): Jason Kelsey
+5217.65s - 5219.67s ( 2.02s): Jason Kelsey
+5219.77s - 5225.88s ( 6.11s): Taylor Swift
+5224.50s - 5224.55s ( 0.05s): Jason Kelsey
+5224.99s - 5225.68s ( 0.69s): Jason Kelsey
+5226.02s - 5228.68s ( 2.67s): Taylor Swift
+5226.91s - 5233.81s ( 6.90s): Jason Kelsey
+5232.90s - 5244.95s (12.05s): Taylor Swift
+5245.35s - 5248.16s ( 2.80s): Taylor Swift
+5249.27s - 5250.99s ( 1.72s): Taylor Swift
+5251.38s - 5253.18s ( 1.81s): Taylor Swift
+5254.21s - 5265.82s (11.61s): Taylor Swift
+5266.36s - 5268.63s ( 2.26s): Taylor Swift
+5266.38s - 5266.72s ( 0.34s): Jason Kelsey
+5269.25s - 5269.30s ( 0.05s): Jason Kelsey
+5269.30s - 5269.37s ( 0.07s): Taylor Swift
+5269.37s - 5269.74s ( 0.37s): Jason Kelsey
+5269.74s - 5270.80s ( 1.06s): Taylor Swift
+5271.49s - 5274.33s ( 2.84s): Taylor Swift
+5274.73s - 5275.17s ( 0.44s): Jason Kelsey
+5275.48s - 5276.08s ( 0.61s): Jason Kelsey
+5276.34s - 5276.89s ( 0.56s): Taylor Swift
+5277.84s - 5278.33s ( 0.49s): Taylor Swift
+5278.83s - 5279.64s ( 0.81s): Jason Kelsey
+5279.64s - 5280.03s ( 0.39s): Taylor Swift
+5280.18s - 5281.77s ( 1.59s): Jason Kelsey
+5281.21s - 5282.63s ( 1.42s): Taylor Swift
+5282.92s - 5283.26s ( 0.34s): Taylor Swift
+5284.45s - 5285.84s ( 1.38s): Taylor Swift
+5288.27s - 5289.79s ( 1.52s): Taylor Swift
+5292.81s - 5294.95s ( 2.14s): Travis Kelsey
+5295.07s - 5296.25s ( 1.18s): Taylor Swift
+5296.40s - 5299.10s ( 2.70s): Taylor Swift
+5299.62s - 5300.57s ( 0.95s): Jason Kelsey
+5300.00s - 5302.83s ( 2.84s): Taylor Swift
+5303.30s - 5304.59s ( 1.28s): Taylor Swift
+5304.97s - 5305.73s ( 0.76s): Taylor Swift
+5305.04s - 5306.10s ( 1.06s): Jason Kelsey
+5306.10s - 5308.23s ( 2.13s): Taylor Swift
+5306.56s - 5306.71s ( 0.15s): Jason Kelsey
+5307.20s - 5311.69s ( 4.49s): Travis Kelsey
+5311.62s - 5321.16s ( 9.53s): Taylor Swift
+5321.56s - 5324.87s ( 3.31s): Taylor Swift
+5325.06s - 5331.47s ( 6.41s): Taylor Swift
+5331.84s - 5333.97s ( 2.13s): Taylor Swift
+5331.97s - 5332.04s ( 0.07s): Travis Kelsey
+5332.11s - 5332.36s ( 0.25s): Travis Kelsey
+5334.07s - 5336.18s ( 2.11s): Travis Kelsey
+5336.18s - 5341.36s ( 5.18s): Taylor Swift
+5337.14s - 5338.45s ( 1.32s): Travis Kelsey
+5338.45s - 5338.50s ( 0.05s): Jason Kelsey
+5340.75s - 5341.51s ( 0.76s): Jason Kelsey
+5341.51s - 5344.50s ( 2.99s): Taylor Swift
+5344.50s - 5346.06s ( 1.57s): Jason Kelsey
+5345.44s - 5349.93s ( 4.49s): Taylor Swift
+5348.78s - 5350.86s ( 2.08s): Jason Kelsey
+5350.71s - 5354.97s ( 4.27s): Taylor Swift
+5350.86s - 5351.35s ( 0.49s): Travis Kelsey
+5351.35s - 5351.36s ( 0.02s): Jason Kelsey
+5351.36s - 5351.38s ( 0.02s): Travis Kelsey
+5351.38s - 5351.40s ( 0.02s): Jason Kelsey
+5352.56s - 5353.20s ( 0.64s): Travis Kelsey
+5355.82s - 5357.35s ( 1.54s): Taylor Swift
+5357.78s - 5358.23s ( 0.46s): Travis Kelsey
+5358.52s - 5359.40s ( 0.88s): Taylor Swift
+5358.82s - 5359.29s ( 0.47s): Travis Kelsey
+5359.82s - 5360.88s ( 1.06s): Travis Kelsey
+5361.30s - 5364.75s ( 3.44s): Travis Kelsey
+5361.40s - 5361.44s ( 0.03s): Taylor Swift
+5361.44s - 5361.49s ( 0.05s): Taylor Swift
+5361.49s - 5361.64s ( 0.15s): Taylor Swift
+5361.64s - 5362.35s ( 0.71s): Taylor Swift
+5362.35s - 5362.37s ( 0.02s): Taylor Swift
+5362.37s - 5362.38s ( 0.02s): Taylor Swift
+5362.92s - 5363.02s ( 0.10s): Taylor Swift
+5363.02s - 5363.55s ( 0.52s): Taylor Swift
+5363.55s - 5363.60s ( 0.05s): Taylor Swift
+5363.60s - 5363.63s ( 0.03s): Taylor Swift
+5363.83s - 5363.90s ( 0.07s): Taylor Swift
+5363.90s - 5363.92s ( 0.02s): Taylor Swift
+5365.61s - 5369.39s ( 3.78s): Travis Kelsey
+5367.50s - 5367.51s ( 0.02s): Taylor Swift
+5367.51s - 5367.83s ( 0.32s): Taylor Swift
+5368.76s - 5369.15s ( 0.39s): Taylor Swift
+5369.15s - 5369.40s ( 0.25s): Jason Kelsey
+5369.39s - 5369.59s ( 0.20s): Taylor Swift
+5369.59s - 5369.66s ( 0.07s): Jason Kelsey
+5369.66s - 5369.94s ( 0.29s): Taylor Swift
+5369.94s - 5369.96s ( 0.02s): Jason Kelsey
+5369.96s - 5370.01s ( 0.05s): Taylor Swift
+5370.01s - 5370.03s ( 0.02s): Jason Kelsey
+5370.28s - 5372.41s ( 2.13s): Taylor Swift
+5373.25s - 5373.50s ( 0.25s): Taylor Swift
+5373.84s - 5375.17s ( 1.33s): Travis Kelsey
+5375.95s - 5380.07s ( 4.12s): Jason Kelsey
+5377.77s - 5377.82s ( 0.05s): Taylor Swift
+5377.82s - 5378.21s ( 0.39s): Travis Kelsey
+5380.52s - 5381.37s ( 0.84s): Jason Kelsey
+5381.87s - 5382.21s ( 0.34s): Jason Kelsey
+5382.70s - 5383.86s ( 1.16s): Travis Kelsey
+5384.02s - 5384.07s ( 0.05s): Travis Kelsey
+5384.07s - 5385.21s ( 1.15s): Jason Kelsey
+5385.21s - 5388.10s ( 2.89s): Travis Kelsey
+5385.23s - 5387.29s ( 2.06s): Jason Kelsey
+5387.29s - 5387.34s ( 0.05s): Taylor Swift
+5387.34s - 5387.56s ( 0.22s): Jason Kelsey
+5387.56s - 5391.59s ( 4.03s): Taylor Swift
+5389.74s - 5393.87s ( 4.13s): Travis Kelsey
+5394.60s - 5396.34s ( 1.74s): Taylor Swift
+5396.67s - 5397.47s ( 0.79s): Jason Kelsey
+5397.47s - 5397.77s ( 0.30s): Taylor Swift
+5397.50s - 5397.97s ( 0.47s): Taylor Swift
+5397.97s - 5398.02s ( 0.05s): Taylor Swift
+5398.02s - 5400.03s ( 2.01s): Taylor Swift
+5401.23s - 5402.55s ( 1.32s): Taylor Swift
+5403.09s - 5404.10s ( 1.01s): Taylor Swift
+5404.76s - 5404.99s ( 0.24s): Jason Kelsey
+5405.70s - 5406.83s ( 1.13s): Taylor Swift
+5407.17s - 5408.45s ( 1.28s): Taylor Swift
+5408.94s - 5409.89s ( 0.94s): Taylor Swift
+5410.65s - 5415.78s ( 5.13s): Taylor Swift
+5411.59s - 5411.62s ( 0.03s): Taylor Swift
+5411.62s - 5412.30s ( 0.67s): Taylor Swift
+5412.30s - 5412.33s ( 0.03s): Taylor Swift
+5416.92s - 5416.96s ( 0.03s): Jason Kelsey
+5416.96s - 5417.01s ( 0.05s): Taylor Swift
+5417.01s - 5419.20s ( 2.19s): Jason Kelsey
+5417.02s - 5419.50s ( 2.48s): Taylor Swift
+5419.93s - 5421.38s ( 1.45s): Taylor Swift
+5422.09s - 5422.56s ( 0.47s): Jason Kelsey
+5422.69s - 5423.34s ( 0.64s): Jason Kelsey
+5422.86s - 5424.65s ( 1.79s): Taylor Swift
+5425.46s - 5426.32s ( 0.86s): Taylor Swift
+5426.69s - 5429.83s ( 3.14s): Taylor Swift
+5429.98s - 5430.14s ( 0.15s): Travis Kelsey
+5430.74s - 5431.55s ( 0.81s): Travis Kelsey
+5431.72s - 5433.04s ( 1.32s): Taylor Swift
+5433.12s - 5433.78s ( 0.66s): Taylor Swift
+5434.15s - 5434.57s ( 0.42s): Travis Kelsey
+5434.88s - 5436.72s ( 1.84s): Taylor Swift
+5438.02s - 5439.03s ( 1.01s): Taylor Swift
+5439.40s - 5440.48s ( 1.08s): Taylor Swift
+5441.31s - 5442.30s ( 1.00s): Taylor Swift
+5443.05s - 5447.50s ( 4.45s): Taylor Swift
+5447.50s - 5447.58s ( 0.08s): Taylor Swift
+5447.58s - 5449.17s ( 1.59s): Taylor Swift
+5450.79s - 5451.01s ( 0.22s): Taylor Swift
+5451.52s - 5452.60s ( 1.08s): Jason Kelsey
+5452.60s - 5453.64s ( 1.05s): Taylor Swift
+5452.78s - 5453.36s ( 0.57s): Jason Kelsey
+5454.39s - 5456.06s ( 1.67s): Taylor Swift
+5455.33s - 5455.36s ( 0.03s): Taylor Swift
+5455.36s - 5455.62s ( 0.25s): Jason Kelsey
+5455.62s - 5455.65s ( 0.03s): Taylor Swift
+5455.65s - 5455.67s ( 0.02s): Jason Kelsey
+5455.67s - 5455.90s ( 0.24s): Travis Kelsey
+5455.90s - 5455.94s ( 0.03s): Jason Kelsey
+5456.06s - 5457.63s ( 1.57s): Travis Kelsey
+5457.02s - 5460.27s ( 3.26s): Taylor Swift
+5458.44s - 5458.98s ( 0.54s): Jason Kelsey
+5458.98s - 5459.26s ( 0.29s): Taylor Swift
+5460.71s - 5462.64s ( 1.92s): Taylor Swift
+5462.25s - 5463.84s ( 1.59s): Travis Kelsey
+5463.06s - 5464.49s ( 1.43s): Taylor Swift
+5465.30s - 5466.06s ( 0.76s): Travis Kelsey
+5466.20s - 5470.96s ( 4.76s): Jason Kelsey
+5471.51s - 5475.01s ( 3.49s): Taylor Swift
+5473.27s - 5473.66s ( 0.39s): Jason Kelsey
+5473.67s - 5474.92s ( 1.25s): Jason Kelsey
+5475.46s - 5480.71s ( 5.25s): Taylor Swift
+5475.56s - 5475.99s ( 0.42s): Jason Kelsey
+5475.99s - 5476.00s ( 0.02s): Taylor Swift
+5481.05s - 5487.22s ( 6.18s): Taylor Swift
+5487.68s - 5490.92s ( 3.24s): Taylor Swift
+5491.65s - 5492.12s ( 0.47s): Taylor Swift
+5492.51s - 5494.62s ( 2.11s): Taylor Swift
+5495.37s - 5505.06s ( 9.69s): Taylor Swift
+5505.06s - 5506.60s ( 1.54s): Jason Kelsey
+5505.28s - 5505.87s ( 0.59s): Taylor Swift
+5506.68s - 5513.68s ( 7.00s): Taylor Swift
+5513.77s - 5521.48s ( 7.71s): Taylor Swift
+5517.43s - 5517.77s ( 0.34s): Jason Kelsey
+5519.54s - 5521.04s ( 1.50s): Taylor Swift
+5521.04s - 5521.08s ( 0.03s): Travis Kelsey
+5521.08s - 5521.35s ( 0.27s): Taylor Swift
+5521.35s - 5525.68s ( 4.34s): Travis Kelsey
+5521.48s - 5521.60s ( 0.12s): Taylor Swift
+5521.60s - 5521.87s ( 0.27s): Taylor Swift
+5522.43s - 5523.29s ( 0.86s): Taylor Swift
+5524.45s - 5528.89s ( 4.44s): Taylor Swift
+5525.68s - 5525.70s ( 0.02s): Jason Kelsey
+5529.09s - 5532.36s ( 3.27s): Jason Kelsey
+5532.09s - 5542.29s (10.19s): Taylor Swift
+5532.69s - 5534.07s ( 1.38s): Jason Kelsey
+5542.34s - 5552.14s ( 9.80s): Taylor Swift
+5548.11s - 5549.29s ( 1.18s): Travis Kelsey
+5552.36s - 5555.58s ( 3.22s): Travis Kelsey
+5554.35s - 5564.04s ( 9.69s): Taylor Swift
+5558.86s - 5558.88s ( 0.02s): Travis Kelsey
+5558.89s - 5558.93s ( 0.03s): Travis Kelsey
+5561.54s - 5561.58s ( 0.03s): Travis Kelsey
+5561.58s - 5561.85s ( 0.27s): Taylor Swift
+5561.85s - 5561.86s ( 0.02s): Travis Kelsey
+5564.53s - 5566.10s ( 1.57s): Taylor Swift
+5567.60s - 5574.38s ( 6.78s): Taylor Swift
+5568.65s - 5570.77s ( 2.13s): Taylor Swift
+5570.77s - 5570.81s ( 0.03s): Jason Kelsey
+5570.81s - 5570.82s ( 0.02s): Taylor Swift
+5575.01s - 5577.81s ( 2.80s): Taylor Swift
+5575.04s - 5575.77s ( 0.73s): Jason Kelsey
+5577.84s - 5579.85s ( 2.01s): Jason Kelsey
+5579.40s - 5579.46s ( 0.07s): Taylor Swift
+5579.50s - 5579.53s ( 0.03s): Taylor Swift
+5580.14s - 5588.42s ( 8.29s): Taylor Swift
+5588.78s - 5591.46s ( 2.68s): Taylor Swift
+5592.22s - 5593.37s ( 1.15s): Taylor Swift
+5594.45s - 5597.99s ( 3.54s): Taylor Swift
+5598.14s - 5599.59s ( 1.45s): Taylor Swift
+5598.24s - 5598.26s ( 0.02s): Jason Kelsey
+5598.26s - 5598.63s ( 0.37s): Taylor Swift
+5598.63s - 5598.68s ( 0.05s): Jason Kelsey
+5600.19s - 5600.69s ( 0.51s): Taylor Swift
+5600.88s - 5608.88s ( 8.00s): Taylor Swift
+5607.93s - 5608.52s ( 0.59s): Jason Kelsey
+5609.13s - 5615.07s ( 5.94s): Taylor Swift
+5611.85s - 5612.76s ( 0.91s): Travis Kelsey
+5612.76s - 5612.89s ( 0.13s): Jason Kelsey
+5612.89s - 5613.01s ( 0.12s): Travis Kelsey
+5613.01s - 5613.18s ( 0.17s): Jason Kelsey
+5614.26s - 5614.28s ( 0.02s): Travis Kelsey
+5614.29s - 5614.34s ( 0.05s): Travis Kelsey
+5614.43s - 5617.75s ( 3.32s): Travis Kelsey
+5616.96s - 5616.98s ( 0.02s): Jason Kelsey
+5617.03s - 5619.79s ( 2.77s): Jason Kelsey
+5619.12s - 5619.57s ( 0.46s): Travis Kelsey
+5620.11s - 5620.25s ( 0.13s): Taylor Swift
+5621.52s - 5622.22s ( 0.71s): Jason Kelsey
+5621.70s - 5622.14s ( 0.44s): Taylor Swift
+5622.22s - 5622.24s ( 0.02s): Taylor Swift
+5622.44s - 5626.86s ( 4.42s): Taylor Swift
+5627.56s - 5629.45s ( 1.89s): Taylor Swift
+5629.82s - 5633.02s ( 3.21s): Taylor Swift
+5633.50s - 5637.61s ( 4.12s): Taylor Swift
+5636.72s - 5638.36s ( 1.64s): Travis Kelsey
+5638.36s - 5639.74s ( 1.38s): Taylor Swift
+5639.59s - 5641.31s ( 1.72s): Travis Kelsey
+5641.12s - 5643.06s ( 1.94s): Taylor Swift
+5642.15s - 5642.98s ( 0.83s): Travis Kelsey
+5644.03s - 5647.40s ( 3.38s): Taylor Swift
+5644.58s - 5650.78s ( 6.19s): Travis Kelsey
+5651.69s - 5652.57s ( 0.88s): Taylor Swift
+5652.60s - 5660.68s ( 8.08s): Taylor Swift
+5652.95s - 5653.80s ( 0.84s): Travis Kelsey
+5655.97s - 5658.89s ( 2.92s): Travis Kelsey
+5660.94s - 5662.17s ( 1.23s): Travis Kelsey
+5661.29s - 5661.53s ( 0.24s): Taylor Swift
+5662.39s - 5665.17s ( 2.78s): Travis Kelsey
+5665.17s - 5665.24s ( 0.07s): Taylor Swift
+5665.53s - 5665.58s ( 0.05s): Taylor Swift
+5665.58s - 5665.61s ( 0.03s): Jason Kelsey
+5665.61s - 5665.63s ( 0.02s): Taylor Swift
+5665.63s - 5665.73s ( 0.10s): Jason Kelsey
+5665.73s - 5665.96s ( 0.24s): Taylor Swift
+5665.96s - 5666.42s ( 0.46s): Jason Kelsey
+5668.66s - 5673.79s ( 5.13s): Travis Kelsey
+5668.82s - 5669.09s ( 0.27s): Jason Kelsey
+5673.41s - 5673.59s ( 0.19s): Jason Kelsey
+5675.84s - 5677.74s ( 1.91s): Jason Kelsey
+5676.00s - 5676.02s ( 0.02s): Taylor Swift
+5676.04s - 5676.29s ( 0.25s): Taylor Swift
+5676.65s - 5676.97s ( 0.32s): Taylor Swift
+5678.60s - 5680.31s ( 1.70s): Jason Kelsey
+5680.48s - 5681.03s ( 0.56s): Taylor Swift
+5681.71s - 5686.72s ( 5.01s): Travis Kelsey
+5685.34s - 5690.87s ( 5.53s): Taylor Swift
+5686.91s - 5686.92s ( 0.02s): Travis Kelsey
+5689.49s - 5689.50s ( 0.02s): Travis Kelsey
+5690.87s - 5695.34s ( 4.47s): Travis Kelsey
+5691.58s - 5692.73s ( 1.15s): Taylor Swift
+5692.93s - 5695.36s ( 2.43s): Jason Kelsey
+5695.36s - 5695.66s ( 0.30s): Travis Kelsey
+5695.66s - 5695.71s ( 0.05s): Jason Kelsey
+5695.71s - 5695.97s ( 0.25s): Travis Kelsey
+5695.97s - 5698.74s ( 2.77s): Jason Kelsey
+5697.10s - 5699.78s ( 2.68s): Taylor Swift
+5699.78s - 5699.83s ( 0.05s): Jason Kelsey
+5700.46s - 5703.66s ( 3.21s): Taylor Swift
+5704.29s - 5705.99s ( 1.70s): Taylor Swift
+5706.99s - 5713.79s ( 6.80s): Taylor Swift
+5709.92s - 5710.38s ( 0.46s): Taylor Swift
+5713.94s - 5725.62s (11.68s): Taylor Swift
+5725.92s - 5727.22s ( 1.30s): Taylor Swift
+5727.42s - 5727.84s ( 0.42s): Taylor Swift
+5728.52s - 5732.50s ( 3.98s): Taylor Swift
+5732.65s - 5743.56s (10.90s): Taylor Swift
+5743.76s - 5749.26s ( 5.50s): Taylor Swift
+5744.42s - 5744.89s ( 0.47s): Taylor Swift
+5745.07s - 5745.50s ( 0.42s): Taylor Swift
+5749.90s - 5753.46s ( 3.56s): Taylor Swift
+5753.73s - 5754.12s ( 0.39s): Taylor Swift
+5754.30s - 5764.87s (10.56s): Taylor Swift
+5761.14s - 5761.54s ( 0.41s): Taylor Swift
+5766.10s - 5773.31s ( 7.21s): Taylor Swift
+5773.61s - 5774.13s ( 0.52s): Taylor Swift
+5773.78s - 5782.17s ( 8.39s): Taylor Swift
+5777.76s - 5778.01s ( 0.25s): Taylor Swift
+5782.99s - 5796.98s (13.99s): Taylor Swift
+5789.22s - 5789.32s ( 0.10s): Jason Kelsey
+5789.32s - 5789.44s ( 0.12s): Taylor Swift
+5789.44s - 5792.39s ( 2.95s): Taylor Swift
+5792.39s - 5792.43s ( 0.03s): Jason Kelsey
+5797.13s - 5800.51s ( 3.38s): Taylor Swift
+5797.18s - 5797.71s ( 0.52s): Jason Kelsey
+5801.22s - 5807.07s ( 5.86s): Jason Kelsey
+5806.89s - 5814.31s ( 7.42s): Taylor Swift
+5810.31s - 5811.41s ( 1.10s): Jason Kelsey
+5811.41s - 5811.49s ( 0.08s): Travis Kelsey
+5816.19s - 5832.37s (16.18s): Travis Kelsey
+5817.89s - 5819.19s ( 1.30s): Taylor Swift
+5828.42s - 5828.47s ( 0.05s): Taylor Swift
+5828.47s - 5828.74s ( 0.27s): Taylor Swift
+5828.74s - 5828.82s ( 0.08s): Taylor Swift
+5829.25s - 5829.90s ( 0.66s): Taylor Swift
+5830.43s - 5833.84s ( 3.41s): Taylor Swift
+5833.67s - 5834.22s ( 0.56s): Travis Kelsey
+5834.12s - 5838.09s ( 3.97s): Taylor Swift
+5838.44s - 5838.46s ( 0.02s): Taylor Swift
+5838.46s - 5838.48s ( 0.02s): Travis Kelsey
+5838.48s - 5841.84s ( 3.36s): Taylor Swift
+5841.84s - 5841.85s ( 0.02s): Taylor Swift
+5843.12s - 5847.88s ( 4.76s): Travis Kelsey
+5843.39s - 5843.84s ( 0.46s): Taylor Swift
+5848.65s - 5849.02s ( 0.37s): Taylor Swift
+5849.02s - 5850.31s ( 1.28s): Taylor Swift
+5850.31s - 5850.96s ( 0.66s): Taylor Swift
+5850.96s - 5851.10s ( 0.14s): Jason Kelsey
+5851.10s - 5853.23s ( 2.13s): Taylor Swift
+5853.70s - 5855.72s ( 2.02s): Taylor Swift
+5853.99s - 5854.68s ( 0.69s): Jason Kelsey
+5856.40s - 5857.51s ( 1.11s): Jason Kelsey
+5857.51s - 5859.74s ( 2.23s): Taylor Swift
+5859.98s - 5864.75s ( 4.78s): Jason Kelsey
+5865.53s - 5867.65s ( 2.13s): Jason Kelsey
+5867.65s - 5868.99s ( 1.33s): Taylor Swift
+5868.03s - 5868.72s ( 0.69s): Jason Kelsey
+5868.72s - 5868.73s ( 0.02s): Travis Kelsey
+5868.73s - 5868.77s ( 0.03s): Jason Kelsey
+5868.77s - 5869.48s ( 0.71s): Travis Kelsey
+5869.76s - 5872.67s ( 2.90s): Taylor Swift
+5870.91s - 5870.98s ( 0.07s): Jason Kelsey
+5871.03s - 5871.52s ( 0.49s): Jason Kelsey
+5871.81s - 5872.68s ( 0.88s): Jason Kelsey
+5872.68s - 5872.70s ( 0.02s): Taylor Swift
+5873.39s - 5874.20s ( 0.81s): Jason Kelsey
+5873.54s - 5874.45s ( 0.91s): Taylor Swift
+5874.45s - 5874.47s ( 0.02s): Jason Kelsey
+5874.47s - 5875.67s ( 1.20s): Taylor Swift
+5874.74s - 5878.03s ( 3.29s): Jason Kelsey
+5876.53s - 5878.20s ( 1.67s): Taylor Swift
+5878.03s - 5878.69s ( 0.66s): Travis Kelsey
+5879.25s - 5879.58s ( 0.34s): Travis Kelsey
+5879.70s - 5884.23s ( 4.52s): Taylor Swift
+5880.56s - 5882.76s ( 2.19s): Travis Kelsey
+5884.38s - 5887.87s ( 3.49s): Taylor Swift
+5886.79s - 5886.84s ( 0.05s): Travis Kelsey
+5886.84s - 5887.30s ( 0.46s): Taylor Swift
+5888.16s - 5894.97s ( 6.82s): Taylor Swift
+5895.85s - 5898.50s ( 2.65s): Taylor Swift
+5899.13s - 5905.86s ( 6.73s): Taylor Swift
+5903.40s - 5904.12s ( 0.73s): Taylor Swift
+5904.51s - 5905.13s ( 0.62s): Taylor Swift
+5905.94s - 5932.23s (26.29s): Taylor Swift
+5915.44s - 5916.02s ( 0.57s): Jason Kelsey
+5932.84s - 5936.42s ( 3.58s): Taylor Swift
+5936.81s - 5939.27s ( 2.46s): Taylor Swift
+5939.69s - 5939.83s ( 0.14s): Travis Kelsey
+5939.83s - 5940.57s ( 0.74s): Taylor Swift
+5939.88s - 5958.58s (18.70s): Travis Kelsey
+5941.43s - 5941.58s ( 0.15s): Taylor Swift
+5949.78s - 5950.19s ( 0.40s): Jason Kelsey
+5955.89s - 5957.73s ( 1.84s): Taylor Swift
+5959.10s - 5963.25s ( 4.15s): Travis Kelsey
+5963.34s - 5963.93s ( 0.59s): Taylor Swift
+5963.81s - 5965.28s ( 1.47s): Travis Kelsey
+5964.79s - 5965.90s ( 1.11s): Taylor Swift
+5966.25s - 5966.29s ( 0.03s): Travis Kelsey
+5966.29s - 5972.99s ( 6.70s): Jason Kelsey
+5973.31s - 5974.56s ( 1.25s): Jason Kelsey
+5974.66s - 5980.13s ( 5.47s): Jason Kelsey
+5980.48s - 5981.97s ( 1.49s): Jason Kelsey
+5982.56s - 5985.90s ( 3.34s): Jason Kelsey
+5986.42s - 5989.09s ( 2.67s): Jason Kelsey
+5988.39s - 5989.02s ( 0.62s): Taylor Swift
+5989.32s - 5994.67s ( 5.35s): Taylor Swift
+5989.34s - 5990.22s ( 0.88s): Jason Kelsey
+5993.22s - 5993.52s ( 0.30s): Jason Kelsey
+5994.87s - 5999.09s ( 4.22s): Taylor Swift
+5999.65s - 6001.22s ( 1.57s): Taylor Swift
+6000.54s - 6001.79s ( 1.25s): Travis Kelsey
+6001.86s - 6013.08s (11.22s): Taylor Swift
+6013.59s - 6016.81s ( 3.22s): Taylor Swift
+6017.37s - 6019.97s ( 2.60s): Taylor Swift
+6020.07s - 6020.42s ( 0.35s): Taylor Swift
+6020.27s - 6026.43s ( 6.16s): Taylor Swift
+6027.04s - 6027.63s ( 0.59s): Taylor Swift
+6028.12s - 6031.26s ( 3.14s): Taylor Swift
+6031.71s - 6035.81s ( 4.10s): Taylor Swift
+6033.18s - 6033.64s ( 0.46s): Taylor Swift
+6036.56s - 6037.25s ( 0.69s): Taylor Swift
+6037.47s - 6039.86s ( 2.40s): Taylor Swift
+6040.20s - 6043.41s ( 3.21s): Taylor Swift
+6043.59s - 6044.54s ( 0.94s): Taylor Swift
+6043.63s - 6044.03s ( 0.40s): Taylor Swift
+6044.64s - 6046.09s ( 1.45s): Taylor Swift
+6046.26s - 6047.54s ( 1.28s): Taylor Swift
+6046.28s - 6046.65s ( 0.37s): Taylor Swift
+6048.01s - 6053.36s ( 5.35s): Taylor Swift
+6053.82s - 6056.65s ( 2.83s): Taylor Swift
+6056.96s - 6061.55s ( 4.59s): Taylor Swift
+6061.82s - 6064.60s ( 2.78s): Taylor Swift
+6064.96s - 6065.38s ( 0.42s): Taylor Swift
+6065.77s - 6067.34s ( 1.57s): Taylor Swift
+6067.76s - 6069.11s ( 1.35s): Taylor Swift
+6069.14s - 6069.18s ( 0.03s): Taylor Swift
+6069.18s - 6069.65s ( 0.47s): Taylor Swift
+6069.65s - 6072.06s ( 2.41s): Taylor Swift
+6072.70s - 6073.11s ( 0.40s): Taylor Swift
+6073.61s - 6078.76s ( 5.15s): Taylor Swift
+6074.58s - 6074.98s ( 0.40s): Taylor Swift
+6079.52s - 6082.93s ( 3.41s): Taylor Swift
+6083.37s - 6085.93s ( 2.57s): Taylor Swift
+6086.19s - 6094.37s ( 8.18s): Jason Kelsey
+6094.37s - 6097.41s ( 3.04s): Taylor Swift
+6097.61s - 6098.32s ( 0.71s): Jason Kelsey
+6098.35s - 6103.68s ( 5.33s): Jason Kelsey
+6103.89s - 6121.07s (17.18s): Taylor Swift
+6107.70s - 6108.11s ( 0.41s): Jason Kelsey
+6116.43s - 6116.68s ( 0.25s): Taylor Swift
+6121.07s - 6121.50s ( 0.44s): Taylor Swift
+6121.72s - 6122.57s ( 0.84s): Taylor Swift
+6122.91s - 6123.68s ( 0.78s): Taylor Swift
+6124.09s - 6129.91s ( 5.82s): Taylor Swift
+6130.18s - 6130.67s ( 0.49s): Taylor Swift
+6131.17s - 6138.35s ( 7.17s): Taylor Swift
+6138.63s - 6140.15s ( 1.52s): Taylor Swift
+6140.15s - 6140.40s ( 0.25s): Taylor Swift
+6140.40s - 6142.41s ( 2.01s): Taylor Swift
+6142.63s - 6143.98s ( 1.35s): Taylor Swift
+6144.88s - 6150.31s ( 5.43s): Taylor Swift
+6150.43s - 6162.78s (12.35s): Taylor Swift
+6153.35s - 6154.97s ( 1.62s): Jason Kelsey
+6156.03s - 6156.39s ( 0.35s): Taylor Swift
+6163.37s - 6163.66s ( 0.29s): Taylor Swift
+6164.76s - 6170.64s ( 5.89s): Taylor Swift
+6171.00s - 6173.23s ( 2.23s): Taylor Swift
+6173.65s - 6175.05s ( 1.40s): Taylor Swift
+6174.10s - 6178.81s ( 4.71s): Travis Kelsey
+6176.06s - 6176.69s ( 0.62s): Taylor Swift
+6176.69s - 6176.72s ( 0.03s): Jason Kelsey
+6176.72s - 6177.02s ( 0.30s): Taylor Swift
+6177.02s - 6184.90s ( 7.88s): Jason Kelsey
+6179.42s - 6183.23s ( 3.81s): Travis Kelsey
+6183.23s - 6183.25s ( 0.02s): Taylor Swift
+6183.62s - 6183.81s ( 0.19s): Taylor Swift
+6185.48s - 6185.85s ( 0.37s): Jason Kelsey
+6187.81s - 6189.70s ( 1.89s): Jason Kelsey
+6189.95s - 6194.51s ( 4.56s): Jason Kelsey
+6194.74s - 6197.97s ( 3.22s): Taylor Swift
+6198.32s - 6199.53s ( 1.22s): Taylor Swift
+6199.65s - 6213.95s (14.29s): Taylor Swift
+6207.38s - 6207.40s ( 0.02s): Jason Kelsey
+6207.40s - 6207.74s ( 0.34s): Taylor Swift
+6211.97s - 6212.39s ( 0.42s): Taylor Swift
+6214.23s - 6214.25s ( 0.02s): Taylor Swift
+6214.25s - 6214.27s ( 0.02s): Taylor Swift
+6214.27s - 6214.50s ( 0.24s): Taylor Swift
+6214.50s - 6221.64s ( 7.14s): Taylor Swift
+6217.49s - 6217.57s ( 0.08s): Taylor Swift
+6217.57s - 6217.71s ( 0.14s): Jason Kelsey
+6217.71s - 6217.73s ( 0.02s): Taylor Swift
+6217.74s - 6217.76s ( 0.02s): Taylor Swift
+6221.64s - 6226.32s ( 4.67s): Jason Kelsey
+6222.43s - 6223.11s ( 0.67s): Taylor Swift
+6223.13s - 6223.14s ( 0.02s): Taylor Swift
+6224.19s - 6231.38s ( 7.19s): Taylor Swift
+6232.20s - 6236.51s ( 4.30s): Taylor Swift
+6237.03s - 6238.97s ( 1.94s): Taylor Swift
+6239.49s - 6243.51s ( 4.02s): Taylor Swift
+6241.47s - 6242.73s ( 1.27s): Jason Kelsey
+6243.83s - 6245.03s ( 1.20s): Taylor Swift
+6245.30s - 6249.55s ( 4.25s): Taylor Swift
+6250.01s - 6250.73s ( 0.73s): Taylor Swift
+6251.64s - 6254.24s ( 2.60s): Taylor Swift
+6255.14s - 6256.45s ( 1.32s): Taylor Swift
+6255.24s - 6256.05s ( 0.81s): Taylor Swift
+6256.45s - 6258.29s ( 1.84s): Taylor Swift
+6256.47s - 6264.32s ( 7.85s): Taylor Swift
+6264.91s - 6267.59s ( 2.68s): Taylor Swift
+6268.40s - 6269.53s ( 1.13s): Taylor Swift
+6270.14s - 6270.85s ( 0.71s): Taylor Swift
+6271.54s - 6272.20s ( 0.66s): Taylor Swift
+6272.42s - 6284.18s (11.76s): Taylor Swift
+6284.50s - 6284.79s ( 0.29s): Jason Kelsey
+6285.12s - 6286.37s ( 1.25s): Taylor Swift
+6287.39s - 6288.48s ( 1.10s): Taylor Swift
+6287.52s - 6289.01s ( 1.48s): Jason Kelsey
+6289.01s - 6289.63s ( 0.62s): Taylor Swift
+6289.93s - 6290.95s ( 1.01s): Jason Kelsey
+6291.35s - 6294.25s ( 2.90s): Jason Kelsey
+6292.68s - 6297.48s ( 4.79s): Taylor Swift
+6297.78s - 6297.90s ( 0.12s): Travis Kelsey
+6297.90s - 6297.93s ( 0.03s): Jason Kelsey
+6297.93s - 6298.12s ( 0.19s): Travis Kelsey
+6298.37s - 6299.49s ( 1.11s): Travis Kelsey
+6299.72s - 6304.11s ( 4.39s): Jason Kelsey
+6299.81s - 6300.38s ( 0.57s): Taylor Swift
+6300.38s - 6300.43s ( 0.05s): Travis Kelsey
+6301.04s - 6301.43s ( 0.39s): Taylor Swift
+6303.79s - 6306.47s ( 2.68s): Travis Kelsey
+6304.73s - 6305.36s ( 0.62s): Jason Kelsey
+6307.06s - 6313.00s ( 5.94s): Jason Kelsey
+6313.39s - 6314.13s ( 0.74s): Jason Kelsey
+6314.13s - 6316.83s ( 2.70s): Travis Kelsey
+6314.61s - 6314.91s ( 0.30s): Jason Kelsey
+6316.93s - 6318.28s ( 1.35s): Jason Kelsey
+6320.71s - 6323.63s ( 2.92s): Jason Kelsey
+6320.87s - 6322.33s ( 1.47s): Travis Kelsey
+6322.87s - 6323.43s ( 0.56s): Travis Kelsey
+6324.14s - 6330.32s ( 6.18s): Jason Kelsey
+6325.20s - 6325.96s ( 0.76s): Travis Kelsey
+6325.96s - 6327.46s ( 1.50s): Taylor Swift
+6332.10s - 6340.09s ( 7.98s): Jason Kelsey
+6340.39s - 6347.11s ( 6.72s): Jason Kelsey
+6345.66s - 6348.49s ( 2.83s): Taylor Swift
+6348.64s - 6350.36s ( 1.72s): Jason Kelsey
+6349.89s - 6350.33s ( 0.44s): Taylor Swift
+6350.36s - 6350.75s ( 0.39s): Taylor Swift
+6350.75s - 6351.87s ( 1.11s): Jason Kelsey
+6350.77s - 6351.07s ( 0.30s): Taylor Swift
+6354.03s - 6363.68s ( 9.65s): Jason Kelsey
+6364.02s - 6364.69s ( 0.68s): Travis Kelsey
+6364.69s - 6365.15s ( 0.46s): Jason Kelsey
+6365.62s - 6366.21s ( 0.59s): Jason Kelsey
+6366.87s - 6368.69s ( 1.82s): Jason Kelsey
+6368.96s - 6375.36s ( 6.40s): Jason Kelsey
+6371.39s - 6371.86s ( 0.47s): Travis Kelsey
+6375.91s - 6381.70s ( 5.79s): Jason Kelsey
+6382.07s - 6384.72s ( 2.65s): Jason Kelsey
+6383.94s - 6384.74s ( 0.79s): Travis Kelsey
+6384.74s - 6384.97s ( 0.24s): Jason Kelsey
+6384.97s - 6385.02s ( 0.05s): Taylor Swift
+6385.02s - 6385.31s ( 0.29s): Taylor Swift
+6385.31s - 6386.16s ( 0.84s): Jason Kelsey
+6385.41s - 6386.48s ( 1.06s): Travis Kelsey
+6387.05s - 6387.42s ( 0.37s): Travis Kelsey
+6387.49s - 6391.40s ( 3.92s): Travis Kelsey
+6391.83s - 6399.00s ( 7.17s): Taylor Swift
+6399.37s - 6399.81s ( 0.44s): Taylor Swift
+6400.21s - 6413.17s (12.96s): Taylor Swift
+6408.03s - 6409.68s ( 1.65s): Taylor Swift
+6413.61s - 6419.52s ( 5.91s): Taylor Swift
+6420.70s - 6435.14s (14.44s): Taylor Swift
+6420.73s - 6421.17s ( 0.44s): Taylor Swift
+6427.75s - 6427.80s ( 0.05s): Taylor Swift
+6427.80s - 6427.99s ( 0.19s): Taylor Swift
+6432.85s - 6433.95s ( 1.10s): Taylor Swift
+6435.04s - 6436.12s ( 1.08s): Taylor Swift
+6435.60s - 6440.75s ( 5.15s): Taylor Swift
+6439.50s - 6439.90s ( 0.40s): Taylor Swift
+6441.67s - 6443.46s ( 1.79s): Taylor Swift
+6443.63s - 6445.84s ( 2.21s): Jason Kelsey
+6444.71s - 6445.45s ( 0.74s): Taylor Swift
+6445.88s - 6445.91s ( 0.03s): Jason Kelsey
+6445.91s - 6447.16s ( 1.25s): Taylor Swift
+6446.10s - 6446.31s ( 0.22s): Jason Kelsey
+6447.16s - 6452.31s ( 5.15s): Jason Kelsey
+6450.75s - 6455.87s ( 5.11s): Taylor Swift
+6454.72s - 6455.12s ( 0.41s): Jason Kelsey
+6456.24s - 6456.71s ( 0.47s): Taylor Swift
+6456.71s - 6456.74s ( 0.03s): Jason Kelsey
+6456.81s - 6459.24s ( 2.43s): Jason Kelsey
+6457.72s - 6458.52s ( 0.79s): Taylor Swift
+6459.53s - 6461.27s ( 1.74s): Jason Kelsey
+6460.20s - 6462.67s ( 2.46s): Travis Kelsey
+6461.43s - 6463.97s ( 2.53s): Jason Kelsey
+6465.05s - 6468.17s ( 3.12s): Jason Kelsey
+6468.78s - 6473.92s ( 5.15s): Jason Kelsey
+6468.99s - 6470.09s ( 1.10s): Travis Kelsey
+6472.88s - 6478.78s ( 5.91s): Taylor Swift
+6475.51s - 6482.48s ( 6.97s): Jason Kelsey
+6482.78s - 6487.83s ( 5.05s): Jason Kelsey
+6485.09s - 6485.52s ( 0.42s): Taylor Swift
+6488.22s - 6493.35s ( 5.13s): Jason Kelsey
+6493.48s - 6493.90s ( 0.42s): Taylor Swift
+6493.80s - 6498.19s ( 4.39s): Jason Kelsey
+6493.90s - 6493.95s ( 0.05s): Taylor Swift
+6495.57s - 6496.05s ( 0.47s): Taylor Swift
+6498.02s - 6503.99s ( 5.97s): Taylor Swift
+6501.21s - 6501.73s ( 0.52s): Jason Kelsey
+6503.42s - 6506.59s ( 3.17s): Jason Kelsey
+6506.90s - 6506.91s ( 0.02s): Jason Kelsey
+6506.91s - 6511.54s ( 4.62s): Taylor Swift
+6507.13s - 6507.69s ( 0.56s): Jason Kelsey
+6510.42s - 6514.96s ( 4.54s): Jason Kelsey
+6512.75s - 6513.92s ( 1.16s): Travis Kelsey
+6513.92s - 6513.97s ( 0.05s): Taylor Swift
+6513.97s - 6514.17s ( 0.20s): Travis Kelsey
+6514.17s - 6519.50s ( 5.33s): Taylor Swift
+6517.48s - 6517.83s ( 0.35s): Jason Kelsey
+6520.18s - 6520.58s ( 0.41s): Taylor Swift
+6521.61s - 6522.42s ( 0.81s): Jason Kelsey
+6522.57s - 6523.47s ( 0.89s): Jason Kelsey
+6523.82s - 6528.38s ( 4.56s): Jason Kelsey
+6528.65s - 6529.86s ( 1.22s): Jason Kelsey
+6528.66s - 6532.71s ( 4.05s): Taylor Swift
+6531.65s - 6533.85s ( 2.19s): Jason Kelsey
+6535.25s - 6540.12s ( 4.88s): Taylor Swift
+6536.38s - 6536.82s ( 0.44s): Jason Kelsey
+6538.18s - 6540.63s ( 2.45s): Jason Kelsey
+6540.81s - 6546.60s ( 5.79s): Jason Kelsey
+6546.70s - 6550.47s ( 3.76s): Taylor Swift
+6550.96s - 6551.13s ( 0.17s): Taylor Swift
+6551.13s - 6554.99s ( 3.86s): Jason Kelsey
+6553.03s - 6553.50s ( 0.47s): Taylor Swift
+6554.26s - 6557.93s ( 3.66s): Taylor Swift
+6558.67s - 6561.47s ( 2.80s): Taylor Swift
+6561.47s - 6561.66s ( 0.19s): Jason Kelsey
+6561.66s - 6561.67s ( 0.02s): Taylor Swift
+6561.67s - 6564.69s ( 3.02s): Jason Kelsey
+6564.83s - 6571.86s ( 7.04s): Taylor Swift
+6569.06s - 6569.10s ( 0.03s): Taylor Swift
+6569.10s - 6569.38s ( 0.29s): Jason Kelsey
+6569.38s - 6569.47s ( 0.08s): Taylor Swift
+6569.47s - 6569.50s ( 0.03s): Jason Kelsey
+6571.93s - 6576.39s ( 4.45s): Taylor Swift
+6576.39s - 6577.55s ( 1.16s): Jason Kelsey
+6577.55s - 6578.28s ( 0.73s): Taylor Swift
+6577.57s - 6578.18s ( 0.61s): Jason Kelsey
+6578.28s - 6578.31s ( 0.03s): Jason Kelsey
+6578.77s - 6578.78s ( 0.02s): Taylor Swift
+6578.78s - 6582.14s ( 3.36s): Jason Kelsey
+6578.82s - 6579.36s ( 0.54s): Taylor Swift
+6582.60s - 6583.17s ( 0.57s): Jason Kelsey
+6584.12s - 6584.71s ( 0.59s): Taylor Swift
+6584.91s - 6586.41s ( 1.50s): Travis Kelsey
+6585.31s - 6592.49s ( 7.17s): Taylor Swift
+6586.41s - 6586.58s ( 0.17s): Jason Kelsey
+6586.58s - 6586.70s ( 0.12s): Travis Kelsey
+6589.13s - 6589.45s ( 0.32s): Jason Kelsey
+6589.52s - 6590.39s ( 0.88s): Jason Kelsey
+6591.19s - 6593.14s ( 1.96s): Jason Kelsey
+6593.14s - 6594.19s ( 1.05s): Taylor Swift
+6593.16s - 6593.80s ( 0.64s): Jason Kelsey
+6594.19s - 6594.21s ( 0.02s): Jason Kelsey
+6595.20s - 6599.88s ( 4.67s): Taylor Swift
+6597.82s - 6599.76s ( 1.94s): Jason Kelsey
+6600.65s - 6605.34s ( 4.69s): Jason Kelsey
+6604.33s - 6606.88s ( 2.55s): Travis Kelsey
+6605.34s - 6605.45s ( 0.10s): Taylor Swift
+6605.45s - 6606.24s ( 0.79s): Jason Kelsey
+6606.24s - 6606.26s ( 0.02s): Taylor Swift
+6606.26s - 6606.36s ( 0.10s): Jason Kelsey
+6606.78s - 6607.22s ( 0.44s): Jason Kelsey
+6607.49s - 6611.37s ( 3.88s): Jason Kelsey
+6611.37s - 6611.62s ( 0.25s): Taylor Swift
+6611.62s - 6611.69s ( 0.07s): Jason Kelsey
+6611.69s - 6611.82s ( 0.14s): Taylor Swift
+6611.98s - 6612.01s ( 0.03s): Taylor Swift
+6612.09s - 6613.63s ( 1.54s): Taylor Swift
+6612.48s - 6612.69s ( 0.20s): Jason Kelsey
+6612.69s - 6612.72s ( 0.03s): Travis Kelsey
+6612.72s - 6612.97s ( 0.25s): Jason Kelsey
+6613.44s - 6613.51s ( 0.07s): Travis Kelsey
+6613.63s - 6614.12s ( 0.49s): Travis Kelsey
+6614.31s - 6615.06s ( 0.76s): Taylor Swift
+6615.39s - 6621.48s ( 6.09s): Jason Kelsey
+6619.20s - 6621.07s ( 1.87s): Taylor Swift
+6621.54s - 6624.33s ( 2.78s): Jason Kelsey
+6621.75s - 6623.35s ( 1.60s): Taylor Swift
+6624.33s - 6647.70s (23.37s): Taylor Swift
+6627.18s - 6628.46s ( 1.28s): Jason Kelsey
+6632.11s - 6633.36s ( 1.25s): Taylor Swift
+6642.33s - 6642.55s ( 0.22s): Taylor Swift
+6647.70s - 6648.14s ( 0.44s): Taylor Swift
+6648.14s - 6653.40s ( 5.26s): Taylor Swift
+6648.16s - 6648.33s ( 0.17s): Taylor Swift
+6652.00s - 6653.07s ( 1.06s): Jason Kelsey
+6653.27s - 6653.67s ( 0.41s): Jason Kelsey
+6653.64s - 6655.16s ( 1.52s): Taylor Swift
+6655.16s - 6657.29s ( 2.13s): Jason Kelsey
+6656.85s - 6658.20s ( 1.35s): Taylor Swift
+6658.87s - 6664.95s ( 6.07s): Taylor Swift
+6661.96s - 6662.10s ( 0.14s): Travis Kelsey
+6662.10s - 6662.13s ( 0.03s): Jason Kelsey
+6662.13s - 6662.25s ( 0.12s): Travis Kelsey
+6662.25s - 6662.37s ( 0.12s): Jason Kelsey
+6662.37s - 6662.75s ( 0.39s): Travis Kelsey
+6662.75s - 6662.77s ( 0.02s): Jason Kelsey
+6662.99s - 6664.02s ( 1.03s): Travis Kelsey
+6665.18s - 6681.43s (16.25s): Taylor Swift
+6673.60s - 6674.41s ( 0.81s): Taylor Swift
+6679.86s - 6681.35s ( 1.48s): Taylor Swift
+6681.81s - 6688.25s ( 6.45s): Taylor Swift
+6685.10s - 6685.69s ( 0.59s): Taylor Swift
+6685.69s - 6685.77s ( 0.08s): Taylor Swift
+6686.61s - 6686.97s ( 0.35s): Taylor Swift
+6686.97s - 6687.04s ( 0.07s): Taylor Swift
+6687.04s - 6687.44s ( 0.40s): Travis Kelsey
+6687.44s - 6687.51s ( 0.07s): Jason Kelsey
+6688.29s - 6695.71s ( 7.43s): Taylor Swift
+6688.34s - 6688.37s ( 0.03s): Taylor Swift
+6688.37s - 6688.74s ( 0.37s): Travis Kelsey
+6688.74s - 6688.77s ( 0.03s): Jason Kelsey
+6695.71s - 6697.94s ( 2.23s): Travis Kelsey
+6697.01s - 6700.20s ( 3.19s): Taylor Swift
+6699.51s - 6701.50s ( 1.99s): Travis Kelsey
+6700.71s - 6709.09s ( 8.39s): Taylor Swift
+6703.41s - 6703.73s ( 0.32s): Travis Kelsey
+6705.84s - 6706.05s ( 0.22s): Travis Kelsey
+6706.05s - 6706.27s ( 0.22s): Jason Kelsey
+6706.27s - 6706.29s ( 0.02s): Travis Kelsey
+6708.03s - 6708.37s ( 0.34s): Jason Kelsey
+6709.53s - 6713.72s ( 4.19s): Jason Kelsey
+6714.34s - 6714.93s ( 0.59s): Taylor Swift
+6715.02s - 6718.85s ( 3.83s): Taylor Swift
+6715.32s - 6715.66s ( 0.34s): Jason Kelsey
+6719.12s - 6719.55s ( 0.44s): Taylor Swift
+6720.42s - 6728.04s ( 7.63s): Taylor Swift
+6728.57s - 6731.94s ( 3.38s): Taylor Swift
+6732.51s - 6736.35s ( 3.83s): Taylor Swift
+6736.40s - 6738.00s ( 1.60s): Taylor Swift
+6738.83s - 6741.64s ( 2.82s): Taylor Swift
+6742.35s - 6754.42s (12.07s): Taylor Swift
+6754.86s - 6761.15s ( 6.29s): Taylor Swift
+6761.46s - 6765.08s ( 3.63s): Taylor Swift
+6765.37s - 6767.87s ( 2.50s): Taylor Swift
+6766.89s - 6767.73s ( 0.84s): Taylor Swift
+6767.78s - 6768.15s ( 0.37s): Taylor Swift
+6768.19s - 6769.22s ( 1.03s): Taylor Swift
+6768.34s - 6769.99s ( 1.65s): Taylor Swift
+6770.57s - 6778.89s ( 8.32s): Taylor Swift
+6779.55s - 6781.81s ( 2.26s): Taylor Swift
+6781.17s - 6782.94s ( 1.77s): Travis Kelsey
+6782.58s - 6794.48s (11.90s): Taylor Swift
+6789.69s - 6790.67s ( 0.98s): Travis Kelsey
+6790.67s - 6790.75s ( 0.08s): Taylor Swift
+6794.77s - 6796.86s ( 2.09s): Taylor Swift
+6797.92s - 6799.04s ( 1.11s): Taylor Swift
+6799.04s - 6799.10s ( 0.07s): Taylor Swift
+6799.10s - 6808.06s ( 8.96s): Taylor Swift
+6808.38s - 6809.63s ( 1.25s): Taylor Swift
+6810.95s - 6811.17s ( 0.22s): Taylor Swift
+6811.81s - 6814.16s ( 2.35s): Travis Kelsey
+6812.40s - 6814.39s ( 1.99s): Taylor Swift
+6814.39s - 6815.03s ( 0.64s): Travis Kelsey
+6815.15s - 6820.42s ( 5.26s): Taylor Swift
+6820.57s - 6822.83s ( 2.26s): Taylor Swift
+6825.75s - 6829.28s ( 3.53s): Taylor Swift
+6829.65s - 6835.32s ( 5.67s): Taylor Swift
+6829.71s - 6829.75s ( 0.03s): Jason Kelsey
+6829.75s - 6829.82s ( 0.07s): Taylor Swift
+6829.82s - 6829.83s ( 0.02s): Jason Kelsey
+6835.89s - 6836.38s ( 0.49s): Jason Kelsey
+6836.68s - 6841.39s ( 4.71s): Taylor Swift
+6841.76s - 6851.45s ( 9.69s): Taylor Swift
+6844.26s - 6844.63s ( 0.37s): Jason Kelsey
+6851.82s - 6852.38s ( 0.56s): Taylor Swift
+6852.70s - 6867.41s (14.72s): Taylor Swift
+6854.34s - 6855.70s ( 1.37s): Jason Kelsey
+6859.89s - 6859.95s ( 0.07s): Jason Kelsey
+6859.95s - 6859.97s ( 0.02s): Taylor Swift
+6859.97s - 6861.36s ( 1.38s): Jason Kelsey
+6863.72s - 6864.11s ( 0.39s): Jason Kelsey
+6866.05s - 6867.72s ( 1.67s): Jason Kelsey
+6869.17s - 6869.44s ( 0.27s): Taylor Swift
+6870.92s - 6873.67s ( 2.75s): Travis Kelsey
+6872.02s - 6873.61s ( 1.59s): Jason Kelsey
+6875.06s - 6880.07s ( 5.01s): Jason Kelsey
+6880.07s - 6881.42s ( 1.35s): Taylor Swift
+6881.81s - 6882.42s ( 0.61s): Taylor Swift
+6883.04s - 6888.74s ( 5.70s): Taylor Swift
+6888.69s - 6889.25s ( 0.56s): Taylor Swift
+6889.40s - 6890.48s ( 1.08s): Taylor Swift
+6890.97s - 6894.77s ( 3.80s): Taylor Swift
+6894.43s - 6894.90s ( 0.47s): Taylor Swift
+6894.82s - 6899.49s ( 4.67s): Taylor Swift
+6899.78s - 6901.11s ( 1.33s): Taylor Swift
+6901.97s - 6916.38s (14.41s): Taylor Swift
+6905.40s - 6905.43s ( 0.03s): Taylor Swift
+6905.43s - 6905.80s ( 0.37s): Taylor Swift
+6905.80s - 6905.89s ( 0.08s): Taylor Swift
+6916.57s - 6918.53s ( 1.96s): Taylor Swift
+6917.58s - 6919.59s ( 2.01s): Travis Kelsey
+6919.20s - 6924.15s ( 4.94s): Taylor Swift
+6924.64s - 6925.14s ( 0.51s): Taylor Swift
+6925.70s - 6929.85s ( 4.15s): Taylor Swift
+6930.00s - 6930.66s ( 0.66s): Taylor Swift
+6932.28s - 6934.47s ( 2.19s): Taylor Swift
+6932.33s - 6936.01s ( 3.68s): Travis Kelsey
+6935.32s - 6936.42s ( 1.10s): Taylor Swift
+6937.24s - 6940.65s ( 3.41s): Taylor Swift
+6941.33s - 6945.38s ( 4.05s): Taylor Swift
+6947.11s - 6975.45s (28.33s): Taylor Swift
+6953.34s - 6956.23s ( 2.89s): Taylor Swift
+6975.45s - 6976.04s ( 0.59s): Jason Kelsey
+6977.13s - 6977.15s ( 0.02s): Taylor Swift
+6977.15s - 6979.68s ( 2.53s): Jason Kelsey
+6977.17s - 6978.43s ( 1.27s): Taylor Swift
+6978.96s - 6989.81s (10.85s): Taylor Swift
+6988.78s - 6989.40s ( 0.62s): Travis Kelsey
+6990.20s - 6990.79s ( 0.59s): Taylor Swift
+6990.79s - 6993.22s ( 2.43s): Travis Kelsey
+6993.03s - 6995.34s ( 2.31s): Taylor Swift
+6996.14s - 7009.94s (13.80s): Taylor Swift
+7008.29s - 7008.72s ( 0.44s): Jason Kelsey
+7010.40s - 7011.66s ( 1.27s): Taylor Swift
+7010.43s - 7014.63s ( 4.20s): Jason Kelsey
+7012.44s - 7013.38s ( 0.94s): Taylor Swift
+7013.38s - 7013.48s ( 0.10s): Taylor Swift
+7013.48s - 7013.52s ( 0.03s): Taylor Swift
+7013.52s - 7013.97s ( 0.46s): Taylor Swift
+7013.97s - 7014.39s ( 0.42s): Taylor Swift
+7016.28s - 7016.30s ( 0.02s): Jason Kelsey
+7016.30s - 7017.52s ( 1.22s): Taylor Swift
+7017.80s - 7021.06s ( 3.26s): Taylor Swift
+7021.47s - 7024.89s ( 3.43s): Jason Kelsey
+7025.41s - 7027.51s ( 2.09s): Jason Kelsey
+7027.95s - 7035.44s ( 7.49s): Jason Kelsey
+7029.28s - 7029.97s ( 0.69s): Taylor Swift
+7029.97s - 7029.99s ( 0.02s): Travis Kelsey
+7035.44s - 7035.47s ( 0.03s): Taylor Swift
+7036.65s - 7037.18s ( 0.52s): Taylor Swift
+7038.00s - 7039.57s ( 1.57s): Taylor Swift
+7041.24s - 7049.95s ( 8.71s): Taylor Swift
+7050.41s - 7053.98s ( 3.58s): Taylor Swift
+7054.14s - 7054.95s ( 0.81s): Taylor Swift
+7055.42s - 7059.03s ( 3.61s): Taylor Swift
+7059.67s - 7062.44s ( 2.77s): Taylor Swift
+7062.72s - 7066.15s ( 3.43s): Taylor Swift
+7066.57s - 7069.09s ( 2.51s): Taylor Swift
+7069.46s - 7069.54s ( 0.08s): Taylor Swift
+7069.83s - 7072.36s ( 2.53s): Taylor Swift
+7072.51s - 7076.70s ( 4.18s): Taylor Swift
+7077.27s - 7084.14s ( 6.87s): Taylor Swift
+7084.80s - 7085.69s ( 0.89s): Taylor Swift
+7085.88s - 7088.95s ( 3.07s): Taylor Swift
+7088.19s - 7088.22s ( 0.03s): Taylor Swift
+7088.22s - 7088.68s ( 0.46s): Taylor Swift
+7089.40s - 7090.77s ( 1.37s): Taylor Swift
+7091.26s - 7096.17s ( 4.91s): Taylor Swift
+7096.17s - 7096.27s ( 0.10s): Taylor Swift
+7096.61s - 7104.07s ( 7.46s): Taylor Swift
+7104.61s - 7104.91s ( 0.30s): Taylor Swift
+7104.73s - 7106.28s ( 1.55s): Taylor Swift
+7106.57s - 7107.16s ( 0.59s): Taylor Swift
+7107.39s - 7110.90s ( 3.51s): Taylor Swift
+7111.34s - 7111.90s ( 0.56s): Taylor Swift
+7112.24s - 7114.90s ( 2.67s): Taylor Swift
+7115.24s - 7116.42s ( 1.18s): Taylor Swift
+7116.96s - 7125.01s ( 8.05s): Taylor Swift
+7125.16s - 7126.58s ( 1.42s): Taylor Swift
+7126.75s - 7128.06s ( 1.32s): Jason Kelsey
+7128.06s - 7132.67s ( 4.61s): Taylor Swift
+7133.16s - 7142.70s ( 9.53s): Taylor Swift
+7133.33s - 7133.97s ( 0.64s): Jason Kelsey
+7133.97s - 7134.70s ( 0.73s): Taylor Swift
+7135.51s - 7135.52s ( 0.02s): Jason Kelsey
+7135.52s - 7135.57s ( 0.05s): Taylor Swift
+7135.57s - 7136.37s ( 0.79s): Travis Kelsey
+7141.02s - 7145.63s ( 4.61s): Travis Kelsey
+7145.67s - 7147.34s ( 1.67s): Taylor Swift
+7145.82s - 7147.59s ( 1.77s): Jason Kelsey
+7148.06s - 7149.34s ( 1.28s): Taylor Swift
+7148.92s - 7152.35s ( 3.43s): Jason Kelsey
+7152.35s - 7156.33s ( 3.98s): Taylor Swift
+7152.38s - 7152.87s ( 0.49s): Jason Kelsey
+7156.60s - 7162.29s ( 5.69s): Taylor Swift
+7162.95s - 7166.22s ( 3.27s): Taylor Swift
+7166.64s - 7168.29s ( 1.65s): Taylor Swift
+7168.48s - 7170.71s ( 2.23s): Travis Kelsey
+7168.87s - 7169.32s ( 0.46s): Taylor Swift
+7170.25s - 7170.27s ( 0.02s): Taylor Swift
+7170.27s - 7170.30s ( 0.03s): Taylor Swift
+7170.30s - 7172.43s ( 2.13s): Jason Kelsey
+7170.71s - 7172.36s ( 1.65s): Taylor Swift
+7172.43s - 7172.53s ( 0.10s): Taylor Swift
+7173.81s - 7174.64s ( 0.83s): Taylor Swift
+7175.28s - 7187.57s (12.28s): Jason Kelsey
+7186.20s - 7186.49s ( 0.29s): Taylor Swift
+7186.49s - 7186.60s ( 0.12s): Taylor Swift
+7186.60s - 7186.64s ( 0.03s): Taylor Swift
+7186.64s - 7187.16s ( 0.52s): Taylor Swift
+7187.16s - 7187.19s ( 0.03s): Taylor Swift
+7187.72s - 7192.81s ( 5.10s): Taylor Swift
+7191.70s - 7191.90s ( 0.20s): Travis Kelsey
+7192.04s - 7193.67s ( 1.64s): Travis Kelsey
+7193.67s - 7197.88s ( 4.20s): Taylor Swift
+7198.33s - 7200.24s ( 1.91s): Taylor Swift
+7198.43s - 7199.06s ( 0.62s): Taylor Swift
+7199.45s - 7201.18s ( 1.74s): Travis Kelsey
+7201.56s - 7201.57s ( 0.02s): Taylor Swift
+7201.57s - 7201.64s ( 0.07s): Jason Kelsey
+7201.64s - 7201.88s ( 0.24s): Taylor Swift
+7201.88s - 7202.15s ( 0.27s): Jason Kelsey
+7202.15s - 7207.97s ( 5.82s): Taylor Swift
+7202.37s - 7202.43s ( 0.07s): Jason Kelsey
+7203.04s - 7205.00s ( 1.96s): Travis Kelsey
+7207.97s - 7210.11s ( 2.14s): Travis Kelsey
+7210.08s - 7213.96s ( 3.88s): Taylor Swift
+7212.05s - 7212.36s ( 0.30s): Jason Kelsey
+7213.01s - 7213.79s ( 0.78s): Jason Kelsey
+7214.80s - 7217.60s ( 2.80s): Taylor Swift
+7217.97s - 7218.35s ( 0.37s): Taylor Swift
+7218.03s - 7219.44s ( 1.42s): Jason Kelsey
+7218.53s - 7219.73s ( 1.20s): Taylor Swift
+7220.15s - 7232.22s (12.07s): Jason Kelsey
+7225.06s - 7225.64s ( 0.57s): Taylor Swift
+7227.61s - 7227.64s ( 0.03s): Taylor Swift
+7227.64s - 7227.71s ( 0.07s): Taylor Swift
+7227.71s - 7227.76s ( 0.05s): Travis Kelsey
+7227.76s - 7227.83s ( 0.07s): Taylor Swift
+7227.83s - 7228.59s ( 0.76s): Travis Kelsey
+7232.39s - 7238.90s ( 6.51s): Jason Kelsey
+7235.25s - 7235.44s ( 0.19s): Taylor Swift
+7236.35s - 7237.36s ( 1.01s): Taylor Swift
+7238.04s - 7238.73s ( 0.69s): Taylor Swift
+7239.44s - 7241.28s ( 1.84s): Jason Kelsey
+7240.45s - 7242.17s ( 1.72s): Taylor Swift
+7241.62s - 7242.22s ( 0.61s): Jason Kelsey
+7242.51s - 7247.30s ( 4.79s): Jason Kelsey
+7246.24s - 7246.88s ( 0.64s): Taylor Swift
+7246.88s - 7248.40s ( 1.52s): Travis Kelsey
+7248.40s - 7249.18s ( 0.78s): Jason Kelsey
+7248.43s - 7248.96s ( 0.52s): Travis Kelsey
+7249.51s - 7254.39s ( 4.88s): Jason Kelsey
+7249.72s - 7249.99s ( 0.27s): Travis Kelsey
+7251.37s - 7251.76s ( 0.39s): Travis Kelsey
+7251.76s - 7251.84s ( 0.08s): Taylor Swift
+7251.84s - 7251.91s ( 0.07s): Travis Kelsey
+7251.91s - 7252.03s ( 0.12s): Taylor Swift
+7252.03s - 7252.42s ( 0.39s): Travis Kelsey
+7252.99s - 7253.02s ( 0.03s): Taylor Swift
+7253.02s - 7253.36s ( 0.34s): Travis Kelsey
+7254.42s - 7262.69s ( 8.27s): Jason Kelsey
+7263.15s - 7265.95s ( 2.80s): Jason Kelsey
+7266.10s - 7272.23s ( 6.13s): Taylor Swift
+7270.46s - 7271.49s ( 1.03s): Jason Kelsey
+7272.50s - 7274.13s ( 1.64s): Taylor Swift
+7274.57s - 7275.97s ( 1.40s): Taylor Swift
+7274.59s - 7276.80s ( 2.21s): Jason Kelsey
+7277.04s - 7278.13s ( 1.10s): Jason Kelsey
+7277.09s - 7282.29s ( 5.20s): Taylor Swift
+7282.37s - 7282.89s ( 0.52s): Jason Kelsey
+7283.06s - 7283.08s ( 0.02s): Jason Kelsey
+7283.08s - 7284.09s ( 1.01s): Taylor Swift
+7283.16s - 7283.48s ( 0.32s): Jason Kelsey
+7284.09s - 7284.95s ( 0.86s): Jason Kelsey
+7284.55s - 7285.98s ( 1.43s): Taylor Swift
+7286.86s - 7288.39s ( 1.54s): Jason Kelsey
+7287.45s - 7288.36s ( 0.91s): Taylor Swift
+7289.49s - 7291.62s ( 2.13s): Taylor Swift
+7291.74s - 7291.75s ( 0.02s): Taylor Swift
+7291.75s - 7293.59s ( 1.84s): Jason Kelsey
+7292.70s - 7294.22s ( 1.52s): Taylor Swift
+7294.22s - 7294.23s ( 0.02s): Jason Kelsey
+7294.47s - 7295.31s ( 0.84s): Taylor Swift
+7295.31s - 7299.03s ( 3.71s): Jason Kelsey
+7295.40s - 7295.89s ( 0.49s): Taylor Swift
+7301.84s - 7309.12s ( 7.27s): Jason Kelsey
+7309.20s - 7310.99s ( 1.79s): Jason Kelsey
+7311.33s - 7315.83s ( 4.51s): Jason Kelsey
+7316.41s - 7318.14s ( 1.74s): Jason Kelsey
+7316.66s - 7319.43s ( 2.77s): Taylor Swift
+7318.14s - 7318.62s ( 0.47s): Travis Kelsey
+7318.62s - 7318.72s ( 0.10s): Jason Kelsey
+7318.72s - 7318.79s ( 0.07s): Travis Kelsey
+7318.79s - 7318.80s ( 0.02s): Jason Kelsey
+7318.80s - 7318.94s ( 0.14s): Travis Kelsey
+7318.94s - 7318.97s ( 0.03s): Jason Kelsey
+7318.97s - 7319.04s ( 0.07s): Travis Kelsey
+7319.04s - 7319.14s ( 0.10s): Jason Kelsey
+7319.14s - 7319.17s ( 0.03s): Travis Kelsey
+7319.17s - 7320.02s ( 0.84s): Jason Kelsey
+7319.43s - 7319.51s ( 0.08s): Travis Kelsey
+7319.51s - 7322.03s ( 2.51s): Taylor Swift
+7321.08s - 7321.23s ( 0.15s): Jason Kelsey
+7321.23s - 7322.21s ( 0.98s): Travis Kelsey
+7322.03s - 7322.08s ( 0.05s): Jason Kelsey
+7322.08s - 7322.14s ( 0.07s): Taylor Swift
+7322.21s - 7322.23s ( 0.02s): Taylor Swift
+7322.23s - 7322.25s ( 0.02s): Travis Kelsey
+7323.19s - 7325.37s ( 2.18s): Travis Kelsey
+7325.13s - 7326.01s ( 0.88s): Jason Kelsey
+7326.30s - 7334.68s ( 8.39s): Jason Kelsey
+7335.90s - 7357.97s (22.07s): Jason Kelsey
+7357.97s - 7372.68s (14.72s): Travis Kelsey
+7371.69s - 7375.10s ( 3.41s): Taylor Swift
+7373.16s - 7377.19s ( 4.03s): Travis Kelsey
+7377.60s - 7377.61s ( 0.02s): Taylor Swift
+7377.61s - 7378.41s ( 0.79s): Travis Kelsey
+7387.60s - 7389.24s ( 1.64s): Jason Kelsey
+7389.24s - 7389.26s ( 0.02s): Taylor Swift
+7389.26s - 7391.15s ( 1.89s): Taylor Swift
+7389.59s - 7391.31s ( 1.72s): Jason Kelsey
+7391.84s - 7392.29s ( 0.46s): Taylor Swift
+7394.05s - 7396.73s ( 2.68s): Taylor Swift
+7396.83s - 7398.54s ( 1.70s): Taylor Swift
+7397.47s - 7397.49s ( 0.02s): Taylor Swift
+7397.49s - 7398.13s ( 0.64s): Jason Kelsey
+7398.13s - 7398.17s ( 0.03s): Taylor Swift
+7400.66s - 7402.89s ( 2.23s): Taylor Swift
+7403.23s - 7404.34s ( 1.11s): Taylor Swift
+7405.73s - 7420.27s (14.55s): Taylor Swift
+7406.57s - 7407.06s ( 0.49s): Taylor Swift
+7411.75s - 7412.04s ( 0.29s): Taylor Swift
+7415.95s - 7416.91s ( 0.96s): Jason Kelsey

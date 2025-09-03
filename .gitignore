@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+.venv
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files
+*.mp4
+*.mp3
+*.wav
+audio/
+
+# Model weights (если не хотите делиться)
+# *.pth
+
+# Environment
+.env
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
